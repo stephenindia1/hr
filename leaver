@@ -1,0 +1,39 @@
+SELECT 
+
+emp_id, 
+emp_name, 
+emp_gdu, 
+emp_group,
+emp_dept,
+emp_unit,
+emp_fte,
+emp_position,
+emp_grade,
+emp_gender,
+emp_bbos,
+emp_kwtnk,
+emp_nationality,
+emp_nationalitygrouping,
+emp_dob,
+emp_doe,
+emp_resigtermin_requestid,
+emp_lwd,
+  CASE
+    WHEN strftime('%m', emp_lwd) = (strftime('%m', date(emp_lwd, '+1 day'))) THEN emp_lwd
+    ELSE date(emp_lwd, '+1 day') END 
+  as emp_leaver,
+emp_lsd_wnotice,
+emp_plannedreleival,
+emp_requesteddate,
+emp_lwd_noticeperiod,
+emp_termindate,
+emp_vol_invol,
+emp_reg_notreg,
+emp_resigtermin_status,
+emp_resigtermin_reason,
+emp_ref_note,
+emp_source
+
+FROM
+
+emp
