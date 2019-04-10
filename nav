@@ -1,0 +1,118 @@
+           <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3>Corporate<hr>HRD Reporting</h3>
+                    <strong>Corp<hr>HR</strong>
+                </div>
+
+                <ul class="list-unstyled components">
+                    <li class="active">
+                        <a href="index.php">
+                            <i class="glyphicon glyphicon-home"></i>
+                            Dashboard
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">
+                            <i class="  glyphicon glyphicon-list"></i>
+                            Main Reports
+                        </a>
+                        <ul class="collapse list-unstyled" id="homeSubmenu">
+                            <li><a href="index.php">Year to Date</a></li>
+                            <li><a href="index_mtd.php">Month to Date</a></li>
+                            <li><a href="#">Current Month</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#compSubmenu" data-toggle="collapse" aria-expanded="false">
+                            <i class="glyphicon glyphicon-adjust"></i>
+                            Comp Reports
+                        </a>
+                        <ul class="collapse list-unstyled" id="compSubmenu">
+                            <li><a href="compytd.php">Leaver - Joiner Comp</a></li>
+                            <li><a href="compmtd.php">HeadCount Comp</a></li>
+                            <li><a href="comp.php">KWT% Comp</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#compSubmenu1" data-toggle="collapse" aria-expanded="false">
+                            <i class="glyphicon glyphicon-sunglasses"></i>
+                            Age / Expr > Gender 
+                        </a>
+                        <ul class="collapse list-unstyled" id="compSubmenu1">
+                            <li><a href="comp_age_expr.php">Age - Expr</a></li>
+                            <li><a href="compytd.php">Age - Expr Exit</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-screenshot"></i>
+                            Attrition / Turnover
+                        </a>
+                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">
+                            <i class="glyphicon glyphicon-leaf"></i>
+                            Kuwaitization
+                        </a>
+                        <ul class="collapse list-unstyled" id="pageSubmenu">
+                            <li><a href="#">BB + OS</a></li>
+                            <li><a href="#">BB</a></li>
+                            <li><a href="#">Group - Level</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#trainSubmenu" data-toggle="collapse" aria-expanded="false">
+                            <i class="glyphicon glyphicon-education"></i>
+                            Training & Dev
+                        </a>
+                        <ul class="collapse list-unstyled" id="trainSubmenu">
+                            <li><a href="td.php">Training Dashboard</a></li>
+                            <li><a href="calendar1.pdf" target="_blank">Training Calendar</a></li>
+                            <li><a href="prio1.php">Priority #1</a></li>
+                            <li><a href="#">Compliance</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-link"></i>
+                            Org Development
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#monthly" data-toggle="collapse" aria-expanded="false">
+                            <i class="glyphicon glyphicon-education"></i>
+                            HR Report
+                        </a>
+                        <ul class="collapse list-unstyled" id="monthly">
+                            <li><a href="monthly.php">Monthly Report</a></li>
+                            <li><a href="1index.php">Encryption Test</a></li>
+                            <li><a href="2index.php">Mapping Test</a></li>
+                            <li><a href="tcpdf_test.php" target="_blank">PDF Test</a></li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="list-unstyled CTAs">
+                    <li><a href="docs/help.pdf" TARGET="_blank" class="download">Documentation</a></li>
+                   <!--  <li><a href="../index.php" class="article">Back to Launch</a></li> -->
+                </ul>
+            </nav>
+
+            <!-- Page Content Holder -->
+            <div id="content">
+
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+
+                        <div class="navbar-header">
+                            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                                <i class="glyphicon glyphicon-align-left"></i>
+                                <span><font size="2">Toggle Menu</font></span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><strong><font size="1" color="#2E86C1">Logout </font><a href="../index.php"><font size="3" color="#F44336"><i class="glyphicon glyphicon-off"></i></font></a></strong></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
