@@ -1,0 +1,1247 @@
+id,name,gdu,group,dept,unit,position,grade,gender,status,expat_or,nationality,dob,doe,lwd,vol_invol,exit_reason,reason,source
+2139,User - 2139,15007,CEO,CEO Dept 3,Unit 7,Position 82,8,Male,Permanent,US National,USA,1989-03-16,2017-07-09,,,,,Agency
+2197,User - 2197,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 23,9,Male,Permanent,US National,USA,1994-05-20,2017-10-15,2017-10-03,Voluntary,Early Exit,resigned,Direct
+2083,User - 2083,15084,Private Franchisee,Framchisee 3,Unit 84,Position 121,6,Female,Permanent,US National,USA,1985-10-11,2017-03-05,2017-11-08,Voluntary,Better opportunity,resigned,Direct
+2200,User - 2200,15060,HR Group,HR Dept 2,Unit 60,Position 27,11,Female,Permanent,Expat,PHL,1971-05-25,2017-10-22,,,,,Direct
+2190,User - 2190,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 71,6,Male,Permanent,US National,USA,1994-10-29,2017-10-16,,,,,Direct
+2205,User - 2205,15001,Board & Directors,Board Dept 1,Unit 1,Position 25,8,Male,Permanent,US National,USA,1986-11-16,2017-11-05,,,,,Direct
+2203,User - 2203,15003,Board & Directors,Board Dept 3,Unit 3,Position 12,12,Male,Permanent,US National,USA,1955-10-02,2017-11-01,,,,,Direct
+2194,User - 2194,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 31,6,Female,Permanent,US National,USA,1990-08-27,2017-10-15,,,,,Direct
+2195,User - 2195,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 117,6,Female,Permanent,US National,USA,1990-06-20,2017-10-16,,,,,Direct
+2207,User - 2207,15080,Planning Group,Planning Dept 2,Unit 80,Position 69,9,Female,Permanent,US National,USA,1988-01-27,2017-11-08,,,,,Direct
+2201,User - 2201,15001,Board & Directors,Board Dept 1,Unit 1,Position 70,11,Female,Permanent,US National,USA,1985-08-05,2017-10-22,,,,,Direct
+2175,User - 2175,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 5,8,Female,Outsourced,Expat,USA,1988-05-14,2017-10-08,,,,,Direct
+2229,User - 2229,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 117,6,Male,Permanent,US National,USA,1991-01-26,2017-12-17,2018-07-05,Voluntary,Moved Far from Office,resigned,Direct
+2233,User - 2233,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 58,6,Female,Permanent,US National,USA,1995-08-09,2017-12-17,2018-11-21,Voluntary,Better opportunity,resigned,Direct
+2232,User - 2232,15118,Retail Fashion,Retail Brand 5,Unit 118,Position 22,6,Male,Permanent,US National,USA,1994-01-29,2017-12-17,,,,,Direct
+2231,User - 2231,15092,Retail Fashion,Retail Brand 1,Unit 92,Position 76,6,Female,Permanent,US National,USA,1994-03-15,2017-12-17,,,,,Direct
+2234,User - 2234,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 56,6,Female,Permanent,US National,USA,1990-11-06,2017-12-17,,,,,Direct
+2214,User - 2214,15080,Planning Group,Planning Dept 2,Unit 80,Position 25,7,Male,Permanent,US National,USA,1989-08-08,2017-12-10,2018-11-08,Voluntary,Performance Issue,resigned,Direct
+2192,User - 2192,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 57,6,Male,Permanent,US National,USA,1992-01-12,2017-10-15,2018-02-28,Voluntary,Early Exit,resigned,Training Academy
+2187,User - 2187,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 36,6,Male,Permanent,US National,USA,1992-07-12,2017-10-15,2018-06-27,Voluntary,Govt Job,resigned,Training Academy
+2199,User - 2199,15038,Finance Group,Finance Dept 5,Unit 38,Position 46,7,Female,Outsourced,Expat,CAN,1981-08-10,2017-10-15,,,,,Training Academy
+2198,User - 2198,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 58,8,Female,Permanent,Expat,RUS,1989-07-02,2017-10-15,,,,,Training Academy
+2177,User - 2177,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 76,6,Male,Permanent,US National,USA,1992-10-04,2017-10-15,,,,,Training Academy
+2179,User - 2179,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 86,6,Male,Permanent,US National,USA,1990-08-13,2017-10-15,,,,,Training Academy
+2180,User - 2180,15038,Finance Group,Finance Dept 5,Unit 38,Position 53,6,Male,Permanent,US National,USA,1993-04-07,2017-10-15,,,,,Training Academy
+2181,User - 2181,15099,Retail Fashion,Retail Brand 3,Unit 99,Position 57,6,Male,Permanent,US National,USA,1993-04-11,2017-10-15,,,,,Training Academy
+2182,User - 2182,15038,Finance Group,Finance Dept 5,Unit 38,Position 58,6,Male,Permanent,US National,USA,1993-05-30,2017-10-15,,,,,Training Academy
+2183,User - 2183,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 123,6,Male,Permanent,US National,USA,1994-03-24,2017-10-15,,,,,Training Academy
+2184,User - 2184,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 94,6,Male,Permanent,US National,USA,1992-07-21,2017-10-15,,,,,Training Academy
+2188,User - 2188,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 20,6,Male,Permanent,US National,USA,1993-04-12,2017-10-15,,,,,Training Academy
+2189,User - 2189,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 44,6,Male,Permanent,US National,USA,1995-03-01,2017-10-15,,,,,Training Academy
+2196,User - 2196,15066,Investment Group,Investment Dept 2,Unit 66,Position 38,10,Male,Permanent,US National,USA,1988-02-25,2017-10-15,,,,,Training Academy
+2178,User - 2178,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 61,6,Female,Permanent,US National,USA,1994-01-18,2017-10-15,,,,,Training Academy
+2185,User - 2185,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 123,6,Female,Permanent,US National,USA,1995-08-30,2017-10-15,,,,,Training Academy
+2186,User - 2186,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 52,6,Female,Permanent,US National,USA,1993-12-06,2017-10-15,,,,,Training Academy
+2193,User - 2193,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 76,6,Female,Permanent,US National,USA,1993-11-14,2017-10-15,,,,,Training Academy
+2176,User - 2176,15192,Retail Operations,Operations Dept 3,Unit 192,Position 98,8,Male,Outsourced,Expat,CAN,1987-01-16,2017-10-10,2018-02-19,Voluntary,Family Reason,resigned,Job Portal
+2202,User - 2202,15055,HR Group,HR Dept 2,Unit 55,Position 46,6,Male,Outsourced,Expat,PHL,1990-02-04,2017-10-22,,,,,Job Portal
+2206,User - 2206,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 49,10,Female,Permanent,US National,USA,1987-08-15,2017-11-08,,,,,Job Portal
+2236,User - 2236,15189,Retail Operations,Operations Dept 3,Unit 189,Position 12,8,Female,Outsourced,Expat,CAN,1980-06-10,2017-12-18,,,,,Job Portal
+2237,User - 2237,15058,HR Group,HR Dept 2,Unit 58,Position 45,9,Male,Permanent,US National,USA,1983-01-04,2017-12-19,,,,,Job Portal
+2212,User - 2212,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 150,7,Male,Outsourced,Expat,IRE,1991-09-16,2017-12-03,,,,,Job Portal
+2221,User - 2221,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 76,6,Male,Permanent,US National,USA,1994-07-17,2017-12-17,2018-02-13,Voluntary,Other,resigned,LinkedIn
+2220,User - 2220,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 78,6,Female,Permanent,US National,USA,1993-04-15,2017-12-17,2018-03-03,Voluntary,Family Reason,resigned,LinkedIn
+2215,User - 2215,15038,Finance Group,Finance Dept 5,Unit 38,Position 114,6,Male,Permanent,US National,USA,1994-10-01,2017-12-17,,,,,LinkedIn
+2230,User - 2230,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 130,6,Male,Permanent,US National,USA,1992-06-01,2017-12-17,,,,,LinkedIn
+2216,User - 2216,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 17,6,Male,Permanent,US National,USA,1994-12-02,2017-12-17,,,,,LinkedIn
+2217,User - 2217,15109,Retail Fashion,Retail Brand 3,Unit 109,Position 101,6,Male,Permanent,US National,USA,1994-12-02,2017-12-17,,,,,LinkedIn
+2224,User - 2224,15107,Retail Fashion,Retail Brand 3,Unit 107,Position 1,6,Male,Permanent,US National,USA,1994-04-29,2017-12-17,,,,,LinkedIn
+2225,User - 2225,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 149,6,Male,Permanent,US National,USA,1995-03-28,2017-12-17,,,,,LinkedIn
+2226,User - 2226,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 50,6,Male,Permanent,US National,USA,1993-03-02,2017-12-17,,,,,LinkedIn
+2235,User - 2235,15038,Finance Group,Finance Dept 5,Unit 38,Position 130,6,Male,Permanent,US National,USA,1993-11-09,2017-12-17,,,,,LinkedIn
+2218,User - 2218,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 33,6,Female,Permanent,US National,USA,1993-06-12,2017-12-17,,,,,LinkedIn
+2223,User - 2223,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 106,6,Female,Permanent,US National,USA,1992-04-12,2017-12-17,,,,,LinkedIn
+2227,User - 2227,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 47,6,Female,Permanent,US National,USA,1994-06-14,2017-12-17,,,,,LinkedIn
+2228,User - 2228,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 44,6,Female,Permanent,US National,USA,1995-04-29,2017-12-17,,,,,LinkedIn
+2213,User - 2213,15084,Private Franchisee,Framchisee 3,Unit 84,Position 100,8,Female,Permanent,US National,USA,1993-02-04,2017-12-10,,,,,Referral
+2204,User - 2204,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 64,9,Female,Permanent,US National,USA,1978-02-11,2017-11-05,,,,,Referral
+2210,User - 2210,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 133,9,Female,Permanent,US National,USA,1995-07-16,2017-12-03,,,,,Referral
+2219,User - 2219,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 129,6,Male,Permanent,US National,USA,1994-04-20,2017-12-17,,,,,Universities
+2222,User - 2222,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 80,6,Male,Permanent,US National,USA,1994-02-16,2017-12-17,,,,,Universities
+2211,User - 2211,15078,Planning Group,Planning Dept 2,Unit 78,Position 143,10,Female,Permanent,US National,USA,1993-09-30,2017-12-03,,,,,Universities
+1162,User - 1162,15127,Retail Fashion,Retail Brand 7,Unit 127,Position 66,9,Male,Permanent,US National,USA,1978-09-21,2004-06-20,2016-01-08,Voluntary,Other,resigned,Referral
+1274,User - 1274,15124,Retail Fashion,Retail Brand 6,Unit 124,Position 22,16,Female,Permanent,US National,USA,1986-04-09,2007-05-06,2016-01-09,Voluntary,Other,resigned,Referral
+1797,User - 1797,15157,Retail Fashion,Retail Brand 13,Unit 157,Position 82,6,Female,Permanent,Expat,PRC,1986-01-03,2015-05-11,2016-01-12,Involuntary,Termination,termination,Universities
+1710,User - 1710,15080,Planning Group,Planning Dept 2,Unit 80,Position 75,7,Male,Permanent,US National,USA,1983-09-22,2014-07-15,2016-01-15,Voluntary,Team Issue,resigned,Referral
+1875,User - 1875,15124,Retail Fashion,Retail Brand 6,Unit 124,Position 92,7,Male,Permanent,US National,USA,1987-11-20,2016-01-03,2016-01-17,Voluntary,Better opportunity,resigned,Referral
+1470,User - 1470,15104,Retail Fashion,Retail Brand 3,Unit 104,Position 122,8,Male,Permanent,US National,USA,1990-01-08,2011-06-26,2016-01-18,Voluntary,Other,resigned,Training Academy
+1484,User - 1484,15177,Retail Fashion,Retail Brand 14,Unit 177,Position 22,8,Female,Permanent,US National,USA,1990-11-17,2011-09-26,2016-01-19,Voluntary,Moved Far from Office,resigned,Job Portal
+1817,User - 1817,15198,Risk Group,Risk Department,Unit 198,Position 131,8,Female,Permanent,US National,USA,1984-04-29,2015-08-31,2016-01-23,Involuntary,Termination,resigned,Agency
+1104,User - 1104,15163,Retail Fashion,Retail Brand 13,Unit 163,Position 95,11,Female,Permanent,US National,USA,1977-01-07,2000-05-22,2016-01-26,Voluntary,Better opportunity,resigned,Referral
+1570,User - 1570,15170,Retail Fashion,Retail Brand 13,Unit 170,Position 11,7,Female,Permanent,US National,USA,1991-02-01,2012-11-04,2016-01-31,Involuntary,Change of profession,resigned,Referral
+1277,User - 1277,15150,Retail Fashion,Retail Brand 13,Unit 150,Position 95,8,Male,Permanent,US National,USA,1988-03-14,2007-05-06,2016-01-31,Voluntary,Timing,resigned,Universities
+1642,User - 1642,15124,Retail Fashion,Retail Brand 6,Unit 124,Position 33,7,Male,Permanent,US National,USA,1989-09-01,2013-10-20,2016-02-05,Voluntary,Better opportunity,resigned,Universities
+1036,User - 1036,15074,Planning Group,Planning Dept 1,Unit 74,Position 147,10,Female,Permanent,Expat,IND,1956-04-12,1993-08-25,2016-02-05,Voluntary,Moved Far from Office,resigned,Job Portal
+1759,User - 1759,15199,Risk Group,Risk Department,Unit 199,Position 73,11,Female,Permanent,Expat,IND,1980-03-18,2014-12-27,2016-02-05,Voluntary,Moved Far from Office,resigned,LinkedIn
+1777,User - 1777,15124,Retail Fashion,Retail Brand 6,Unit 124,Position 64,7,Male,Permanent,US National,USA,1989-06-04,2015-04-11,2016-02-05,Voluntary,Other,resigned,Direct
+1609,User - 1609,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 47,9,Male,Permanent,US National,USA,1984-04-14,2013-04-14,2016-02-08,Voluntary,Better opportunity,resigned,Referral
+1589,User - 1589,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 105,9,Female,Permanent,US National,USA,1984-09-03,2013-02-17,2016-02-19,Voluntary,Better opportunity,resigned,Training Academy
+1228,User - 1228,15117,Retail Fashion,Retail Brand 5,Unit 117,Position 44,10,Male,Permanent,Expat,CAN,1980-06-03,2006-02-12,2016-02-19,Voluntary,Other,resigned,Direct
+2242,User - 2242,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 56,12,Female,Outsourced,Expat,GBR,1967-11-09,2015-10-31,2016-02-19,Involuntary,Timing,resigned,LinkedIn
+1712,User - 1712,15066,Investment Group,Investment Dept 2,Unit 66,Position 148,7,Male,Permanent,US National,USA,1988-01-20,2014-07-19,2016-02-20,Voluntary,Better opportunity,resigned,Direct
+1832,User - 1832,15124,Retail Fashion,Retail Brand 6,Unit 124,Position 36,6,Female,Permanent,US National,USA,1988-02-10,2015-10-11,2016-02-23,Voluntary,Other,resigned,Job Portal
+1385,User - 1385,15093,Retail Fashion,Retail Brand 1,Unit 93,Position 31,8,Female,Permanent,US National,USA,1987-08-20,2009-08-16,2016-02-29,Voluntary,Better opportunity,resigned,Referral
+1633,User - 1633,15111,Retail Fashion,Retail Brand 3,Unit 111,Position 101,6,Male,Permanent,US National,USA,1990-09-17,2013-09-10,2016-02-29,Voluntary,Other,resigned,LinkedIn
+2240,User - 2240,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 120,7,Male,Outsourced,Expat,CAN,1991-12-29,2015-08-03,2016-02-29,Involuntary,Timing,resigned,LinkedIn
+2241,User - 2241,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 117,13,Female,Outsourced,Expat,IND,1987-06-02,2015-10-26,2016-02-29,Involuntary,Timing,resigned,Referral
+1362,User - 1362,15080,Planning Group,Planning Dept 2,Unit 80,Position 43,10,Male,Outsourced,Expat,IND,1975-07-05,2009-03-15,2016-03-05,Voluntary,Better opportunity,resigned,Agency
+1716,User - 1716,15049,Finance Group,Finance Dept 7,Unit 49,Position 88,9,Male,Permanent,US National,USA,1984-10-20,2014-08-16,2016-03-05,Voluntary,Better opportunity,resigned,Universities
+1587,User - 1587,15084,Private Franchisee,Framchisee 3,Unit 84,Position 64,8,Female,Permanent,US National,USA,1991-07-23,2013-02-17,2016-03-05,Voluntary,Team Issue,resigned,Agency
+1078,User - 1078,15058,HR Group,HR Dept 2,Unit 58,Position 25,10,Male,Permanent,Expat,POL,1975-11-15,1999-06-08,2016-03-05,Voluntary,Moved Far from Office,resigned,Referral
+1729,User - 1729,15090,Retail Fashion,Retail Brand 1,Unit 90,Position 82,6,Male,Permanent,US National,USA,1992-05-20,2014-09-20,2016-03-08,Voluntary,Team Issue,resigned,Agency
+1455,User - 1455,15084,Private Franchisee,Framchisee 3,Unit 84,Position 60,6,Female,Outsourced,Expat,IND,1970-05-25,2011-04-04,2016-03-08,Voluntary,Other,resigned,Job Portal
+1529,User - 1529,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 109,11,Female,Permanent,Expat,PHL,1981-09-18,2012-06-03,2016-03-11,Voluntary,Other,resigned,Direct
+1374,User - 1374,15221,Technology Group,Technology Software Dept,Unit 221,Position 77,9,Female,Permanent,US National,USA,1980-12-25,2009-06-01,2016-03-15,Voluntary,Terminated,resigned,Universities
+1396,User - 1396,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 100,9,Female,Permanent,US National,USA,1983-12-12,2009-10-04,2016-03-18,Voluntary,Better opportunity,resigned,Job Portal
+1316,User - 1316,15028,Finance Group,Finance Dept 4,Unit 28,Position 55,12,Male,Permanent,Expat,PHL,1969-09-05,2008-05-18,2016-03-18,Voluntary,Other,resigned,LinkedIn
+1595,User - 1595,15117,Retail Fashion,Retail Brand 5,Unit 117,Position 121,6,Male,Permanent,US National,USA,1986-12-09,2013-04-01,2016-03-21,Involuntary,Termination,termination,Universities
+1129,User - 1129,15200,Risk Group,Risk Department,Unit 200,Position 41,11,Male,Permanent,Expat,PHL,1976-12-20,2002-03-10,2016-03-22,Voluntary,Better opportunity,resigned,LinkedIn
+1440,User - 1440,15066,Investment Group,Investment Dept 2,Unit 66,Position 135,11,Male,Permanent,US National,USA,1983-08-04,2011-01-16,2016-03-22,Voluntary,Better opportunity,resigned,LinkedIn
+1127,User - 1127,15218,Technology Group,Technology Software Dept,Unit 218,Position 121,6,Male,Outsourced,Expat,RUS,1957-01-01,2001-08-15,2016-03-22,Involuntary,Change of profession,resigned,Training Academy
+1854,User - 1854,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 125,9,Female,Outsourced,Expat,ITA,1988-03-01,2015-12-05,2016-03-25,Voluntary,Other,resigned,LinkedIn
+1687,User - 1687,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 26,7,Male,Permanent,US National,USA,1976-12-29,2014-04-13,2016-03-29,Voluntary,Other,resigned,LinkedIn
+1684,User - 1684,15124,Retail Fashion,Retail Brand 6,Unit 124,Position 141,8,Male,Permanent,US National,USA,1976-10-27,2014-04-08,2016-04-05,Voluntary,Better opportunity,resigned,Direct
+1645,User - 1645,15085,Private Franchisee,Framchisee 3,Unit 85,Position 67,8,Female,Permanent,Expat,CAN,1983-12-08,2013-11-03,2016-04-05,Voluntary,Team Issue,resigned,Direct
+1616,User - 1616,15201,Risk Group,Risk Department,Unit 201,Position 53,14,Female,Permanent,Expat,IND,1963-11-15,2013-05-12,2016-04-05,Voluntary,Other,resigned,Training Academy
+1736,User - 1736,15002,Board & Directors,Board Dept 2,Unit 2,Position 111,11,Male,Permanent,US National,USA,1985-01-25,2014-10-11,2016-04-05,Voluntary,Other,resigned,Universities
+2238,User - 2238,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 122,12,Male,Permanent,Expat,CAN,1967-03-02,2015-10-17,2016-04-05,Voluntary,Timing,resigned,LinkedIn
+1899,User - 1899,15079,Planning Group,Planning Dept 2,Unit 79,Position 31,7,Female,Permanent,US National,USA,1991-09-02,2016-03-12,2016-04-09,Voluntary,Other,resigned,Agency
+1714,User - 1714,15080,Planning Group,Planning Dept 2,Unit 80,Position 64,9,Male,Permanent,US National,USA,1984-10-04,2014-08-02,2016-04-10,Voluntary,Better opportunity,resigned,Referral
+1913,User - 1913,15086,Retail Fashion,Retail Brand 1,Unit 86,Position 52,6,Female,Permanent,US National,USA,1990-06-26,2016-04-02,2016-04-10,Voluntary,Moved Far from Office,resigned,Referral
+1528,User - 1528,15074,Planning Group,Planning Dept 1,Unit 74,Position 141,11,Male,Permanent,Expat,IND,1986-07-04,2012-05-16,2016-04-11,Voluntary,Better opportunity,resigned,Agency
+1490,User - 1490,15167,Retail Fashion,Retail Brand 13,Unit 167,Position 14,7,Female,Permanent,US National,USA,1990-06-07,2011-09-26,2016-04-11,Voluntary,Other,resigned,LinkedIn
+1384,User - 1384,15077,Planning Group,Planning Dept 1,Unit 77,Position 78,8,Female,Permanent,US National,USA,1986-03-02,2009-08-16,2016-04-12,Involuntary,Change of profession,resigned,Universities
+1271,User - 1271,15187,Retail Operations,Operations Dept 2,Unit 187,Position 42,8,Female,Permanent,US National,USA,1989-01-31,2007-05-06,2016-04-19,Voluntary,Team Issue,resigned,LinkedIn
+1906,User - 1906,15086,Retail Fashion,Retail Brand 1,Unit 86,Position 55,6,Male,Permanent,US National,USA,1992-11-19,2016-04-02,2016-04-22,Involuntary,Termination,termination,Referral
+1326,User - 1326,15170,Retail Fashion,Retail Brand 13,Unit 170,Position 26,8,Male,Permanent,US National,USA,1985-01-14,2008-06-15,2016-04-23,Voluntary,Better opportunity,resigned,Training Academy
+1676,User - 1676,15153,Retail Fashion,Retail Brand 13,Unit 153,Position 15,6,Female,Permanent,US National,USA,1989-08-03,2014-03-31,2016-04-23,Voluntary,Timing,resigned,Job Portal
+1320,User - 1320,15118,Retail Fashion,Retail Brand 5,Unit 118,Position 3,9,Female,Permanent,US National,USA,1985-01-10,2008-06-01,2016-04-25,Voluntary,Moved Far from Office,resigned,LinkedIn
+1815,User - 1815,15159,Retail Fashion,Retail Brand 13,Unit 159,Position 105,7,Male,Permanent,US National,USA,1985-08-20,2015-08-15,2016-04-06,Voluntary,Other,resigned,Direct
+1377,User - 1377,15195,Retail Operations,Operations Dept 3,Unit 195,Position 11,6,Male,Permanent,US National,USA,1984-07-04,2009-06-14,2016-04-10,Voluntary,Better opportunity,resigned,Agency
+1539,User - 1539,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 71,8,Male,Permanent,US National,USA,1986-12-31,2012-08-22,2016-04-10,Voluntary,Terminated,resigned,LinkedIn
+1818,User - 1818,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 99,7,Female,Permanent,US National,USA,1984-04-11,2015-08-31,2016-04-10,Involuntary,Termination,termination,LinkedIn
+1509,User - 1509,15150,Retail Fashion,Retail Brand 13,Unit 150,Position 28,8,Female,Permanent,US National,USA,1978-02-02,2011-11-23,2016-04-12,Voluntary,Better opportunity,resigned,Universities
+1597,User - 1597,15153,Retail Fashion,Retail Brand 13,Unit 153,Position 12,8,Male,Permanent,US National,USA,1990-02-02,2013-04-01,2016-04-13,Voluntary,Other,resigned,Agency
+1387,User - 1387,15177,Retail Fashion,Retail Brand 14,Unit 177,Position 28,7,Male,Permanent,US National,USA,1986-11-19,2009-08-16,2016-04-13,Involuntary,Termination,termination,Agency
+1258,User - 1258,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 23,9,Male,Permanent,US National,USA,1984-06-03,2006-12-25,2016-04-13,Involuntary,Termination,termination,Job Portal
+1895,User - 1895,15202,Risk Group,Risk Department,Unit 202,Position 147,14,Female,Permanent,Expat,CAN,1969-03-03,2016-03-01,2016-04-18,Voluntary,Other,resigned,LinkedIn
+1195,User - 1195,15035,Finance Group,Finance Dept 4,Unit 35,Position 59,10,Male,Permanent,US National,USA,1982-07-11,2005-06-19,2016-04-18,Involuntary,Termination,termination,LinkedIn
+1635,User - 1635,15052,Finance Group,Finance Dept 7,Unit 52,Position 56,9,Female,Permanent,US National,USA,1976-02-20,2013-10-01,2016-04-24,Involuntary,Termination,termination,LinkedIn
+1789,User - 1789,15073,Market Research,Marketing Dept,Unit 73,Position 79,11,Female,Permanent,Expat,CAN,1980-06-20,2015-04-18,2016-04-27,Voluntary,Better opportunity,resigned,Direct
+1726,User - 1726,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 144,6,Male,Permanent,US National,USA,1990-10-18,2014-09-15,2016-05-01,Voluntary,Team Issue,resigned,Job Portal
+1887,User - 1887,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 7,6,Male,Permanent,US National,USA,1991-07-08,2016-02-15,2016-05-04,Involuntary,Termination,termination,Universities
+1884,User - 1884,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 138,6,Male,Permanent,US National,USA,1992-05-22,2016-02-13,2016-05-04,Involuntary,Termination,termination,LinkedIn
+1596,User - 1596,15102,Retail Fashion,Retail Brand 3,Unit 102,Position 48,6,Female,Permanent,US National,USA,1987-08-28,2013-04-01,2016-05-11,Voluntary,Moved Far from Office,resigned,LinkedIn
+1631,User - 1631,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 129,6,Female,Permanent,US National,USA,1989-07-06,2013-09-10,2016-05-11,Voluntary,Other,resigned,Job Portal
+1246,User - 1246,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 39,13,Female,Permanent,Expat,IND,1963-01-25,2006-09-14,2016-05-16,Voluntary,Other,resigned,Agency
+1350,User - 1350,15014,Finance Group,Finance Dept 4,Unit 14,Position 7,9,Female,Permanent,US National,USA,1985-04-27,2009-01-11,2016-05-16,Voluntary,Other,resigned,Job Portal
+1575,User - 1575,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 124,7,Male,Permanent,US National,USA,1989-12-25,2012-12-18,2016-05-17,Voluntary,Better opportunity,resigned,Job Portal
+1608,User - 1608,15153,Retail Fashion,Retail Brand 13,Unit 153,Position 18,7,Female,Permanent,US National,USA,1987-07-25,2013-04-01,2016-05-17,Voluntary,Other,resigned,Referral
+1604,User - 1604,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 92,6,Male,Permanent,US National,USA,1988-11-11,2013-04-01,2016-05-18,Voluntary,Better opportunity,resigned,Agency
+1473,User - 1473,15174,Retail Fashion,Retail Brand 13,Unit 174,Position 45,7,Male,Permanent,US National,USA,1982-06-27,2011-06-26,2016-05-18,Involuntary,Change of profession,resigned,LinkedIn
+1554,User - 1554,15141,Retail Fashion,Retail Brand 8,Unit 141,Position 100,7,Male,Permanent,US National,USA,1992-09-12,2012-09-19,2016-05-18,Voluntary,Other,resigned,Universities
+2245,User - 2245,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 142,11,Female,Outsourced,Expat,IND,1985-05-09,2016-03-05,2016-05-18,Involuntary,Timing,resigned,Referral
+1418,User - 1418,15217,Technology Group,Technology Software Dept,Unit 217,Position 31,11,Male,Permanent,US National,USA,1977-11-26,2010-06-21,2016-05-21,Voluntary,Better opportunity,resigned,Universities
+1535,User - 1535,15225,Technology Group,Technology Infrastructure Dept,Unit 225,Position 2,8,Male,Permanent,US National,USA,1986-04-03,2012-07-01,2016-05-23,Voluntary,Other,resigned,LinkedIn
+1512,User - 1512,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 94,9,Female,Permanent,US National,USA,1985-10-01,2011-12-01,2016-05-30,Voluntary,Better opportunity,resigned,Universities
+1805,User - 1805,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 110,11,Male,Permanent,US National,USA,1979-01-14,2015-06-08,2016-05-30,Involuntary,Change of profession,resigned,Referral
+1889,User - 1889,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 91,7,Female,Outsourced,Expat,CAN,1991-12-29,2016-02-29,2016-05-31,Voluntary,Other,resigned,Job Portal
+1451,User - 1451,15143,Retail Fashion,Retail Brand 10,Unit 143,Position 21,8,Male,Permanent,US National,USA,1989-02-02,2011-04-03,2016-06-01,Voluntary,Other,resigned,Universities
+1755,User - 1755,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 31,6,Male,Permanent,US National,USA,1991-10-20,2014-12-20,2016-06-06,Voluntary,Team Issue,resigned,Referral
+1786,User - 1786,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 37,6,Female,Permanent,US National,USA,1990-12-10,2015-04-14,2016-06-08,Voluntary,Team Issue,resigned,Direct
+1727,User - 1727,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 138,6,Male,Permanent,US National,USA,1989-04-18,2014-09-15,2016-06-08,Voluntary,Other,resigned,Referral
+1806,User - 1806,15038,Finance Group,Finance Dept 5,Unit 38,Position 58,6,Female,Permanent,US National,USA,1991-02-22,2015-06-16,2016-06-11,Voluntary,Other,resigned,LinkedIn
+1788,User - 1788,15145,Retail Fashion,Retail Brand 12,Unit 145,Position 5,7,Male,Permanent,US National,USA,1984-03-04,2015-04-18,2016-06-15,Voluntary,Further Study,resigned,Job Portal
+1922,User - 1922,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 81,7,Male,Permanent,US National,USA,1995-09-15,2016-04-03,2016-06-15,Involuntary,Other,resigned,Training Academy
+1025,User - 1025,15034,Finance Group,Finance Dept 4,Unit 34,Position 20,12,Male,Permanent,Expat,IND,1955-10-12,1992-05-05,2016-06-15,Voluntary,Retirement,resigned,Universities
+2239,User - 2239,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 59,7,Male,Permanent,Expat,IND,1965-03-30,2015-05-09,2016-06-15,Involuntary,Timing,resigned,Referral
+2243,User - 2243,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 18,10,Male,Outsourced,Expat,IND,1985-12-15,2015-11-07,2016-06-17,Involuntary,Timing,resigned,Job Portal
+1457,User - 1457,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 115,7,Male,Permanent,US National,USA,1981-10-07,2011-04-11,2016-06-25,Voluntary,Other,resigned,LinkedIn
+1275,User - 1275,15051,Finance Group,Finance Dept 7,Unit 51,Position 29,10,Female,Permanent,US National,USA,1987-02-16,2007-05-06,2016-06-26,Voluntary,Terminated,resigned,Agency
+1370,User - 1370,15014,Finance Group,Finance Dept 4,Unit 14,Position 140,9,Female,Permanent,US National,USA,1990-03-07,2009-03-26,2016-06-26,Voluntary,Other,resigned,Training Academy
+1229,User - 1229,15122,Retail Fashion,Retail Brand 6,Unit 122,Position 126,11,Male,Permanent,US National,USA,1962-10-07,2006-01-02,2016-06-26,Voluntary,Other,resigned,Training Academy
+1526,User - 1526,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 139,9,Male,Permanent,US National,USA,1985-12-15,2012-04-01,2016-06-28,Voluntary,Other,resigned,Direct
+1780,User - 1780,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 31,6,Male,Permanent,US National,USA,1989-11-26,2015-04-14,2016-06-29,Voluntary,Further Study,resigned,Direct
+1916,User - 1916,15095,Retail Fashion,Retail Brand 2,Unit 95,Position 118,6,Female,Permanent,US National,USA,1992-01-23,2016-04-02,2016-07-04,Involuntary,Termination,resigned,Training Academy
+1364,User - 1364,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 83,8,Female,Permanent,US National,USA,1984-06-24,2009-03-26,2016-07-06,Voluntary,Better opportunity,resigned,Training Academy
+1691,User - 1691,15205,Risk Group,Risk Department,Unit 205,Position 84,13,Female,Permanent,Expat,USA,1978-12-05,2014-05-03,2016-07-06,Voluntary,Better opportunity,resigned,LinkedIn
+1638,User - 1638,15058,HR Group,HR Dept 2,Unit 58,Position 11,9,Male,Permanent,US National,USA,1985-06-03,2013-10-01,2016-07-06,Voluntary,Better opportunity,resigned,Job Portal
+1703,User - 1703,15066,Investment Group,Investment Dept 2,Unit 66,Position 8,7,Female,Permanent,US National,USA,1985-10-07,2014-06-14,2016-07-06,Voluntary,Other,resigned,Job Portal
+1152,User - 1152,15138,Retail Fashion,Retail Brand 8,Unit 138,Position 133,8,Female,Permanent,US National,USA,1981-12-26,2003-01-19,2016-07-09,Voluntary,Other,resigned,Universities
+1683,User - 1683,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 28,7,Male,Outsourced,Expat,PHL,1992-02-26,2014-04-01,2016-07-13,Voluntary,Better opportunity,resigned,Direct
+1775,User - 1775,15205,Risk Group,Risk Department,Unit 205,Position 63,11,Female,Permanent,Expat,IND,1983-03-03,2015-04-04,2016-07-13,Voluntary,Family Reason,resigned,LinkedIn
+1885,User - 1885,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 135,6,Female,Permanent,US National,USA,1993-06-01,2016-02-13,2016-07-14,Voluntary,Better opportunity,resigned,Job Portal
+1442,User - 1442,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 118,9,Female,Permanent,US National,USA,1990-05-23,2011-02-06,2016-07-16,Voluntary,Better opportunity,resigned,Universities
+1723,User - 1723,15155,Retail Fashion,Retail Brand 13,Unit 155,Position 60,8,Male,Permanent,US National,USA,1987-06-19,2014-09-15,2016-07-16,Voluntary,Better opportunity,resigned,Direct
+1659,User - 1659,15004,Board & Directors,Board Dept 4,Unit 4,Position 113,8,Female,Permanent,Expat,ITA,1976-09-07,2014-01-19,2016-07-17,Voluntary,Other,resigned,Job Portal
+1244,User - 1244,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 90,10,Female,Permanent,Expat,GBR,1961-05-29,2006-07-10,2016-07-20,Voluntary,Better opportunity,resigned,Direct
+1837,User - 1837,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 35,6,Female,Permanent,US National,USA,1993-01-15,2015-10-17,2016-07-20,Voluntary,Further Study,resigned,Direct
+1072,User - 1072,15055,HR Group,HR Dept 2,Unit 55,Position 97,13,Female,Permanent,Expat,IND,1967-09-20,1998-10-11,2016-07-20,Voluntary,Family Reason,resigned,Job Portal
+1929,User - 1929,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 84,7,Female,Permanent,US National,USA,1991-05-02,2016-04-03,2016-07-20,Voluntary,Timing,resigned,Universities
+1931,User - 1931,15168,Retail Fashion,Retail Brand 13,Unit 168,Position 4,8,Male,Permanent,US National,USA,1989-09-01,2016-04-04,2016-07-23,Voluntary,Family Reason,resigned,Universities
+1328,User - 1328,15038,Finance Group,Finance Dept 5,Unit 38,Position 105,8,Female,Permanent,US National,USA,1981-09-10,2008-06-15,2016-07-25,Involuntary,Timing,resigned,Universities
+1601,User - 1601,15148,Retail Fashion,Retail Brand 12,Unit 148,Position 100,8,Male,Permanent,US National,USA,1990-06-27,2013-04-01,2016-07-31,Involuntary,Timing,resigned,LinkedIn
+2244,User - 2244,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 94,6,Male,Outsourced,Expat,CAN,1991-09-09,2016-02-16,2016-08-03,Involuntary,Timing,resigned,LinkedIn
+1494,User - 1494,15056,HR Group,HR Dept 2,Unit 56,Position 81,9,Female,Permanent,US National,USA,1988-11-09,2011-10-02,2016-08-10,Voluntary,Other,resigned,Job Portal
+1914,User - 1914,15092,Retail Fashion,Retail Brand 1,Unit 92,Position 130,6,Female,Permanent,US National,USA,1993-11-25,2016-04-02,2016-08-14,Voluntary,Other,resigned,LinkedIn
+1399,User - 1399,15166,Retail Fashion,Retail Brand 13,Unit 166,Position 71,8,Female,Permanent,US National,USA,1983-07-07,2009-11-08,2016-08-14,Involuntary,Termination,termination,Referral
+1758,User - 1758,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 57,6,Male,Permanent,US National,USA,1993-11-29,2014-12-20,2016-08-16,Voluntary,Better opportunity,resigned,Job Portal
+1603,User - 1603,15095,Retail Fashion,Retail Brand 2,Unit 95,Position 101,8,Male,Permanent,US National,USA,1985-11-14,2013-04-01,2016-08-16,Voluntary,Terminated,resigned,Direct
+1199,User - 1199,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 101,10,Male,Permanent,US National,USA,1968-03-08,2005-06-20,2016-08-16,Involuntary,Change of profession,resigned,Agency
+1008,User - 1008,15074,Planning Group,Planning Dept 1,Unit 74,Position 32,11,Male,Permanent,Expat,IND,1949-08-15,1991-06-29,2016-08-16,Voluntary,Retirement,resigned,Agency
+1502,User - 1502,15215,Strategy Group,Strategy Dept 3,Unit 215,Position 130,14,Male,Permanent,Expat,PRC,1983-09-25,2011-11-15,2016-08-17,Voluntary,Better opportunity,resigned,Training Academy
+1920,User - 1920,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 67,6,Male,Permanent,US National,USA,1993-12-14,2016-04-02,2016-08-17,Voluntary,Family Reason,resigned,LinkedIn
+1978,User - 1978,15174,Retail Fashion,Retail Brand 13,Unit 174,Position 78,7,Female,Permanent,US National,USA,1993-03-09,2016-08-06,2016-08-24,Voluntary,Better opportunity,resigned,Referral
+1427,User - 1427,15155,Retail Fashion,Retail Brand 13,Unit 155,Position 88,7,Female,Permanent,US National,USA,1988-01-30,2010-11-01,2016-08-24,Voluntary,Family Reason,resigned,Agency
+1321,User - 1321,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 128,8,Male,Permanent,US National,USA,1984-09-13,2008-06-01,2016-09-06,Voluntary,Other,resigned,Referral
+1868,User - 1868,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 37,6,Male,Permanent,US National,USA,1991-07-15,2015-12-14,2016-09-07,Voluntary,Other,resigned,Training Academy
+2017,User - 2017,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 99,6,Male,Permanent,US National,USA,1992-01-30,2016-09-17,2016-09-10,Voluntary,Family Reason,resigned,LinkedIn
+1971,User - 1971,15171,Retail Fashion,Retail Brand 13,Unit 171,Position 21,7,Female,Permanent,US National,USA,1990-10-14,2016-07-23,2016-09-10,Voluntary,Other,resigned,Job Portal
+1926,User - 1926,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 65,6,Male,Permanent,US National,USA,1993-08-24,2016-04-03,2016-09-12,Involuntary,Termination,termination,Universities
+1813,User - 1813,15067,Investment Group,Investment Dept 2,Unit 67,Position 122,7,Female,Outsourced,Expat,CAN,1990-08-16,2015-08-01,2016-09-13,Involuntary,Change of profession,resigned,Referral
+1822,User - 1822,15084,Private Franchisee,Framchisee 3,Unit 84,Position 76,10,Male,Permanent,US National,USA,1985-10-25,2015-09-06,2016-09-14,Voluntary,Better opportunity,resigned,Training Academy
+1491,User - 1491,15224,Technology Group,Technology Infrastructure Dept,Unit 224,Position 124,9,Male,Permanent,US National,USA,1988-09-20,2011-09-26,2016-09-14,Voluntary,Other,resigned,Referral
+1567,User - 1567,15046,Finance Group,Finance Dept 7,Unit 46,Position 103,12,Male,Permanent,Expat,CAN,1951-07-25,2012-11-11,2016-09-15,Voluntary,Retirement,resigned,Training Academy
+1643,User - 1643,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 5,13,Male,Permanent,US National,USA,1960-06-24,2013-10-22,2016-09-15,Voluntary,Retirement,resigned,Agency
+1820,User - 1820,15080,Planning Group,Planning Dept 2,Unit 80,Position 15,8,Female,Permanent,US National,USA,1990-05-08,2015-09-05,2016-09-19,Voluntary,Better opportunity,resigned,Direct
+1253,User - 1253,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 88,11,Female,Permanent,Expat,SIN,1970-08-30,2006-12-03,2016-09-19,Involuntary,Termination,termination,Referral
+1882,User - 1882,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 20,6,Female,Permanent,US National,USA,1991-05-23,2016-01-31,2016-09-20,Voluntary,Other,resigned,Job Portal
+1028,User - 1028,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 139,6,Male,Outsourced,Expat,CAN,1965-03-06,1992-08-08,2016-09-28,Voluntary,Other,resigned,Training Academy
+1890,User - 1890,15108,Retail Fashion,Retail Brand 3,Unit 108,Position 51,6,Female,Outsourced,Expat,BRA,1986-09-18,2016-02-29,2016-10-01,Voluntary,Other,resigned,Referral
+1733,User - 1733,15161,Retail Fashion,Retail Brand 13,Unit 161,Position 79,11,Male,Permanent,US National,USA,1983-12-04,2014-09-30,2016-10-05,Voluntary,Better opportunity,resigned,Agency
+1471,User - 1471,15038,Finance Group,Finance Dept 5,Unit 38,Position 34,8,Male,Permanent,US National,USA,1988-01-21,2011-06-26,2016-10-09,Voluntary,Family Reason,resigned,Universities
+2007,User - 2007,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 96,6,Female,Permanent,US National,USA,1993-07-27,2016-09-17,2016-10-09,Involuntary,Termination,termination,Referral
+1955,User - 1955,15211,Risk Group,Risk Department,Unit 211,Position 2,12,Male,Permanent,Expat,CAN,1966-06-27,2016-06-18,2016-10-12,Involuntary,Termination,termination,Training Academy
+1728,User - 1728,15102,Retail Fashion,Retail Brand 3,Unit 102,Position 127,6,Female,Permanent,US National,USA,1992-06-28,2014-09-15,2016-10-15,Voluntary,Other,resigned,Referral
+2014,User - 2014,15038,Finance Group,Finance Dept 5,Unit 38,Position 5,6,Female,Permanent,US National,USA,1993-09-13,2016-09-17,2016-10-18,Voluntary,Other,resigned,Universities
+1599,User - 1599,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 14,7,Male,Permanent,US National,USA,1989-06-17,2013-04-01,2016-10-22,Voluntary,Better opportunity,resigned,Direct
+1327,User - 1327,15014,Finance Group,Finance Dept 4,Unit 14,Position 83,9,Female,Permanent,US National,USA,1981-06-16,2008-06-15,2016-10-26,Involuntary,Termination,termination,Referral
+2022,User - 2022,15184,Retail Operations,Operations Dept 1,Unit 184,Position 140,6,Female,Permanent,US National,USA,1994-08-21,2016-10-02,2016-10-29,Voluntary,Other,resigned,Direct
+1282,User - 1282,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 5,11,Female,Permanent,US National,USA,1960-01-01,2007-05-16,2016-11-08,Voluntary,Retirement,resigned,Referral
+1534,User - 1534,15046,Finance Group,Finance Dept 7,Unit 46,Position 150,10,Male,Permanent,US National,USA,1986-04-07,2012-07-01,2016-11-09,Voluntary,Better opportunity,resigned,Universities
+1508,User - 1508,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 42,8,Male,Permanent,US National,USA,1984-01-13,2011-11-23,2016-11-13,Involuntary,Change of profession,resigned,Direct
+1268,User - 1268,15040,Finance Group,Finance Dept 6,Unit 40,Position 6,11,Male,Permanent,Expat,ITA,1977-10-05,2007-04-29,2016-11-15,Voluntary,Better opportunity,resigned,Job Portal
+1861,User - 1861,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 106,6,Female,Permanent,US National,USA,1991-08-24,2015-12-14,2016-11-15,Voluntary,Family Reason,resigned,Direct
+1773,User - 1773,15076,Planning Group,Planning Dept 1,Unit 76,Position 109,12,Female,Permanent,Expat,IRE,1982-08-30,2015-03-31,2016-11-15,Voluntary,Other,resigned,Training Academy
+1880,User - 1880,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 35,7,Female,Permanent,US National,USA,1992-01-06,2016-01-16,2016-11-16,Voluntary,Better opportunity,resigned,Training Academy
+1606,User - 1606,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 14,8,Male,Permanent,US National,USA,1991-09-13,2013-04-01,2016-11-16,Voluntary,Family Reason,resigned,Agency
+1958,User - 1958,15084,Private Franchisee,Framchisee 3,Unit 84,Position 85,11,Female,Permanent,US National,USA,1984-10-18,2016-06-26,2016-11-19,Involuntary,Other,resigned,LinkedIn
+1781,User - 1781,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 77,6,Female,Permanent,US National,USA,1990-07-21,2015-04-14,2016-11-25,Voluntary,Family Reason,resigned,Referral
+1586,User - 1586,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 136,9,Male,Permanent,US National,USA,1991-08-20,2013-02-17,2016-11-25,Voluntary,Other,resigned,Agency
+1894,User - 1894,15156,Retail Fashion,Retail Brand 13,Unit 156,Position 27,6,Male,Permanent,Expat,PRC,1990-12-26,2016-02-29,2016-11-30,Voluntary,Better opportunity,resigned,Universities
+1851,User - 1851,15058,HR Group,HR Dept 2,Unit 58,Position 34,7,Female,Permanent,US National,USA,1983-09-18,2015-11-15,2016-11-30,Involuntary,Other,resigned,Direct
+1779,User - 1779,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 138,6,Female,Permanent,US National,USA,1990-02-02,2015-04-14,2016-12-04,Voluntary,Family Reason,resigned,Direct
+2031,User - 2031,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 62,7,Male,Outsourced,Expat,CAN,1986-01-31,2016-11-05,2016-12-04,Voluntary,Timing,resigned,Referral
+1700,User - 1700,15073,Market Research,Marketing Dept,Unit 73,Position 44,11,Male,Permanent,Expat,CAN,1979-12-20,2014-06-07,2016-12-13,Involuntary,Other,resigned,Referral
+1485,User - 1485,15154,Retail Fashion,Retail Brand 13,Unit 154,Position 36,7,Male,Permanent,US National,USA,1988-09-10,2011-09-26,2016-12-14,Voluntary,Other,resigned,Job Portal
+1032,User - 1032,15007,CEO,CEO Dept 3,Unit 7,Position 105,13,Male,Permanent,Expat,IND,1953-03-12,1993-02-28,2016-12-16,Voluntary,Retirement,resigned,Direct
+1829,User - 1829,15185,Retail Operations,Operations Dept 2,Unit 185,Position 103,6,Male,Permanent,US National,USA,1992-07-06,2015-10-03,2016-12-17,Voluntary,Better opportunity,resigned,LinkedIn
+1306,User - 1306,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 114,13,Female,Permanent,US National,USA,1954-06-19,2008-04-16,2016-12-18,Involuntary,Retirement,resigned,Referral
+2012,User - 2012,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 105,6,Female,Permanent,US National,USA,1992-04-21,2016-09-17,2016-12-19,Voluntary,Other,resigned,Universities
+2052,User - 2052,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 42,6,Male,Permanent,US National,USA,1993-04-06,2016-12-11,2016-12-26,Voluntary,Better opportunity,resigned,Training Academy
+2035,User - 2035,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 122,7,Male,Permanent,US National,USA,1990-09-10,2016-11-30,2017-01-04,Involuntary,Termination,termination,Referral
+1993,User - 1993,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 85,6,Female,Permanent,US National,USA,1988-11-01,2016-09-05,2017-01-09,Voluntary,Other,resigned,Agency
+1768,User - 1768,15205,Risk Group,Risk Department,Unit 205,Position 110,7,Male,Permanent,US National,USA,1990-06-15,2015-02-28,2017-01-11,Voluntary,Better opportunity,resigned,Referral
+1576,User - 1576,15168,Retail Fashion,Retail Brand 13,Unit 168,Position 35,8,Female,Permanent,US National,USA,1990-01-09,2012-12-18,2017-01-15,Voluntary,Better opportunity,resigned,Job Portal
+1443,User - 1443,15066,Investment Group,Investment Dept 2,Unit 66,Position 80,9,Female,Permanent,US National,USA,1988-02-25,2011-02-06,2017-01-16,Voluntary,Better opportunity,resigned,Universities
+1565,User - 1565,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 70,7,Female,Permanent,US National,USA,1992-09-02,2012-10-14,2017-01-16,Voluntary,Better opportunity,resigned,Direct
+1745,User - 1745,15038,Finance Group,Finance Dept 5,Unit 38,Position 75,7,Male,Outsourced,Expat,CAN,1989-04-06,2014-11-30,2017-01-16,Voluntary,Better opportunity,resigned,Referral
+1584,User - 1584,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 28,9,Female,Permanent,US National,USA,1979-01-24,2013-02-03,2017-01-16,Involuntary,Other,resigned,Agency
+1816,User - 1816,15220,Technology Group,Technology Software Dept,Unit 220,Position 99,7,Female,Outsourced,Expat,SIN,1989-12-05,2015-09-01,2017-01-16,Voluntary,Other,resigned,LinkedIn
+1308,User - 1308,15220,Technology Group,Technology Software Dept,Unit 220,Position 60,11,Male,Permanent,Expat,GBR,1956-09-13,2008-04-20,2017-01-16,Involuntary,Retirement,resigned,Agency
+1358,User - 1358,15136,Retail Fashion,Retail Brand 7,Unit 136,Position 13,9,Female,Permanent,US National,USA,1986-11-11,2009-01-18,2017-01-18,Voluntary,Better opportunity,resigned,Agency
+1774,User - 1774,15185,Retail Operations,Operations Dept 2,Unit 185,Position 114,7,Female,Outsourced,Expat,PRC,1986-05-14,2015-04-04,2017-01-21,Voluntary,Other,resigned,Universities
+2015,User - 2015,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 119,6,Male,Permanent,US National,USA,1990-04-14,2016-09-18,2017-01-24,Involuntary,Termination,termination,LinkedIn
+1836,User - 1836,15096,Retail Fashion,Retail Brand 2,Unit 96,Position 107,6,Female,Permanent,US National,USA,1992-10-21,2015-10-17,2017-01-25,Involuntary,Terminated,resigned,Universities
+1372,User - 1372,15197,Retail Operations,Operations Dept 3,Unit 197,Position 4,7,Male,Permanent,US National,USA,1979-11-05,2009-05-25,2017-01-30,Involuntary,Termination,termination,Training Academy
+1317,User - 1317,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 39,7,Male,Outsourced,Expat,CAN,1973-07-05,2008-05-20,2017-02-07,Involuntary,Termination,termination,Referral
+1720,User - 1720,15188,Retail Operations,Operations Dept 2,Unit 188,Position 127,8,Female,Outsourced,Expat,CAN,1985-05-24,2014-08-31,2017-02-07,Involuntary,Termination,termination,Agency
+1718,User - 1718,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 16,8,Male,Permanent,US National,USA,1988-08-07,2014-08-09,2017-02-08,Voluntary,Better opportunity,resigned,Referral
+1724,User - 1724,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 95,6,Female,Permanent,US National,USA,1989-01-05,2014-09-15,2017-02-12,Involuntary,Other,resigned,Job Portal
+1632,User - 1632,15038,Finance Group,Finance Dept 5,Unit 38,Position 136,6,Female,Permanent,US National,USA,1990-12-17,2013-09-10,2017-02-13,Voluntary,Better opportunity,resigned,Agency
+1767,User - 1767,15042,Finance Group,Finance Dept 6,Unit 42,Position 101,7,Male,Permanent,US National,USA,1990-09-29,2015-02-28,2017-02-13,Voluntary,Better opportunity,resigned,Agency
+1969,User - 1969,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 10,7,Male,Permanent,US National,USA,1988-02-01,2016-07-17,2017-02-13,Voluntary,Other,resigned,Universities
+2005,User - 2005,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 103,6,Female,Permanent,US National,USA,1993-06-21,2016-09-17,2017-02-15,Voluntary,Family Reason,resigned,LinkedIn
+2055,User - 2055,15053,HR Group,HR Dept 1,Unit 53,Position 12,7,Male,Permanent,US National,USA,1991-09-24,2016-12-11,2017-02-18,Involuntary,Termination,resigned,Agency
+2041,User - 2041,15038,Finance Group,Finance Dept 5,Unit 38,Position 108,6,Female,Permanent,US National,USA,1988-11-14,2016-12-11,2017-02-19,Voluntary,Family Reason,resigned,Training Academy
+1551,User - 1551,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 69,7,Male,Permanent,US National,USA,1991-10-21,2012-09-19,2017-02-22,Involuntary,Termination,termination,LinkedIn
+1592,User - 1592,15185,Retail Operations,Operations Dept 2,Unit 185,Position 121,8,Female,Permanent,US National,USA,1988-05-31,2013-03-17,2017-02-25,Voluntary,Better opportunity,resigned,LinkedIn
+2043,User - 2043,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 85,6,Male,Permanent,US National,USA,1994-08-24,2016-12-11,2017-03-04,Voluntary,Better opportunity,resigned,Universities
+1945,User - 1945,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 60,6,Male,Permanent,US National,USA,1992-09-07,2016-05-14,2017-03-04,Voluntary,Family Reason,resigned,Training Academy
+1634,User - 1634,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 2,6,Male,Permanent,US National,USA,1991-09-19,2013-09-10,2017-03-08,Voluntary,Better opportunity,resigned,LinkedIn
+1119,User - 1119,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 94,11,Male,Permanent,Expat,CAN,1961-03-18,2001-05-01,2017-03-13,Involuntary,Other,resigned,Direct
+1533,User - 1533,15076,Planning Group,Planning Dept 1,Unit 76,Position 5,8,Female,Permanent,US National,USA,1985-06-19,2012-06-24,2017-03-15,Voluntary,Better opportunity,resigned,LinkedIn
+1761,User - 1761,15131,Retail Fashion,Retail Brand 7,Unit 131,Position 33,7,Female,Permanent,US National,USA,1990-10-08,2015-01-17,2017-03-15,Voluntary,Better opportunity,resigned,Training Academy
+1083,User - 1083,15076,Planning Group,Planning Dept 1,Unit 76,Position 111,13,Male,Permanent,Expat,CAN,1972-11-25,2006-02-01,2017-03-21,Voluntary,Other,resigned,Agency
+1506,User - 1506,15080,Planning Group,Planning Dept 2,Unit 80,Position 24,9,Male,Permanent,US National,USA,1990-07-29,2011-11-23,2017-03-28,Voluntary,Better opportunity,resigned,Job Portal
+1862,User - 1862,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 48,6,Female,Permanent,US National,USA,1990-11-20,2015-12-14,2017-03-29,Voluntary,Other,resigned,Agency
+2048,User - 2048,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 136,6,Male,Permanent,US National,USA,1994-02-11,2016-12-11,2017-04-01,Involuntary,Termination,termination,Agency
+1991,User - 1991,15058,HR Group,HR Dept 2,Unit 58,Position 28,9,Female,Permanent,US National,USA,1989-05-21,2016-09-03,2017-04-03,Voluntary,Better opportunity,resigned,Training Academy
+2032,User - 2032,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 4,15,Female,Permanent,US National,USA,1995-04-02,2016-11-05,2017-04-05,Voluntary,Further Study,resigned,Referral
+1873,User - 1873,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 148,6,Female,Permanent,US National,USA,1991-01-12,2015-12-14,2017-04-05,Voluntary,Other,resigned,Direct
+1921,User - 1921,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 36,6,Female,Permanent,US National,USA,1991-10-27,2016-04-02,2017-04-05,Voluntary,Other,resigned,Training Academy
+2059,User - 2059,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 49,11,Female,Permanent,US National,USA,1978-07-16,2017-01-02,2017-04-05,Voluntary,Other,resigned,Universities
+1079,User - 1079,15003,Board & Directors,Board Dept 3,Unit 3,Position 129,12,Female,Permanent,US National,USA,1962-09-20,2005-01-02,2017-04-05,Voluntary,Retirement,resigned,Agency
+1125,User - 1125,15014,Finance Group,Finance Dept 4,Unit 14,Position 16,11,Male,Permanent,Expat,PHL,1956-01-01,2007-05-15,2017-04-06,Involuntary,Retirement,resigned,Referral
+1544,User - 1544,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 133,8,Female,Permanent,US National,USA,1986-10-08,2012-09-10,2017-04-11,Voluntary,Better opportunity,resigned,LinkedIn
+2076,User - 2076,15152,Retail Fashion,Retail Brand 13,Unit 152,Position 12,10,Female,Permanent,US National,USA,1981-10-03,2017-03-01,2017-04-11,Voluntary,Better opportunity,resigned,Universities
+1344,User - 1344,15074,Planning Group,Planning Dept 1,Unit 74,Position 141,12,Female,Permanent,Expat,IND,1980-06-23,2008-12-01,2017-04-12,Voluntary,Other,resigned,Referral
+1814,User - 1814,15172,Retail Fashion,Retail Brand 13,Unit 172,Position 96,7,Male,Permanent,US National,USA,1988-08-30,2015-08-01,2017-04-15,Voluntary,Better opportunity,resigned,Job Portal
+1664,User - 1664,15050,Finance Group,Finance Dept 7,Unit 50,Position 44,8,Female,Permanent,US National,USA,1989-08-15,2014-03-08,2017-04-15,Voluntary,Better opportunity,resigned,LinkedIn
+1752,User - 1752,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 5,8,Male,Permanent,US National,USA,1990-08-23,2014-12-20,2017-04-15,Voluntary,Better opportunity,resigned,Direct
+1671,User - 1671,15142,Retail Fashion,Retail Brand 9,Unit 142,Position 147,7,Male,Permanent,US National,USA,1989-06-20,2014-03-31,2017-04-15,Voluntary,Further Study,resigned,Universities
+1685,User - 1685,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 16,13,Female,Permanent,US National,USA,1991-08-21,2014-04-12,2017-04-15,Voluntary,Other,resigned,Agency
+1866,User - 1866,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 134,6,Female,Permanent,US National,USA,1990-12-20,2015-12-14,2017-04-15,Voluntary,Other,resigned,Training Academy
+1483,User - 1483,15001,Board & Directors,Board Dept 1,Unit 1,Position 120,9,Male,Permanent,US National,USA,1972-10-06,2011-09-04,2017-04-16,Voluntary,Other,resigned,Training Academy
+1569,User - 1569,15142,Retail Fashion,Retail Brand 9,Unit 142,Position 102,7,Male,Permanent,US National,USA,1991-02-08,2012-11-05,2017-04-19,Voluntary,Better opportunity,resigned,Agency
+1825,User - 1825,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 27,6,Female,Permanent,US National,USA,1989-04-09,2015-09-30,2017-04-22,Voluntary,Other,resigned,Universities
+2019,User - 2019,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 145,10,Female,Permanent,US National,USA,1986-03-17,2016-10-02,2017-04-23,Voluntary,Other,resigned,LinkedIn
+2028,User - 2028,15108,Retail Fashion,Retail Brand 3,Unit 108,Position 142,6,Male,Permanent,US National,USA,1986-09-18,2016-10-16,2017-04-24,Voluntary,Termination,resigned,Agency
+1022,User - 1022,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 12,11,Female,Permanent,US National,USA,1963-08-23,1991-07-22,2017-04-26,Voluntary,Retirement,resigned,LinkedIn
+2084,User - 2084,15084,Private Franchisee,Framchisee 3,Unit 84,Position 17,6,Male,Permanent,US National,USA,1991-05-13,2017-03-04,2017-04-29,Voluntary,Better opportunity,resigned,Training Academy
+1697,User - 1697,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 45,6,Male,Permanent,US National,USA,1990-07-13,2014-05-17,2017-05-03,Voluntary,Other,resigned,Referral
+2067,User - 2067,15185,Retail Operations,Operations Dept 2,Unit 185,Position 115,7,Female,Permanent,US National,USA,1990-10-05,2017-02-01,2017-05-08,Voluntary,Family Reason,resigned,Direct
+1694,User - 1694,15040,Finance Group,Finance Dept 6,Unit 40,Position 75,9,Male,Permanent,US National,USA,1988-05-01,2014-05-03,2017-05-10,Voluntary,Better opportunity,resigned,LinkedIn
+1573,User - 1573,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 92,8,Male,Permanent,US National,USA,1982-08-01,2012-12-05,2017-05-16,Voluntary,Other,resigned,Agency
+1002,User - 1002,15218,Technology Group,Technology Software Dept,Unit 218,Position 75,11,Female,Permanent,US National,USA,1958-03-02,1978-03-11,2017-05-16,Voluntary,Retirement,resigned,Referral
+1648,User - 1648,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 94,9,Male,Permanent,US National,USA,1982-09-12,2013-11-10,2017-05-20,Involuntary,Other,resigned,Job Portal
+1259,User - 1259,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 41,9,Male,Permanent,US National,USA,1980-10-20,2006-12-27,2017-05-31,Involuntary,Other,termination,LinkedIn
+1725,User - 1725,15115,Retail Fashion,Retail Brand 5,Unit 115,Position 61,6,Female,Permanent,US National,USA,1988-10-01,2014-09-15,2017-05-31,Involuntary,Other,resigned,Job Portal
+1493,User - 1493,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 15,9,Female,Permanent,US National,USA,1977-04-25,2011-10-02,2017-06-07,Voluntary,Better opportunity,resigned,Direct
+1905,User - 1905,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 117,6,Female,Permanent,US National,USA,1989-12-06,2016-04-02,2017-06-07,Voluntary,Better opportunity,resigned,Universities
+1744,User - 1744,15205,Risk Group,Risk Department,Unit 205,Position 79,11,Female,Permanent,Expat,IND,1982-03-17,2014-11-22,2017-06-07,Voluntary,Other,resigned,Universities
+1848,User - 1848,15192,Retail Operations,Operations Dept 3,Unit 192,Position 16,7,Female,Outsourced,Expat,CAN,1989-07-26,2015-10-24,2017-06-12,Voluntary,Other,resigned,Direct
+1994,User - 1994,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 77,7,Male,Permanent,US National,USA,1989-02-19,2016-09-03,2017-06-15,Voluntary,Other,resigned,Referral
+1505,User - 1505,15072,Legal Group,Legal Dept 1,Unit 72,Position 140,9,Male,Permanent,US National,USA,1985-01-07,2011-11-23,2017-06-15,Voluntary,Other,resigned,Referral
+1218,User - 1218,15191,Retail Operations,Operations Dept 3,Unit 191,Position 102,7,Female,Permanent,US National,USA,1948-03-15,2005-11-16,2017-06-15,Involuntary,Retirement,resigned,LinkedIn
+1014,User - 1014,15071,Legal Group,Legal Dept 1,Unit 71,Position 34,7,Female,Outsourced,Expat,CAN,1954-01-26,1992-07-11,2017-06-15,Involuntary,Retirement,resigned,Training Academy
+1131,User - 1131,15185,Retail Operations,Operations Dept 2,Unit 185,Position 2,8,Female,Outsourced,Expat,IND,1954-02-16,1991-09-18,2017-06-15,Involuntary,Retirement,resigned,Job Portal
+2113,User - 2113,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 73,6,Female,Permanent,US National,USA,1992-04-03,2017-05-01,2017-06-26,Voluntary,Family Reason,resigned,LinkedIn
+2098,User - 2098,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 75,6,Male,Permanent,US National,USA,1994-07-06,2017-04-08,2017-07-05,Voluntary,Better opportunity,resigned,Agency
+1641,User - 1641,15030,Finance Group,Finance Dept 4,Unit 30,Position 41,9,Male,Permanent,US National,USA,1987-05-09,2013-10-21,2017-07-12,Voluntary,Further Study,resigned,Direct
+1996,User - 1996,15057,HR Group,HR Dept 2,Unit 57,Position 86,9,Male,Permanent,US National,USA,1989-07-10,2016-09-17,2017-07-12,Voluntary,Other,resigned,Universities
+2133,User - 2133,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 56,8,Female,Permanent,US National,USA,1985-05-06,2017-06-10,2017-07-12,Voluntary,Early Exit,resigned,Job Portal
+1169,User - 1169,15026,Finance Group,Finance Dept 4,Unit 26,Position 47,11,Female,Permanent,US National,USA,1978-02-02,2004-09-29,2017-07-15,Voluntary,Better opportunity,resigned,Referral
+2016,User - 2016,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 44,6,Male,Permanent,US National,USA,1989-01-18,2016-09-17,2017-07-16,Voluntary,Better opportunity,resigned,Referral
+1778,User - 1778,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 61,7,Female,Permanent,US National,USA,1989-02-12,2015-04-11,2017-07-16,Voluntary,Other,resigned,Direct
+2118,User - 2118,15080,Planning Group,Planning Dept 2,Unit 80,Position 47,9,Male,Permanent,US National,USA,1989-08-02,2017-05-20,2017-07-16,Voluntary,Early Exit,resigned,Direct
+1159,User - 1159,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 72,8,Female,Permanent,US National,USA,1978-06-22,2003-12-14,2017-07-17,Voluntary,Retirement,resigned,Job Portal
+2066,User - 2066,15053,HR Group,HR Dept 1,Unit 53,Position 7,7,Male,Permanent,US National,USA,1993-05-06,2017-02-01,2017-07-18,Voluntary,Better opportunity,resigned,Referral
+1458,User - 1458,15189,Retail Operations,Operations Dept 3,Unit 189,Position 12,8,Female,Permanent,US National,USA,1976-06-03,2011-04-24,2017-07-19,Voluntary,Family Reason,resigned,LinkedIn
+1863,User - 1863,15095,Retail Fashion,Retail Brand 2,Unit 95,Position 60,6,Female,Permanent,US National,USA,1992-06-24,2015-12-14,2017-07-19,Voluntary,Family Reason,resigned,Universities
+1373,User - 1373,15206,Risk Group,Risk Department,Unit 206,Position 127,11,Male,Permanent,US National,USA,1975-04-28,2009-06-01,2017-07-19,Voluntary,Retirement,resigned,Referral
+1681,User - 1681,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 133,6,Male,Permanent,US National,USA,1990-05-08,2014-03-31,2017-07-26,Voluntary,Better opportunity,resigned,Training Academy
+1279,User - 1279,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 66,9,Male,Outsourced,Expat,CAN,1979-02-27,2008-01-02,2017-07-26,Voluntary,Family Reason,resigned,Job Portal
+1318,User - 1318,15142,Retail Fashion,Retail Brand 9,Unit 142,Position 148,11,Male,Permanent,US National,USA,1973-11-16,2008-05-25,2017-07-26,Involuntary,Termination,termination,Job Portal
+1488,User - 1488,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 129,7,Female,Permanent,US National,USA,1987-10-29,2011-09-26,2017-07-29,Involuntary,Other,resigned,Job Portal
+2126,User - 2126,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 143,7,Female,Permanent,US National,USA,1986-11-23,2017-06-03,2017-07-29,Voluntary,Early Exit,resigned,Universities
+1879,User - 1879,15188,Retail Operations,Operations Dept 2,Unit 188,Position 111,7,Male,Permanent,US National,USA,1989-10-16,2016-01-16,2017-08-08,Voluntary,Other,resigned,Universities
+2146,User - 2146,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 24,6,Female,Permanent,US National,USA,1992-12-14,2017-07-09,2017-08-08,Voluntary,Early Exit,resigned,Job Portal
+1915,User - 1915,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 91,6,Female,Permanent,US National,USA,1992-07-27,2016-04-02,2017-08-13,Voluntary,Family Reason,resigned,Referral
+1429,User - 1429,15173,Retail Fashion,Retail Brand 13,Unit 173,Position 29,7,Female,Permanent,US National,USA,1989-10-08,2010-11-01,2017-08-15,Voluntary,Family Reason,resigned,Agency
+2049,User - 2049,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 44,6,Female,Permanent,US National,USA,1992-09-05,2016-12-11,2017-08-15,Voluntary,Other,resigned,Direct
+1005,User - 1005,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 40,12,Male,Permanent,Expat,IND,1955-11-15,1992-11-04,2017-08-15,Voluntary,Retirement,resigned,Universities
+1038,User - 1038,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 124,10,Male,Permanent,Expat,CAN,1965-09-14,1993-10-16,2017-08-27,Involuntary,Other,resigned,LinkedIn
+1136,User - 1136,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 132,10,Female,Permanent,Expat,CAN,1960-08-09,1999-12-01,2017-08-29,Involuntary,Termination,termination,Job Portal
+1426,User - 1426,15001,Board & Directors,Board Dept 1,Unit 1,Position 135,8,Male,Permanent,US National,USA,1988-01-07,2010-11-01,2017-08-30,Voluntary,Better opportunity,resigned,LinkedIn
+1765,User - 1765,15215,Strategy Group,Strategy Dept 3,Unit 215,Position 19,6,Female,Outsourced,Expat,CAN,1987-11-09,2015-02-15,2017-08-30,Voluntary,Family Reason,resigned,LinkedIn
+1133,User - 1133,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 61,9,Female,Permanent,Expat,AUS,1962-02-02,1998-12-01,2017-09-03,Involuntary,Performance Issue,resigned,Referral
+1903,User - 1903,15165,Retail Fashion,Retail Brand 13,Unit 165,Position 112,6,Male,Permanent,US National,USA,1993-02-14,2016-04-02,2017-09-04,Voluntary,Family Reason,resigned,Training Academy
+1254,User - 1254,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 74,9,Female,Permanent,US National,USA,1984-01-05,2006-03-19,2017-09-09,Voluntary,Better opportunity,resigned,Direct
+2164,User - 2164,15095,Retail Fashion,Retail Brand 2,Unit 95,Position 88,6,Male,Permanent,US National,USA,1993-09-07,2017-08-19,2017-09-09,Voluntary,Early Exit,resigned,Direct
+2092,User - 2092,15038,Finance Group,Finance Dept 5,Unit 38,Position 8,6,Male,Permanent,US National,USA,1994-09-25,2017-04-08,2017-09-11,Voluntary,Further Study,resigned,Job Portal
+1550,User - 1550,15185,Retail Operations,Operations Dept 2,Unit 185,Position 115,7,Male,Permanent,US National,USA,1990-04-15,2012-09-19,2017-09-11,Involuntary,Termination,termination,Agency
+1707,User - 1707,15190,Retail Operations,Operations Dept 3,Unit 190,Position 24,7,Male,Permanent,US National,USA,1990-07-16,2014-06-30,2017-09-15,Voluntary,Better opportunity,resigned,LinkedIn
+1496,User - 1496,15171,Retail Fashion,Retail Brand 13,Unit 171,Position 73,7,Female,Permanent,US National,USA,1991-04-16,2011-11-13,2017-09-15,Voluntary,Family Reason,resigned,Job Portal
+1061,User - 1061,15188,Retail Operations,Operations Dept 2,Unit 188,Position 56,9,Male,Outsourced,Expat,IND,1955-11-17,1997-08-20,2017-09-15,Involuntary,Retirement,resigned,Referral
+2143,User - 2143,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 127,6,Male,Permanent,US National,USA,1992-03-24,2017-07-09,2017-09-17,Voluntary,Early Exit,resigned,Agency
+1747,User - 1747,15084,Private Franchisee,Framchisee 3,Unit 84,Position 90,11,Female,Permanent,US National,USA,1976-06-02,2014-12-13,2017-09-17,Involuntary,Termination,resigned,Referral
+1594,User - 1594,15165,Retail Fashion,Retail Brand 13,Unit 165,Position 134,7,Male,Permanent,US National,USA,1988-02-06,2013-04-01,2017-09-20,Involuntary,Performance Issue,resigned,Agency
+1695,User - 1695,15040,Finance Group,Finance Dept 6,Unit 40,Position 85,8,Female,Permanent,US National,USA,1987-03-19,2014-05-06,2017-09-23,Voluntary,Better opportunity,resigned,Universities
+1245,User - 1245,15212,Social Media Group,Social Media Department,Unit 212,Position 53,11,Female,Permanent,US National,USA,1977-07-01,2006-07-30,2017-09-27,Voluntary,Better opportunity,resigned,Referral
+1872,User - 1872,15173,Retail Fashion,Retail Brand 13,Unit 173,Position 12,6,Female,Permanent,US National,USA,1992-03-28,2015-12-14,2017-09-27,Voluntary,Better opportunity,resigned,LinkedIn
+1238,User - 1238,15152,Retail Fashion,Retail Brand 13,Unit 152,Position 27,9,Male,Permanent,US National,USA,1986-06-01,2006-06-04,2017-09-27,Voluntary,Family Reason,resigned,Referral
+2123,User - 2123,15178,Retail Fashion,Retail Brand 14,Unit 178,Position 1,7,Male,Permanent,US National,USA,1984-09-25,2017-06-03,2017-09-30,Involuntary,Termination,termination,Agency
+1605,User - 1605,15147,Retail Fashion,Retail Brand 12,Unit 147,Position 134,7,Female,Permanent,US National,USA,1985-11-04,2013-04-01,2017-10-03,Involuntary,Other,resigned,LinkedIn
+1519,User - 1519,15220,Technology Group,Technology Software Dept,Unit 220,Position 99,14,Female,Permanent,US National,USA,1969-11-22,2012-03-01,2017-10-04,Voluntary,Better opportunity,resigned,Universities
+1405,User - 1405,15193,Retail Operations,Operations Dept 3,Unit 193,Position 2,11,Male,Permanent,US National,USA,1980-10-29,2010-03-07,2017-10-15,Voluntary,Better opportunity,resigned,Direct
+1332,User - 1332,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 97,8,Female,Outsourced,Expat,CAN,1983-01-06,2008-08-03,2017-10-16,Voluntary,Family Reason,resigned,Agency
+2122,User - 2122,15156,Retail Fashion,Retail Brand 13,Unit 156,Position 60,7,Female,Permanent,US National,USA,1985-03-14,2017-06-03,2017-10-16,Voluntary,Other,resigned,Job Portal
+1742,User - 1742,15209,Risk Group,Risk Department,Unit 209,Position 19,10,Male,Permanent,US National,USA,1988-11-30,2014-11-10,2017-10-18,Voluntary,Family Reason,resigned,Referral
+2046,User - 2046,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 55,6,Male,Permanent,US National,USA,1991-11-01,2016-12-11,2017-10-18,Voluntary,Family Reason,resigned,Direct
+1852,User - 1852,15186,Retail Operations,Operations Dept 2,Unit 186,Position 103,7,Female,Permanent,US National,USA,1985-02-28,2015-11-17,2017-10-21,Voluntary,Family Reason,resigned,Referral
+1874,User - 1874,15115,Retail Fashion,Retail Brand 5,Unit 115,Position 34,9,Male,Permanent,US National,USA,1983-10-22,2016-01-03,2017-10-23,Involuntary,Other,resigned,Training Academy
+2149,User - 2149,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 90,6,Male,Permanent,US National,USA,1994-08-18,2017-07-09,2017-10-24,Voluntary,Family Reason,resigned,Universities
+1783,User - 1783,15042,Finance Group,Finance Dept 6,Unit 42,Position 38,6,Female,Permanent,US National,USA,1991-09-28,2015-04-14,2017-10-25,Voluntary,Better opportunity,resigned,LinkedIn
+1706,User - 1706,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 10,7,Male,Permanent,US National,USA,1991-12-19,2014-06-30,2017-10-25,Voluntary,Other,resigned,Universities
+1164,User - 1164,15087,Retail Fashion,Retail Brand 1,Unit 87,Position 52,10,Male,Permanent,US National,USA,1969-02-08,2004-07-11,2017-10-28,Voluntary,Family Reason,resigned,Agency
+1900,User - 1900,15055,HR Group,HR Dept 2,Unit 55,Position 132,13,Female,Permanent,Expat,CAN,1975-11-29,2016-03-13,2017-10-31,Voluntary,Family Reason,resigned,Universities
+1397,User - 1397,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 119,9,Female,Permanent,US National,USA,1985-02-07,2009-10-04,2017-11-01,Voluntary,Further Study,resigned,Referral
+1163,User - 1163,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 36,9,Male,Permanent,Expat,CAN,1982-02-23,2004-07-18,2017-11-08,Involuntary,Performance Issue,resigned,Agency
+1910,User - 1910,15038,Finance Group,Finance Dept 5,Unit 38,Position 146,6,Male,Permanent,US National,USA,1994-01-21,2016-04-03,2017-11-14,Voluntary,Better opportunity,resigned,Job Portal
+1746,User - 1746,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 125,9,Female,Permanent,US National,USA,1986-05-02,2014-12-07,2017-11-15,Voluntary,Better opportunity,resigned,Referral
+1312,User - 1312,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 10,10,Female,Permanent,US National,USA,1981-09-18,2008-05-04,2017-11-15,Voluntary,Other,resigned,Job Portal
+1054,User - 1054,15060,HR Group,HR Dept 2,Unit 60,Position 101,11,Male,Permanent,US National,USA,1970-11-02,1996-12-22,2017-11-15,Voluntary,Retirement,resigned,Direct
+1909,User - 1909,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 133,6,Male,Permanent,US National,USA,1992-05-05,2016-04-03,2017-11-22,Voluntary,Better opportunity,resigned,Universities
+2080,User - 2080,15038,Finance Group,Finance Dept 5,Unit 38,Position 112,6,Male,Permanent,US National,USA,1992-12-07,2017-03-01,2017-11-26,Voluntary,Better opportunity,resigned,Universities
+1988,User - 1988,15038,Finance Group,Finance Dept 5,Unit 38,Position 56,6,Female,Permanent,US National,USA,1986-01-26,2016-08-28,2017-11-26,Voluntary,Other,resigned,Direct
+2053,User - 2053,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 73,6,Female,Permanent,US National,USA,1993-06-01,2016-12-12,2017-11-29,Voluntary,Other,resigned,Direct
+2003,User - 2003,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 78,6,Female,Permanent,US National,USA,1994-01-01,2016-09-18,2017-12-13,Voluntary,Other,resigned,Job Portal
+1722,User - 1722,15060,HR Group,HR Dept 2,Unit 60,Position 58,9,Male,Permanent,US National,USA,1990-06-24,2014-09-07,2017-12-13,Voluntary,Other,resigned,LinkedIn
+1134,User - 1134,15004,Board & Directors,Board Dept 4,Unit 4,Position 82,5,Female,Permanent,Expat,IND,1953-08-05,1992-08-04,2017-12-16,Involuntary,Retirement,resigned,Training Academy
+1040,User - 1040,15192,Retail Operations,Operations Dept 3,Unit 192,Position 74,8,Male,Outsourced,Expat,IND,1956-01-21,1994-04-04,2017-12-16,Voluntary,Retirement,resigned,LinkedIn
+1757,User - 1757,15168,Retail Fashion,Retail Brand 13,Unit 168,Position 122,6,Female,Permanent,US National,USA,1992-01-16,2014-12-21,2017-12-20,Voluntary,Other,resigned,Training Academy
+2121,User - 2121,15053,HR Group,HR Dept 1,Unit 53,Position 40,7,Male,Permanent,US National,USA,1994-02-28,2017-06-01,2017-12-20,Voluntary,Timing,resigned,LinkedIn
+1934,User - 1934,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 26,8,Male,Permanent,US National,USA,1989-10-13,2016-04-17,2017-12-26,Voluntary,Better opportunity,resigned,Agency
+2145,User - 2145,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 18,6,Female,Permanent,US National,USA,1990-11-23,2017-07-10,2018-01-01,Voluntary,Further Study,resigned,Training Academy
+1559,User - 1559,15073,Market Research,Marketing Dept,Unit 73,Position 55,9,Female,Outsourced,Expat,CAN,1991-01-16,2012-10-07,2018-01-03,Voluntary,Better opportunity,resigned,Universities
+1770,User - 1770,15080,Planning Group,Planning Dept 2,Unit 80,Position 129,11,Male,Permanent,Expat,IND,1978-04-21,2015-03-08,2018-01-16,Voluntary,Team Issue,resigned,Job Portal
+2154,User - 2154,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 23,6,Female,Permanent,US National,USA,1994-10-28,2017-07-10,2018-01-16,Involuntary,Terminated,resigned,Universities
+1193,User - 1193,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 19,12,Male,Permanent,US National,USA,1971-08-03,2005-05-30,2018-01-17,Voluntary,Retirement,resigned,Agency
+2051,User - 2051,15108,Retail Fashion,Retail Brand 3,Unit 108,Position 91,6,Female,Permanent,US National,USA,1993-03-28,2016-12-12,2018-01-22,Voluntary,Better opportunity,resigned,Job Portal
+1243,User - 1243,15021,Finance Group,Finance Dept 4,Unit 21,Position 73,12,Female,Permanent,Expat,PRT,1956-02-07,2006-07-02,2018-01-22,Involuntary,Retirement,resigned,Training Academy
+1992,User - 1992,15026,Finance Group,Finance Dept 4,Unit 26,Position 132,7,Male,Permanent,US National,USA,1993-07-17,2016-09-04,2018-01-31,Voluntary,Other,resigned,Direct
+1950,User - 1950,15185,Retail Operations,Operations Dept 2,Unit 185,Position 141,8,Female,Permanent,US National,USA,1988-06-11,2016-06-01,2018-02-12,Voluntary,Better opportunity,resigned,Referral
+1507,User - 1507,15154,Retail Fashion,Retail Brand 13,Unit 154,Position 110,8,Male,Permanent,US National,USA,1987-10-03,2011-11-23,2018-02-21,Voluntary,Family Reason,resigned,LinkedIn
+1242,User - 1242,15197,Retail Operations,Operations Dept 3,Unit 197,Position 74,11,Female,Permanent,Expat,IND,1975-05-15,2006-07-02,2018-03-04,Involuntary,Unsatisfactory Work,resigned,Universities
+1063,User - 1063,15007,CEO,CEO Dept 3,Unit 7,Position 146,8,Female,Permanent,US National,USA,1972-12-11,1997-12-28,2018-03-07,Voluntary,Team Issue,resigned,Referral
+1823,User - 1823,15184,Retail Operations,Operations Dept 1,Unit 184,Position 44,7,Male,Permanent,US National,USA,1989-04-18,2015-09-13,2018-03-10,Voluntary,Unsatisfactory Work,resigned,Job Portal
+1751,User - 1751,15063,Internal Audit Group,Audit Dept 1,Unit 63,Position 105,6,Male,Permanent,US National,USA,1990-10-08,2014-12-21,2018-03-13,Voluntary,Performance Issue,resigned,Universities
+1834,User - 1834,15186,Retail Operations,Operations Dept 2,Unit 186,Position 41,7,Female,Permanent,US National,USA,1988-03-28,2015-10-18,2018-03-14,Voluntary,Better opportunity,resigned,LinkedIn
+1689,User - 1689,15217,Technology Group,Technology Software Dept,Unit 217,Position 60,10,Female,Permanent,Expat,IND,1979-07-24,2014-04-28,2018-03-16,Voluntary,Better opportunity,resigned,Agency
+1368,User - 1368,15175,Retail Fashion,Retail Brand 14,Unit 175,Position 10,9,Female,Permanent,US National,USA,1986-05-29,2009-03-26,2018-03-16,Voluntary,Better opportunity,resigned,Job Portal
+1771,User - 1771,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 148,12,Female,Permanent,Expat,IND,1975-01-04,2015-03-18,2018-03-16,Voluntary,Better opportunity,resigned,Universities
+1492,User - 1492,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 107,11,Female,Permanent,Expat,IND,1984-03-26,2011-10-02,2018-03-16,Voluntary,Family Reason,resigned,Training Academy
+1102,User - 1102,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 118,9,Female,Permanent,US National,USA,1975-02-07,2000-05-15,2018-03-16,Voluntary,Retirement,resigned,Agency
+1058,User - 1058,15008,Finance Group,Finance Dept 1,Unit 8,Position 3,12,Male,Permanent,US National,USA,1968-03-04,1997-07-06,2018-03-16,Voluntary,Retirement,resigned,Direct
+1578,User - 1578,15136,Retail Fashion,Retail Brand 7,Unit 136,Position 122,9,Female,Permanent,US National,USA,1987-06-23,2012-12-18,2018-03-17,Voluntary,Better opportunity,resigned,Job Portal
+1380,User - 1380,15222,Technology Group,Technology Infrastructure Dept,Unit 222,Position 4,11,Female,Permanent,US National,USA,1976-04-18,2009-07-12,2018-03-17,Voluntary,Govt Job,resigned,LinkedIn
+1531,User - 1531,15058,HR Group,HR Dept 2,Unit 58,Position 35,7,Female,Permanent,US National,USA,1970-11-15,2012-06-18,2018-03-18,Voluntary,Better opportunity,resigned,LinkedIn
+1983,User - 1983,15225,Technology Group,Technology Infrastructure Dept,Unit 225,Position 88,7,Male,Permanent,US National,USA,1992-07-13,2016-08-21,2018-03-20,Voluntary,Better opportunity,resigned,Job Portal
+1590,User - 1590,15221,Technology Group,Technology Software Dept,Unit 221,Position 2,10,Male,Permanent,US National,USA,1970-12-16,2013-03-03,2018-03-21,Voluntary,Better opportunity,resigned,Referral
+1230,User - 1230,15221,Technology Group,Technology Software Dept,Unit 221,Position 63,10,Female,Outsourced,Expat,PHL,1976-02-06,2006-02-09,2018-03-21,Voluntary,Better opportunity,resigned,LinkedIn
+1628,User - 1628,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 5,6,Male,Permanent,US National,USA,1992-09-06,2013-09-01,2018-03-24,Voluntary,Other,resigned,Agency
+1520,User - 1520,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 83,7,Female,Permanent,US National,USA,1988-04-23,2012-03-04,2018-03-28,Voluntary,Govt Job,resigned,LinkedIn
+2091,User - 2091,15038,Finance Group,Finance Dept 5,Unit 38,Position 62,6,Female,Permanent,US National,USA,1990-08-12,2017-04-09,2018-04-04,Voluntary,Govt Job,resigned,Direct
+2132,User - 2132,15131,Retail Fashion,Retail Brand 7,Unit 131,Position 138,7,Female,Permanent,US National,USA,1990-04-17,2017-06-11,2018-04-07,Voluntary,Other,resigned,Referral
+1398,User - 1398,15016,Finance Group,Finance Dept 4,Unit 16,Position 25,8,Female,Permanent,US National,USA,1980-05-20,2009-10-18,2018-04-15,Voluntary,Better opportunity,resigned,Job Portal
+2109,User - 2109,15156,Retail Fashion,Retail Brand 13,Unit 156,Position 128,7,Male,Outsourced,Expat,POL,1978-05-14,2017-04-09,2018-04-15,Involuntary,Unsatisfactory Work,resigned,Agency
+1382,User - 1382,15182,Retail Operations,Operations Dept 1,Unit 182,Position 119,12,Male,Permanent,US National,USA,1973-09-13,2009-08-09,2018-04-18,Voluntary,Better opportunity,resigned,Job Portal
+1912,User - 1912,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 117,6,Male,Permanent,US National,USA,1994-04-20,2016-04-03,2018-04-24,Voluntary,Better opportunity,resigned,Job Portal
+1948,User - 1948,15138,Retail Fashion,Retail Brand 8,Unit 138,Position 58,7,Male,Permanent,US National,USA,1987-01-04,2016-05-22,2018-04-25,Voluntary,Better opportunity,resigned,LinkedIn
+2079,User - 2079,15220,Technology Group,Technology Software Dept,Unit 220,Position 31,7,Male,Permanent,US National,USA,1984-04-03,2017-03-01,2018-05-02,Voluntary,Better opportunity,resigned,Direct
+1702,User - 1702,15186,Retail Operations,Operations Dept 2,Unit 186,Position 89,8,Male,Permanent,US National,USA,1990-03-17,2014-06-15,2018-05-09,Voluntary,Better opportunity,resigned,Training Academy
+2144,User - 2144,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 32,6,Female,Permanent,US National,USA,1993-08-23,2017-07-10,2018-05-16,Voluntary,Better opportunity,resigned,Agency
+2151,User - 2151,15092,Retail Fashion,Retail Brand 1,Unit 92,Position 123,6,Male,Permanent,US National,USA,1991-05-21,2017-07-10,2018-05-16,Voluntary,Family Reason,resigned,Agency
+2075,User - 2075,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 105,7,Male,Outsourced,Expat,CAN,1983-09-06,2017-02-19,2018-05-16,Voluntary,Other,resigned,Universities
+2093,User - 2093,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 119,6,Male,Permanent,US National,USA,1993-04-01,2017-04-09,2018-05-17,Voluntary,Better opportunity,resigned,Training Academy
+1357,User - 1357,15099,Retail Fashion,Retail Brand 3,Unit 99,Position 124,9,Female,Permanent,US National,USA,1988-01-14,2009-01-11,2018-05-27,Voluntary,Better opportunity,resigned,Training Academy
+1985,User - 1985,15044,Finance Group,Finance Dept 6,Unit 44,Position 85,7,Female,Permanent,US National,USA,1987-10-10,2016-08-21,2018-05-28,Voluntary,Unsatisfactory Work,resigned,LinkedIn
+2085,User - 2085,15071,Legal Group,Legal Dept 1,Unit 71,Position 81,14,Male,Permanent,Expat,PRC,1965-01-20,2017-03-12,2018-06-01,Voluntary,Govt Job,resigned,Agency
+1322,User - 1322,15080,Planning Group,Planning Dept 2,Unit 80,Position 58,11,Female,Outsourced,Expat,PHL,1984-07-02,2008-06-08,2018-06-04,Voluntary,Performance Issue,resigned,Referral
+2036,User - 2036,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 61,7,Male,Permanent,US National,USA,1990-06-13,2016-12-04,2018-06-05,Voluntary,Unsatisfactory Work,resigned,Referral
+1407,User - 1407,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 32,9,Female,Permanent,US National,USA,1986-06-18,2010-03-21,2018-06-10,Voluntary,Performance Issue,resigned,Training Academy
+1252,User - 1252,15212,Social Media Group,Social Media Department,Unit 212,Position 145,14,Male,Permanent,Expat,PHL,1978-10-08,2006-12-03,2018-06-15,Voluntary,Other,resigned,Job Portal
+1010,User - 1010,15071,Legal Group,Legal Dept 1,Unit 71,Position 96,7,Female,Outsourced,Expat,CAN,1957-02-04,1992-04-11,2018-06-15,Involuntary,Retirement,resigned,Universities
+1004,User - 1004,15192,Retail Operations,Operations Dept 3,Unit 192,Position 56,9,Female,Permanent,Expat,IND,1956-01-31,1992-02-16,2018-06-15,Involuntary,Retirement,resigned,Direct
+1029,User - 1029,15190,Retail Operations,Operations Dept 3,Unit 190,Position 91,9,Male,Permanent,Expat,IND,1956-11-30,1992-08-22,2018-06-15,Voluntary,Retirement,resigned,Agency
+1617,User - 1617,15013,Finance Group,Finance Dept 4,Unit 13,Position 45,8,Female,Permanent,US National,USA,1989-08-26,2013-06-09,2018-06-16,Voluntary,Further Study,resigned,Universities
+1182,User - 1182,15072,Legal Group,Legal Dept 1,Unit 72,Position 65,9,Male,Permanent,Expat,CAN,1982-02-03,2005-02-20,2018-06-16,Voluntary,Other,resigned,Training Academy
+1449,User - 1449,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 122,9,Female,Permanent,US National,USA,1988-02-15,2011-03-20,2018-06-16,Voluntary,Other,resigned,Universities
+2034,User - 2034,15134,Retail Fashion,Retail Brand 7,Unit 134,Position 112,7,Male,Permanent,US National,USA,1987-04-03,2016-11-15,2018-06-17,Voluntary,Better opportunity,resigned,Referral
+1743,User - 1743,15217,Technology Group,Technology Software Dept,Unit 217,Position 120,8,Male,Permanent,US National,USA,1983-04-13,2014-11-16,2018-06-24,Voluntary,Other,resigned,LinkedIn
+1923,User - 1923,15074,Planning Group,Planning Dept 1,Unit 74,Position 144,10,Female,Permanent,Expat,IND,1986-02-12,2016-04-03,2018-06-30,Voluntary,Govt Job,resigned,Training Academy
+1437,User - 1437,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 81,9,Male,Permanent,US National,USA,1987-12-25,2010-12-15,2018-07-04,Involuntary,Change of profession,resigned,Job Portal
+1037,User - 1037,15015,Finance Group,Finance Dept 4,Unit 15,Position 70,8,Female,Outsourced,Expat,IND,1956-07-20,1993-09-22,2018-07-05,Involuntary,Retirement,resigned,Job Portal
+1583,User - 1583,15080,Planning Group,Planning Dept 2,Unit 80,Position 61,11,Male,Permanent,Expat,IND,1982-03-26,2013-01-20,2018-07-08,Voluntary,Early Exit,resigned,LinkedIn
+1115,User - 1115,15190,Retail Operations,Operations Dept 3,Unit 190,Position 137,9,Male,Permanent,US National,USA,1977-01-30,2007-01-28,2018-07-11,Voluntary,Terminated,resigned,Universities
+2107,User - 2107,15175,Retail Fashion,Retail Brand 14,Unit 175,Position 128,7,Male,Permanent,US National,USA,1982-08-11,2017-04-09,2018-07-11,Voluntary,Public Sector Offer,resigned,Direct
+1954,User - 1954,15034,Finance Group,Finance Dept 4,Unit 34,Position 112,11,Female,Permanent,US National,USA,1973-11-26,2016-06-19,2018-07-16,Voluntary,Other,resigned,Job Portal
+2147,User - 2147,15118,Retail Fashion,Retail Brand 5,Unit 118,Position 84,6,Male,Permanent,US National,USA,1991-06-04,2017-07-10,2018-07-17,Voluntary,Govt Job,resigned,Direct
+1925,User - 1925,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 69,6,Female,Permanent,US National,USA,1992-10-17,2016-04-04,2018-07-25,Voluntary,Public Sector Offer,resigned,Universities
+2082,User - 2082,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 46,6,Male,Permanent,Expat,PRC,1994-07-25,2017-03-05,2018-08-01,Voluntary,Moved Far from Office,resigned,Referral
+1510,User - 1510,15001,Board & Directors,Board Dept 1,Unit 1,Position 129,8,Female,Permanent,US National,USA,1990-06-07,2011-11-23,2018-08-11,Voluntary,Govt Job,resigned,Direct
+1990,User - 1990,15056,HR Group,HR Dept 2,Unit 56,Position 93,8,Male,Permanent,US National,USA,1990-08-17,2016-09-04,2018-08-11,Voluntary,Other,resigned,Universities
+1478,User - 1478,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 134,9,Female,Permanent,US National,USA,1983-12-02,2011-07-03,2018-08-20,Voluntary,Better opportunity,resigned,Direct
+2102,User - 2102,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 126,6,Male,Permanent,US National,USA,1989-05-12,2017-04-09,2018-08-26,Voluntary,Govt Job,resigned,Agency
+1191,User - 1191,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 77,9,Female,Permanent,Expat,IRE,1979-10-25,2005-05-22,2018-09-02,Involuntary,Change of profession,resigned,Training Academy
+2069,User - 2069,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 10,10,Male,Permanent,US National,USA,1986-12-24,2017-02-01,2018-09-23,Voluntary,Better opportunity,resigned,Referral
+2116,User - 2116,15007,CEO,CEO Dept 3,Unit 7,Position 57,9,Male,Outsourced,Expat,IND,1991-11-16,2017-05-14,2018-09-23,Voluntary,Better opportunity,resigned,Job Portal
+1007,User - 1007,15188,Retail Operations,Operations Dept 2,Unit 188,Position 69,12,Male,Permanent,Expat,IND,1955-11-28,1991-08-19,2018-09-26,Involuntary,Retirement,resigned,Direct
+1553,User - 1553,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 139,7,Female,Permanent,US National,USA,1991-06-26,2012-09-19,2018-09-28,Voluntary,Change of profession,resigned,Training Academy
+1552,User - 1552,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 59,8,Male,Permanent,US National,USA,1989-03-07,2012-09-19,2018-10-14,Voluntary,Govt Job,resigned,Training Academy
+1705,User - 1705,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 96,9,Male,Permanent,US National,USA,1981-06-28,2014-06-29,2018-10-21,Voluntary,Better opportunity,resigned,Universities
+1826,User - 1826,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 62,9,Female,Permanent,US National,USA,1979-06-16,2015-10-01,2018-10-24,Involuntary,Change of profession,resigned,Job Portal
+1460,User - 1460,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 122,9,Female,Permanent,US National,USA,1986-12-27,2011-04-24,2018-10-27,Voluntary,Better opportunity,resigned,Job Portal
+2128,User - 2128,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 121,6,Female,Permanent,US National,USA,1993-11-04,2017-06-04,2018-10-27,Voluntary,Better opportunity,resigned,Referral
+1428,User - 1428,15193,Retail Operations,Operations Dept 3,Unit 193,Position 50,8,Male,Permanent,US National,USA,1982-11-17,2010-11-01,2018-10-27,Voluntary,Other,resigned,Referral
+1173,User - 1173,15192,Retail Operations,Operations Dept 3,Unit 192,Position 5,9,Male,Outsourced,Expat,IND,1956-06-15,2004-11-01,2018-10-27,Voluntary,Retirement,resigned,Agency
+1800,User - 1800,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 28,11,Female,Permanent,Expat,ESP,1977-07-27,2015-05-17,2018-10-28,Voluntary,Further Study,resigned,LinkedIn
+2050,User - 2050,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 49,6,Male,Permanent,US National,USA,1990-06-15,2016-12-12,2018-10-28,Voluntary,Performance Issue,resigned,Training Academy
+1796,User - 1796,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 119,7,Female,Permanent,US National,USA,1980-08-23,2015-05-11,2018-10-28,Voluntary,Public Sector Offer,resigned,Training Academy
+2172,User - 2172,15065,Investment Group,Investment Dept 2,Unit 65,Position 79,8,Male,Permanent,US National,USA,1992-04-14,2017-09-17,2018-10-31,Voluntary,Govt Job,resigned,LinkedIn
+2100,User - 2100,15091,Retail Fashion,Retail Brand 1,Unit 91,Position 116,6,Female,Permanent,US National,USA,1995-03-06,2017-04-09,2018-10-31,Voluntary,Other,resigned,Universities
+1961,User - 1961,15202,Risk Group,Risk Department,Unit 202,Position 57,11,Female,Permanent,Expat,IND,1979-10-10,2016-06-28,2018-11-02,Voluntary,Better opportunity,resigned,LinkedIn
+1016,User - 1016,15217,Technology Group,Technology Software Dept,Unit 217,Position 73,11,Male,Permanent,Expat,CAN,1956-03-11,1996-10-13,2018-11-14,Involuntary,Retirement,resigned,Direct
+1588,User - 1588,15084,Private Franchisee,Framchisee 3,Unit 84,Position 57,8,Female,Permanent,US National,USA,1988-10-30,2013-02-17,2018-11-25,Voluntary,Public Sector Offer,resigned,LinkedIn
+2169,User - 2169,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 98,6,Female,Permanent,US National,USA,1989-03-31,2017-09-11,2018-11-26,Voluntary,Public Sector Offer,resigned,LinkedIn
+1006,User - 1006,15218,Technology Group,Technology Software Dept,Unit 218,Position 98,10,Male,Permanent,Expat,SIN,1956-09-16,1991-07-01,2018-11-26,Involuntary,Retirement,resigned,Direct
+1480,User - 1480,15045,Finance Group,Finance Dept 6,Unit 45,Position 19,13,Male,Permanent,Expat,IRE,1967-03-25,2011-07-12,2018-11-28,Voluntary,Govt Job,resigned,Referral
+1525,User - 1525,15109,Retail Fashion,Retail Brand 3,Unit 109,Position 46,8,Female,Permanent,US National,USA,1989-03-24,2012-04-01,2018-12-13,Voluntary,Better opportunity,resigned,Direct
+1582,User - 1582,15224,Technology Group,Technology Infrastructure Dept,Unit 224,Position 30,12,Female,Permanent,Expat,NOR,1980-06-27,2013-01-13,2018-12-22,Voluntary,Govt Job,resigned,Referral
+1325,User - 1325,15099,Retail Fashion,Retail Brand 3,Unit 99,Position 63,9,Male,Permanent,US National,USA,1986-12-04,2008-06-15,2018-12-27,Voluntary,Govt Job,resigned,Universities
+1864,User - 1864,15087,Retail Fashion,Retail Brand 1,Unit 87,Position 80,6,Female,Permanent,US National,USA,1992-01-01,2015-12-15,2019-01-01,Voluntary,Further Study,resigned,Direct
+1542,User - 1542,15080,Planning Group,Planning Dept 2,Unit 80,Position 112,13,Female,Permanent,Expat,SIN,1979-03-29,2012-09-02,2019-01-02,Voluntary,Better opportunity,resigned,Job Portal
+2045,User - 2045,15087,Retail Fashion,Retail Brand 1,Unit 87,Position 57,6,Female,Permanent,US National,USA,1990-10-18,2016-12-12,2019-01-02,Voluntary,Better opportunity,resigned,Direct
+1001,User - 1001,15005,CEO,CEO Dept 1,Unit 5,Position 53,16,Male,Permanent,Expat,SRI,1955-04-07,2010-07-01,2019-01-02,Voluntary,Other,resigned,Job Portal
+1734,User - 1734,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 63,10,Female,Permanent,US National,USA,1981-05-23,2014-10-01,2019-01-02,Voluntary,Other,resigned,Job Portal
+1009,User - 1009,15184,Retail Operations,Operations Dept 1,Unit 184,Position 31,11,Female,Permanent,Expat,CAN,1958-12-25,1996-03-31,2019-01-02,Involuntary,Retirement,resigned,Direct
+1042,User - 1042,15192,Retail Operations,Operations Dept 3,Unit 192,Position 77,11,Male,Permanent,Expat,IND,1951-09-14,1994-09-28,2019-01-02,Involuntary,Retirement,resigned,Agency
+1128,User - 1128,15218,Technology Group,Technology Software Dept,Unit 218,Position 113,7,Male,Outsourced,Expat,RUS,1956-04-11,2001-10-24,2019-01-02,Voluntary,Retirement,resigned,Direct
+1739,User - 1739,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 9,7,Female,Permanent,US National,USA,1992-12-18,2014-11-09,2019-01-12,Voluntary,Better opportunity,resigned,Agency
+2040,User - 2040,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 12,6,Female,Permanent,US National,USA,1992-04-05,2016-12-12,2019-01-15,Voluntary,Other,resigned,Universities
+1652,User - 1652,15080,Planning Group,Planning Dept 2,Unit 80,Position 78,10,Female,Permanent,US National,USA,1985-12-31,2013-12-01,2019-01-26,Voluntary,Better opportunity,resigned,Training Academy
+1701,User - 1701,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 76,11,Female,Permanent,US National,USA,1984-11-15,2014-06-09,2019-01-30,Voluntary,Team Issue,resigned,Universities
+1974,User - 1974,15080,Planning Group,Planning Dept 2,Unit 80,Position 130,9,Male,Outsourced,Expat,IND,1978-05-23,2016-08-01,2019-02-02,Voluntary,Better opportunity,resigned,Training Academy
+1938,User - 1938,15078,Planning Group,Planning Dept 2,Unit 78,Position 6,7,Female,Permanent,US National,USA,1992-02-14,2016-04-24,2019-02-02,Voluntary,Better opportunity,resigned,Universities
+2089,User - 2089,15146,Retail Fashion,Retail Brand 12,Unit 146,Position 82,11,Female,Permanent,US National,USA,1984-04-16,2017-04-02,2019-02-09,Voluntary,Moved Far from Office,resigned,Direct
+1933,User - 1933,15016,Finance Group,Finance Dept 4,Unit 16,Position 39,7,Male,Permanent,US National,USA,1993-07-26,2016-04-10,2019-02-15,Voluntary,Better opportunity,resigned,Universities
+2026,User - 2026,15087,Retail Fashion,Retail Brand 1,Unit 87,Position 13,6,Male,Permanent,US National,USA,1990-04-30,2016-10-09,2019-02-23,Voluntary,Public Sector Offer,resigned,Agency
+2054,User - 2054,15160,Retail Fashion,Retail Brand 13,Unit 160,Position 16,6,Female,Permanent,US National,USA,1992-09-17,2016-12-12,2019-02-28,Voluntary,Public Sector Offer,resigned,Direct
+1452,User - 1452,15204,Risk Group,Risk Department,Unit 204,Position 75,9,Female,Permanent,US National,USA,1987-12-27,2011-04-03,2019-03-01,Voluntary,Better opportunity,resigned,Agency
+2246,User - 2246,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 20,8,Male,Permanent,Expat,PRC,1975-02-04,2012-04-17,2019-03-02,Involuntary,Other,termination,Agency
+1719,User - 1719,15209,Risk Group,Risk Department,Unit 209,Position 44,10,Male,Outsourced,Expat,IND,1978-07-18,2014-09-01,2019-03-05,Voluntary,Better opportunity,resigned,Training Academy
+1838,User - 1838,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 142,7,Male,Permanent,US National,USA,1990-12-01,2015-10-18,2019-03-05,Voluntary,Public Sector Offer,resigned,Referral
+2094,User - 2094,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 122,6,Female,Permanent,US National,USA,1993-05-11,2017-04-09,2019-03-08,Voluntary,Performance Issue,resigned,LinkedIn
+1547,User - 1547,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 95,8,Female,Permanent,US National,USA,1986-11-01,2012-09-19,2019-03-09,Voluntary,Other,resigned,Direct
+1962,User - 1962,15206,Risk Group,Risk Department,Unit 206,Position 138,8,Male,Permanent,US National,USA,1990-02-27,2016-07-04,2019-03-16,Voluntary,Better opportunity,resigned,Universities
+1555,User - 1555,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 79,6,Female,Permanent,US National,USA,1990-10-09,2012-09-19,2019-03-16,Voluntary,Team Issue,resigned,LinkedIn
+1678,User - 1678,15096,Retail Fashion,Retail Brand 2,Unit 96,Position 76,7,Male,Permanent,US National,USA,1989-02-01,2014-04-01,2019-03-26,Voluntary,Terminated,resigned,Direct
+1105,User - 1105,15038,Finance Group,Finance Dept 5,Unit 38,Position 22,7,Male,Permanent,Expat,IND,1958-03-05,2000-07-10,2019-03-26,Involuntary,Retirement,resigned,Training Academy
+1810,User - 1810,15209,Risk Group,Risk Department,Unit 209,Position 42,9,Female,Outsourced,Expat,IND,1982-07-04,2015-07-21,2019-03-27,Voluntary,Better opportunity,resigned,Universities
+1436,User - 1436,15138,Retail Fashion,Retail Brand 8,Unit 138,Position 45,8,Male,Permanent,US National,USA,1984-05-13,2010-12-15,2019-03-28,Voluntary,Better opportunity,resigned,Direct
+2171,User - 2171,15074,Planning Group,Planning Dept 1,Unit 74,Position 99,8,Female,Permanent,US National,USA,1992-11-08,2017-09-11,2019-04-02,Voluntary,Better opportunity,resigned,LinkedIn
+1959,User - 1959,15202,Risk Group,Risk Department,Unit 202,Position 68,9,Female,Permanent,US National,USA,1989-10-24,2016-06-26,2019-04-02,Voluntary,Better opportunity,resigned,Referral
+1434,User - 1434,15154,Retail Fashion,Retail Brand 13,Unit 154,Position 46,8,Female,Permanent,US National,USA,1978-04-20,2010-12-15,2019-04-02,Voluntary,Better opportunity,resigned,LinkedIn
+1580,User - 1580,15197,Retail Operations,Operations Dept 3,Unit 197,Position 129,6,Female,Permanent,US National,USA,1950-05-11,2013-01-02,2019-04-02,Involuntary,Retirement,resigned,Job Portal
+2127,User - 2127,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 137,10,Female,Permanent,US National,USA,1977-07-15,2017-06-03,,,,,Universities
+1809,User - 1809,15084,Private Franchisee,Framchisee 3,Unit 84,Position 132,10,Male,Permanent,Expat,CAN,1985-04-06,2015-07-21,,,,,Universities
+2191,User - 2191,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 7,6,Female,Permanent,US National,USA,1995-05-08,2017-10-15,,,,,Universities
+1469,User - 1469,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 112,9,Female,Permanent,US National,USA,1986-02-28,2011-06-26,,,,,Referral
+1433,User - 1433,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 105,15,Male,Permanent,Expat,AUS,1955-08-12,2010-12-05,,,,,Universities
+1117,User - 1117,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 41,11,Female,Permanent,Expat,AUS,1971-12-28,2001-03-18,,,,,Referral
+1287,User - 1287,15058,HR Group,HR Dept 2,Unit 58,Position 55,10,Female,Outsourced,Expat,AUS,1979-05-18,2008-01-02,,,,,Job Portal
+1660,User - 1660,15067,Investment Group,Investment Dept 2,Unit 67,Position 135,15,Male,Permanent,Expat,AUS,1965-06-18,2014-01-22,,,,,Universities
+2208,User - 2208,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 144,6,Male,Permanent,Expat,PRC,1994-11-06,2017-11-12,,,,,Universities
+1979,User - 1979,15067,Investment Group,Investment Dept 2,Unit 67,Position 43,11,Male,Permanent,Expat,PRC,1985-03-29,2016-08-08,,,,,Direct
+2129,User - 2129,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 20,6,Female,Permanent,Expat,PRC,1992-09-10,2017-06-04,,,,,Referral
+1075,User - 1075,15217,Technology Group,Technology Software Dept,Unit 217,Position 43,10,Female,Permanent,Expat,CAN,1974-06-12,1999-04-04,,,,,Agency
+1828,User - 1828,15206,Risk Group,Risk Department,Unit 206,Position 22,13,Female,Permanent,Expat,CAN,1967-10-26,2015-10-04,,,,,Referral
+1713,User - 1713,15224,Technology Group,Technology Infrastructure Dept,Unit 224,Position 18,14,Female,Permanent,Expat,CAN,1960-03-04,2014-07-20,,,,,Universities
+1297,User - 1297,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 89,10,Male,Outsourced,Expat,CAN,1980-04-16,2008-01-02,,,,,Universities
+1878,User - 1878,15187,Retail Operations,Operations Dept 2,Unit 187,Position 134,7,Female,Outsourced,Expat,CAN,1991-06-18,2016-01-17,,,,,Universities
+1566,User - 1566,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 76,9,Female,Outsourced,Expat,CAN,1982-05-26,2012-11-01,,,,,Referral
+1050,User - 1050,15071,Legal Group,Legal Dept 1,Unit 71,Position 83,7,Male,Permanent,Expat,CAN,1960-03-17,1996-01-24,,,,,Agency
+1225,User - 1225,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 22,8,Male,Permanent,Expat,CAN,1980-09-03,2005-12-18,,,,,Universities
+1137,User - 1137,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 6,9,Male,Permanent,Expat,CAN,1970-12-16,2000-03-22,,,,,LinkedIn
+1120,User - 1120,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 5,9,Male,Permanent,Expat,CAN,1963-09-25,2001-05-01,,,,,Agency
+1051,User - 1051,15185,Retail Operations,Operations Dept 2,Unit 185,Position 17,9,Male,Permanent,Expat,CAN,1973-06-14,1996-03-31,,,,,Universities
+1183,User - 1183,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 42,9,Male,Permanent,Expat,CAN,1976-07-25,2005-02-20,,,,,Job Portal
+1819,User - 1819,15039,Finance Group,Finance Dept 6,Unit 39,Position 27,10,Male,Permanent,Expat,CAN,1983-10-06,2015-09-06,,,,,Referral
+1224,User - 1224,15048,Finance Group,Finance Dept 7,Unit 48,Position 51,10,Male,Permanent,Expat,CAN,1980-06-01,2005-12-18,,,,,Agency
+1420,User - 1420,15062,Internal Audit Group,Audit Dept 1,Unit 62,Position 74,10,Male,Permanent,Expat,CAN,1974-11-30,2010-08-15,,,,,Referral
+2020,User - 2020,15062,Internal Audit Group,Audit Dept 1,Unit 62,Position 109,10,Male,Permanent,Expat,CAN,1982-02-01,2016-10-03,,,,,Training Academy
+1017,User - 1017,15218,Technology Group,Technology Software Dept,Unit 218,Position 146,10,Male,Permanent,Expat,CAN,1961-01-10,1998-09-27,,,,,Direct
+1114,User - 1114,15038,Finance Group,Finance Dept 5,Unit 38,Position 70,11,Male,Permanent,Expat,CAN,1966-10-30,2000-12-24,,,,,Training Academy
+2119,User - 2119,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 60,11,Male,Permanent,Expat,CAN,1984-08-07,2017-05-21,,,,,Referral
+2156,User - 2156,15207,Risk Group,Risk Department,Unit 207,Position 128,11,Male,Permanent,Expat,CAN,1986-09-24,2017-08-01,,,,,Referral
+1545,User - 1545,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 37,11,Male,Permanent,Expat,CAN,1971-08-31,2012-09-16,,,,,Job Portal
+1876,User - 1876,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 64,11,Male,Permanent,Expat,CAN,1970-08-03,2016-01-04,,,,,Job Portal
+1012,User - 1012,15058,HR Group,HR Dept 2,Unit 58,Position 24,11,Male,Permanent,Expat,CAN,1959-05-04,1991-10-23,,,,,Job Portal
+1092,User - 1092,15072,Legal Group,Legal Dept 1,Unit 72,Position 134,12,Male,Permanent,Expat,CAN,1962-09-20,2000-01-11,,,,,Training Academy
+1296,User - 1296,15063,Internal Audit Group,Audit Dept 1,Unit 63,Position 50,13,Male,Permanent,Expat,CAN,1978-01-16,2007-11-04,,,,,LinkedIn
+1135,User - 1135,15004,Board & Directors,Board Dept 4,Unit 4,Position 40,5,Female,Permanent,Expat,CAN,1970-06-08,2003-08-25,,,,,Job Portal
+1160,User - 1160,15197,Retail Operations,Operations Dept 3,Unit 197,Position 92,6,Female,Permanent,Expat,CAN,1975-09-01,2004-03-04,,,,,Agency
+1203,User - 1203,15189,Retail Operations,Operations Dept 3,Unit 189,Position 72,9,Female,Permanent,Expat,CAN,1976-05-22,2005-06-29,,,,,Agency
+1666,User - 1666,15204,Risk Group,Risk Department,Unit 204,Position 100,9,Female,Permanent,Expat,CAN,1987-02-04,2014-03-23,,,,,Referral
+1045,User - 1045,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 9,9,Female,Permanent,Expat,CAN,1969-02-04,1995-01-02,,,,,LinkedIn
+1626,User - 1626,15071,Legal Group,Legal Dept 1,Unit 71,Position 39,9,Female,Permanent,Expat,CAN,1977-02-13,2013-08-12,,,,,Universities
+1262,User - 1262,15131,Retail Fashion,Retail Brand 7,Unit 131,Position 108,10,Female,Permanent,Expat,CAN,1975-01-29,2007-02-04,,,,,Job Portal
+1124,User - 1124,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 42,10,Female,Permanent,Expat,CAN,1960-03-19,2001-05-21,,,,,Job Portal
+1973,User - 1973,15073,Market Research,Marketing Dept,Unit 73,Position 26,11,Female,Permanent,Expat,CAN,1983-03-10,2016-08-01,,,,,Agency
+2056,User - 2056,15001,Board & Directors,Board Dept 1,Unit 1,Position 52,11,Female,Permanent,Expat,CAN,1978-01-02,2016-12-11,,,,,Referral
+1196,User - 1196,15047,Finance Group,Finance Dept 7,Unit 47,Position 53,11,Female,Permanent,Expat,CAN,1961-05-13,2005-06-19,,,,,Direct
+1560,User - 1560,15058,HR Group,HR Dept 2,Unit 58,Position 18,11,Female,Permanent,Expat,CAN,1984-09-01,2012-10-01,,,,,Direct
+1389,User - 1389,15071,Legal Group,Legal Dept 1,Unit 71,Position 7,11,Female,Permanent,Expat,CAN,1968-10-21,2009-08-16,,,,,LinkedIn
+1052,User - 1052,15139,Retail Fashion,Retail Brand 8,Unit 139,Position 96,11,Female,Permanent,Expat,CAN,1970-10-23,1996-07-01,,,,,Universities
+1221,User - 1221,15204,Risk Group,Risk Department,Unit 204,Position 53,11,Female,Permanent,Expat,CAN,1967-01-19,2005-12-04,,,,,Referral
+1266,User - 1266,15063,Internal Audit Group,Audit Dept 1,Unit 63,Position 148,14,Female,Permanent,Expat,CAN,1966-10-22,2007-03-25,,,,,Training Academy
+1018,User - 1018,15073,Market Research,Marketing Dept,Unit 73,Position 92,14,Female,Permanent,Expat,CAN,1950-04-18,1992-07-28,,,,,Training Academy
+1803,User - 1803,15001,Board & Directors,Board Dept 1,Unit 1,Position 9,6,Male,Outsourced,Expat,CAN,1988-06-11,2015-06-01,,,,,Referral
+1219,User - 1219,15218,Technology Group,Technology Software Dept,Unit 218,Position 144,6,Male,Outsourced,Expat,CAN,1980-01-01,2005-11-22,,,,,LinkedIn
+1171,User - 1171,15071,Legal Group,Legal Dept 1,Unit 71,Position 56,6,Male,Outsourced,Expat,CAN,1959-03-25,2004-11-01,,,,,Universities
+2086,User - 2086,15185,Retail Operations,Operations Dept 2,Unit 185,Position 14,6,Male,Outsourced,Expat,CAN,1994-12-07,2017-03-12,,,,,LinkedIn
+1130,User - 1130,15197,Retail Operations,Operations Dept 3,Unit 197,Position 79,6,Male,Outsourced,Expat,CAN,1967-02-02,1999-06-20,,,,,Universities
+2165,User - 2165,15195,Retail Operations,Operations Dept 3,Unit 195,Position 60,7,Male,Outsourced,Expat,CAN,1983-01-29,2017-09-05,,,,,Direct
+2162,User - 2162,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 123,7,Male,Outsourced,Expat,CAN,1981-10-31,2017-08-20,,,,,LinkedIn
+1618,User - 1618,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 4,7,Male,Outsourced,Expat,CAN,1974-05-17,2013-06-16,,,,,Direct
+1877,User - 1877,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 24,7,Male,Outsourced,Expat,CAN,1980-01-01,2016-01-04,,,,,Referral
+1446,User - 1446,15071,Legal Group,Legal Dept 1,Unit 71,Position 104,7,Male,Outsourced,Expat,CAN,1962-12-16,2011-03-01,,,,,Referral
+1453,User - 1453,15216,Technology Group,Technology Software Dept,Unit 216,Position 58,7,Male,Outsourced,Expat,CAN,1976-11-25,2011-04-03,,,,,Universities
+2074,User - 2074,15038,Finance Group,Finance Dept 5,Unit 38,Position 95,7,Male,Outsourced,Expat,CAN,1984-03-01,2017-02-19,,,,,Agency
+1741,User - 1741,15224,Technology Group,Technology Infrastructure Dept,Unit 224,Position 115,7,Male,Outsourced,Expat,CAN,1982-10-01,2014-11-11,,,,,Training Academy
+1020,User - 1020,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 18,8,Male,Outsourced,Expat,CAN,1963-01-10,1991-05-29,,,,,Direct
+1811,User - 1811,15078,Planning Group,Planning Dept 2,Unit 78,Position 147,9,Male,Outsourced,Expat,CAN,1987-01-01,2015-08-02,,,,,Agency
+1015,User - 1015,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 81,9,Male,Outsourced,Expat,CAN,1958-06-05,1992-08-30,,,,,Referral
+1313,User - 1313,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 67,9,Male,Outsourced,Expat,CAN,1984-01-01,2008-05-18,,,,,Job Portal
+1850,User - 1850,15219,Technology Group,Technology Software Dept,Unit 219,Position 120,9,Male,Outsourced,Expat,CAN,1983-12-25,2015-11-01,,,,,Referral
+1802,User - 1802,15185,Retail Operations,Operations Dept 2,Unit 185,Position 49,9,Male,Outsourced,Expat,CAN,1971-09-08,2015-06-01,,,,,Universities
+2134,User - 2134,15073,Market Research,Marketing Dept,Unit 73,Position 95,10,Male,Outsourced,Expat,CAN,1986-12-19,2017-06-14,,,,,LinkedIn
+1943,User - 1943,15074,Planning Group,Planning Dept 1,Unit 74,Position 137,10,Male,Outsourced,Expat,CAN,1983-04-15,2016-05-12,,,,,Direct
+1516,User - 1516,15072,Legal Group,Legal Dept 1,Unit 72,Position 41,10,Male,Outsourced,Expat,CAN,1977-09-01,2011-12-26,,,,,Universities
+1294,User - 1294,15075,Planning Group,Planning Dept 1,Unit 75,Position 120,10,Male,Outsourced,Expat,CAN,1976-09-24,2008-01-02,,,,,Agency
+1655,User - 1655,15074,Planning Group,Planning Dept 1,Unit 74,Position 101,10,Male,Outsourced,Expat,CAN,1980-07-21,2014-01-05,,,,,Direct
+2039,User - 2039,15080,Planning Group,Planning Dept 2,Unit 80,Position 80,10,Male,Outsourced,Expat,CAN,1984-05-11,2016-12-11,,,,,Agency
+1997,User - 1997,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 75,6,Female,Outsourced,Expat,CAN,1991-09-09,2016-09-18,,,,,Referral
+1764,User - 1764,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 116,6,Female,Outsourced,Expat,CAN,1978-09-30,2015-02-15,,,,,Direct
+2166,User - 2166,15197,Retail Operations,Operations Dept 3,Unit 197,Position 4,6,Female,Outsourced,Expat,CAN,1980-08-12,2017-09-10,,,,,Agency
+1337,User - 1337,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 138,7,Female,Outsourced,Expat,CAN,1979-06-12,2008-09-22,,,,,Universities
+1621,User - 1621,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 12,7,Female,Outsourced,Expat,CAN,1987-08-09,2013-07-01,,,,,Direct
+1653,User - 1653,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 78,7,Female,Outsourced,Expat,CAN,1986-03-01,2013-12-01,,,,,Training Academy
+1699,User - 1699,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 134,7,Female,Outsourced,Expat,CAN,1987-06-15,2014-06-01,,,,,Agency
+2070,User - 2070,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 124,7,Female,Outsourced,Expat,CAN,1976-10-22,2017-02-01,,,,,Universities
+1379,User - 1379,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 108,7,Female,Outsourced,Expat,CAN,1980-07-07,2009-07-19,,,,,Universities
+2161,User - 2161,15038,Finance Group,Finance Dept 5,Unit 38,Position 107,7,Female,Outsourced,Expat,CAN,1984-06-15,2017-08-20,,,,,Agency
+1167,User - 1167,15218,Technology Group,Technology Software Dept,Unit 218,Position 123,7,Female,Outsourced,Expat,CAN,1971-12-19,2004-09-12,,,,,Direct
+1041,User - 1041,15071,Legal Group,Legal Dept 1,Unit 71,Position 112,8,Female,Outsourced,Expat,CAN,1968-10-07,1994-04-04,,,,,Direct
+1311,User - 1311,15185,Retail Operations,Operations Dept 2,Unit 185,Position 83,8,Female,Outsourced,Expat,CAN,1975-08-22,2008-05-01,,,,,Direct
+1355,User - 1355,15195,Retail Operations,Operations Dept 3,Unit 195,Position 61,8,Female,Outsourced,Expat,CAN,1970-02-14,2009-01-13,,,,,LinkedIn
+1541,User - 1541,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 82,9,Female,Outsourced,Expat,CAN,1982-08-09,2012-08-26,,,,,Referral
+1804,User - 1804,15067,Investment Group,Investment Dept 2,Unit 67,Position 80,12,Female,Permanent,Expat,FRA,1979-11-13,2015-06-07,,,,,LinkedIn
+1289,User - 1289,15217,Technology Group,Technology Software Dept,Unit 217,Position 77,10,Male,Permanent,Expat,GBR,1970-09-04,2007-07-09,,,,,Training Academy
+1181,User - 1181,15066,Investment Group,Investment Dept 2,Unit 66,Position 150,12,Male,Permanent,Expat,GBR,1968-09-02,2005-02-06,,,,,Agency
+1763,User - 1763,15208,Risk Group,Risk Department,Unit 208,Position 20,15,Female,Permanent,Expat,GBR,1966-04-10,2015-02-15,,,,,Direct
+1174,User - 1174,15192,Retail Operations,Operations Dept 3,Unit 192,Position 17,8,Male,Permanent,Expat,IND,1973-06-01,2004-11-01,,,,,Agency
+1360,User - 1360,15188,Retail Operations,Operations Dept 2,Unit 188,Position 69,8,Male,Permanent,Expat,IND,1979-05-26,2009-03-01,,,,,LinkedIn
+1039,User - 1039,15009,Finance Group,Finance Dept 2,Unit 9,Position 106,8,Male,Permanent,Expat,IND,1968-02-15,1994-02-13,,,,,Direct
+1057,User - 1057,15186,Retail Operations,Operations Dept 2,Unit 186,Position 58,9,Male,Permanent,Expat,IND,1967-06-18,1997-07-06,,,,,Job Portal
+1431,User - 1431,15042,Finance Group,Finance Dept 6,Unit 42,Position 57,9,Male,Permanent,Expat,IND,1962-07-07,2010-12-01,,,,,Job Portal
+1027,User - 1027,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 129,9,Male,Permanent,Expat,IND,1964-03-22,1992-07-28,,,,,Agency
+1013,User - 1013,15192,Retail Operations,Operations Dept 3,Unit 192,Position 34,9,Male,Permanent,Expat,IND,1960-08-15,1992-03-07,,,,,Direct
+1060,User - 1060,15188,Retail Operations,Operations Dept 2,Unit 188,Position 1,9,Male,Permanent,Expat,IND,1966-06-26,1997-07-29,,,,,Direct
+1310,User - 1310,15217,Technology Group,Technology Software Dept,Unit 217,Position 44,9,Male,Permanent,Expat,IND,1979-12-28,2008-04-20,,,,,LinkedIn
+2138,User - 2138,15055,HR Group,HR Dept 2,Unit 55,Position 132,10,Male,Permanent,Expat,IND,1976-03-03,2017-07-09,,,,,Universities
+1202,User - 1202,15074,Planning Group,Planning Dept 1,Unit 74,Position 28,10,Male,Permanent,Expat,IND,1962-02-08,2005-06-28,,,,,Direct
+1113,User - 1113,15010,Finance Group,Finance Dept 3,Unit 10,Position 21,10,Male,Permanent,Expat,IND,1965-04-15,2000-11-26,,,,,LinkedIn
+1110,User - 1110,15219,Technology Group,Technology Software Dept,Unit 219,Position 13,11,Male,Permanent,Expat,IND,1961-10-05,2000-10-31,,,,,Job Portal
+2060,User - 2060,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 87,11,Male,Permanent,Expat,IND,1983-07-03,2017-01-02,,,,,Agency
+1561,User - 1561,15064,Investment Group,Investment Dept 1,Unit 64,Position 12,11,Male,Permanent,Expat,IND,1975-10-07,2012-10-07,,,,,Job Portal
+1461,User - 1461,15036,Finance Group,Finance Dept 4,Unit 36,Position 128,11,Male,Permanent,Expat,IND,1968-08-18,2011-05-01,,,,,Job Portal
+1056,User - 1056,15217,Technology Group,Technology Software Dept,Unit 217,Position 62,11,Male,Permanent,Expat,IND,1961-05-05,1997-02-02,,,,,Referral
+1047,User - 1047,15188,Retail Operations,Operations Dept 2,Unit 188,Position 64,11,Male,Permanent,Expat,IND,1968-05-29,1995-03-20,,,,,Referral
+1540,User - 1540,15064,Investment Group,Investment Dept 1,Unit 64,Position 18,11,Male,Permanent,Expat,IND,1977-06-01,2012-08-27,,,,,Referral
+1647,User - 1647,15080,Planning Group,Planning Dept 2,Unit 80,Position 76,11,Male,Permanent,Expat,IND,1982-01-06,2013-11-10,,,,,Direct
+1951,User - 1951,15204,Risk Group,Risk Department,Unit 204,Position 121,11,Male,Permanent,Expat,IND,1975-03-21,2016-06-05,,,,,Job Portal
+1807,User - 1807,15220,Technology Group,Technology Software Dept,Unit 220,Position 150,11,Male,Permanent,Expat,IND,1966-04-15,2015-06-29,,,,,Universities
+2117,User - 2117,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 53,12,Male,Permanent,Expat,IND,1967-10-26,2017-05-17,,,,,LinkedIn
+1343,User - 1343,15225,Technology Group,Technology Infrastructure Dept,Unit 225,Position 70,12,Male,Permanent,Expat,IND,1978-12-18,2008-11-17,,,,,Agency
+1088,User - 1088,15015,Finance Group,Finance Dept 4,Unit 15,Position 131,13,Male,Permanent,Expat,IND,1959-12-20,1999-10-24,,,,,Direct
+1522,User - 1522,15215,Strategy Group,Strategy Dept 3,Unit 215,Position 101,13,Male,Permanent,Expat,IND,1976-11-14,2012-03-18,,,,,Referral
+1185,User - 1185,15216,Technology Group,Technology Software Dept,Unit 216,Position 54,14,Male,Permanent,Expat,IND,1964-10-28,2005-04-10,,,,,Training Academy
+1096,User - 1096,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 146,9,Female,Permanent,Expat,IND,1962-09-02,2000-03-26,,,,,LinkedIn
+1288,User - 1288,15219,Technology Group,Technology Software Dept,Unit 219,Position 29,10,Female,Permanent,Expat,IND,1967-01-15,2007-07-01,,,,,Referral
+1517,User - 1517,15220,Technology Group,Technology Software Dept,Unit 220,Position 38,10,Female,Permanent,Expat,IND,1978-05-30,2012-02-19,,,,,LinkedIn
+1237,User - 1237,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 137,10,Female,Permanent,Expat,IND,1968-12-27,2006-05-14,,,,,Agency
+2057,User - 2057,15206,Risk Group,Risk Department,Unit 206,Position 48,11,Female,Permanent,Expat,IND,1982-02-07,2016-12-12,,,,,Direct
+1612,User - 1612,15080,Planning Group,Planning Dept 2,Unit 80,Position 15,11,Female,Permanent,Expat,IND,1984-08-25,2013-05-01,,,,,Referral
+1064,User - 1064,15058,HR Group,HR Dept 2,Unit 58,Position 64,11,Female,Permanent,Expat,IND,1969-05-04,1998-05-19,,,,,Referral
+1562,User - 1562,15211,Risk Group,Risk Department,Unit 211,Position 102,11,Female,Permanent,Expat,IND,1976-02-03,2012-10-10,,,,,Job Portal
+1463,User - 1463,15205,Risk Group,Risk Department,Unit 205,Position 75,11,Female,Permanent,Expat,IND,1967-06-12,2011-05-18,,,,,Referral
+1086,User - 1086,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 149,11,Female,Permanent,Expat,IND,1972-01-24,1999-10-10,,,,,Agency
+1151,User - 1151,15070,Investment Group,Investment Dept 3,Unit 70,Position 79,11,Female,Permanent,Expat,IND,1966-11-27,2002-11-03,,,,,Direct
+1688,User - 1688,15209,Risk Group,Risk Department,Unit 209,Position 112,11,Female,Permanent,Expat,IND,1972-06-12,2014-04-20,,,,,Universities
+1646,User - 1646,15206,Risk Group,Risk Department,Unit 206,Position 130,11,Female,Permanent,Expat,IND,1981-08-27,2013-11-06,,,,,Training Academy
+2065,User - 2065,15074,Planning Group,Planning Dept 1,Unit 74,Position 53,11,Female,Permanent,Expat,IND,1986-07-04,2017-01-29,,,,,Direct
+1976,User - 1976,15203,Risk Group,Risk Department,Unit 203,Position 40,11,Female,Permanent,Expat,IND,1978-04-27,2016-08-07,,,,,Referral
+1482,User - 1482,15021,Finance Group,Finance Dept 4,Unit 21,Position 83,11,Female,Permanent,Expat,IND,1961-05-28,2011-08-28,,,,,Training Academy
+1341,User - 1341,15068,Investment Group,Investment Dept 3,Unit 68,Position 109,11,Female,Permanent,Expat,IND,1973-11-13,2008-10-15,,,,,Direct
+1055,User - 1055,15217,Technology Group,Technology Software Dept,Unit 217,Position 64,11,Female,Permanent,Expat,IND,1963-07-31,1997-01-19,,,,,Referral
+1033,User - 1033,15038,Finance Group,Finance Dept 5,Unit 38,Position 77,12,Female,Permanent,Expat,IND,1953-11-16,1993-02-28,,,,,LinkedIn
+1212,User - 1212,15192,Retail Operations,Operations Dept 3,Unit 192,Position 41,12,Female,Permanent,Expat,IND,1954-03-28,2005-09-29,,,,,Direct
+2087,User - 2087,15076,Planning Group,Planning Dept 1,Unit 76,Position 22,12,Female,Permanent,Expat,IND,1979-06-21,2017-03-27,,,,,Training Academy
+1323,User - 1323,15219,Technology Group,Technology Software Dept,Unit 219,Position 88,12,Female,Permanent,Expat,IND,1963-01-20,2008-06-08,,,,,Universities
+1367,User - 1367,15010,Finance Group,Finance Dept 3,Unit 10,Position 136,12,Female,Permanent,Expat,IND,1972-09-22,2009-04-01,,,,,Training Academy
+1371,User - 1371,15179,Retail Fashion,Retail Brand 14,Unit 179,Position 1,13,Female,Permanent,Expat,IND,1973-07-19,2009-04-19,,,,,Training Academy
+1960,User - 1960,15202,Risk Group,Risk Department,Unit 202,Position 104,14,Female,Permanent,Expat,IND,1967-11-01,2016-06-27,,,,,Job Portal
+1132,User - 1132,15218,Technology Group,Technology Software Dept,Unit 218,Position 132,5,Male,Outsourced,Expat,IND,1968-04-02,1991-12-26,,,,,Training Academy
+1614,User - 1614,15005,CEO,CEO Dept 1,Unit 5,Position 69,5,Male,Outsourced,Expat,IND,1976-05-05,2013-05-01,,,,,Training Academy
+1639,User - 1639,15042,Finance Group,Finance Dept 6,Unit 42,Position 59,6,Male,Outsourced,Expat,IND,1983-01-30,2013-10-01,,,,,Referral
+2209,User - 2209,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 78,6,Male,Outsourced,Expat,IND,1983-03-18,2017-11-12,,,,,Universities
+1891,User - 1891,15202,Risk Group,Risk Department,Unit 202,Position 142,7,Male,Outsourced,Expat,IND,1987-06-02,2016-03-01,,,,,Direct
+1956,User - 1956,15208,Risk Group,Risk Department,Unit 208,Position 128,7,Male,Outsourced,Expat,IND,1971-11-17,2016-06-19,,,,,Training Academy
+1858,User - 1858,15209,Risk Group,Risk Department,Unit 209,Position 36,7,Male,Outsourced,Expat,IND,1986-01-15,2015-12-07,,,,,Referral
+2072,User - 2072,15209,Risk Group,Risk Department,Unit 209,Position 33,7,Male,Outsourced,Expat,IND,1986-08-28,2017-02-15,,,,,Direct
+1932,User - 1932,15188,Retail Operations,Operations Dept 2,Unit 188,Position 27,7,Male,Outsourced,Expat,IND,1978-11-16,2016-04-14,,,,,Universities
+1982,User - 1982,15190,Retail Operations,Operations Dept 3,Unit 190,Position 83,7,Male,Outsourced,Expat,IND,1992-08-21,2016-08-21,,,,,Agency
+1087,User - 1087,15218,Technology Group,Technology Software Dept,Unit 218,Position 136,7,Male,Outsourced,Expat,IND,1959-08-16,1999-10-24,,,,,Referral
+1957,User - 1957,15205,Risk Group,Risk Department,Unit 205,Position 102,8,Male,Outsourced,Expat,IND,1985-12-15,2016-06-22,,,,,Training Academy
+1375,User - 1375,15208,Risk Group,Risk Department,Unit 208,Position 129,8,Male,Outsourced,Expat,IND,1974-03-24,2009-06-21,,,,,LinkedIn
+1076,User - 1076,15192,Retail Operations,Operations Dept 3,Unit 192,Position 71,8,Male,Outsourced,Expat,IND,1966-11-17,1993-10-20,,,,,Training Academy
+2167,User - 2167,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 12,8,Male,Outsourced,Expat,IND,1969-11-03,2017-09-10,,,,,Job Portal
+1947,User - 1947,15205,Risk Group,Risk Department,Unit 205,Position 74,9,Male,Outsourced,Expat,IND,1987-11-17,2016-05-19,,,,,Referral
+1179,User - 1179,15076,Planning Group,Planning Dept 1,Unit 76,Position 103,9,Male,Outsourced,Expat,IND,1979-11-07,2005-01-17,,,,,Direct
+1888,User - 1888,15074,Planning Group,Planning Dept 1,Unit 74,Position 43,9,Male,Outsourced,Expat,IND,1986-03-15,2016-02-17,,,,,Agency
+1220,User - 1220,15186,Retail Operations,Operations Dept 2,Unit 186,Position 23,9,Male,Outsourced,Expat,IND,1980-10-02,2005-11-27,,,,,Direct
+1501,User - 1501,15077,Planning Group,Planning Dept 1,Unit 77,Position 73,9,Male,Outsourced,Expat,IND,1972-06-07,2011-11-15,,,,,LinkedIn
+2061,User - 2061,15217,Technology Group,Technology Software Dept,Unit 217,Position 78,9,Male,Outsourced,Expat,IND,1979-12-20,2017-01-02,,,,,Universities
+1940,User - 1940,15080,Planning Group,Planning Dept 2,Unit 80,Position 8,10,Male,Outsourced,Expat,IND,1983-10-23,2016-04-24,,,,,Universities
+1711,User - 1711,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 96,10,Male,Outsourced,Expat,IND,1982-05-23,2014-07-20,,,,,Job Portal
+1301,User - 1301,15217,Technology Group,Technology Software Dept,Unit 217,Position 114,10,Male,Outsourced,Expat,IND,1979-04-27,2008-01-02,,,,,Job Portal
+1532,User - 1532,15217,Technology Group,Technology Software Dept,Unit 217,Position 19,10,Male,Outsourced,Expat,IND,1974-02-19,2012-06-18,,,,,Referral
+1177,User - 1177,15222,Technology Group,Technology Infrastructure Dept,Unit 222,Position 135,10,Male,Outsourced,Expat,IND,1975-09-28,2004-12-19,,,,,Job Portal
+1556,User - 1556,15080,Planning Group,Planning Dept 2,Unit 80,Position 71,11,Male,Outsourced,Expat,IND,1970-05-29,2012-10-01,,,,,LinkedIn
+2160,User - 2160,15216,Technology Group,Technology Software Dept,Unit 216,Position 106,11,Male,Outsourced,Expat,IND,1966-05-31,2017-08-07,,,,,Job Portal
+1563,User - 1563,15220,Technology Group,Technology Software Dept,Unit 220,Position 33,11,Male,Outsourced,Expat,IND,1973-05-23,2012-10-10,,,,,LinkedIn
+1290,User - 1290,15196,Retail Operations,Operations Dept 3,Unit 196,Position 61,5,Female,Outsourced,Expat,IND,1961-01-26,2007-11-01,,,,,Training Academy
+1208,User - 1208,15212,Social Media Group,Social Media Department,Unit 212,Position 113,6,Female,Outsourced,Expat,IND,1967-02-19,2005-08-21,,,,,Universities
+1668,User - 1668,15064,Investment Group,Investment Dept 1,Unit 64,Position 89,6,Female,Outsourced,Expat,IND,1989-04-01,2014-03-24,,,,,LinkedIn
+1074,User - 1074,15218,Technology Group,Technology Software Dept,Unit 218,Position 150,6,Female,Outsourced,Expat,IND,1961-06-19,1999-02-18,,,,,Referral
+1232,User - 1232,15218,Technology Group,Technology Software Dept,Unit 218,Position 30,6,Female,Outsourced,Expat,IND,1969-06-26,2006-03-01,,,,,Direct
+1953,User - 1953,15218,Technology Group,Technology Software Dept,Unit 218,Position 128,6,Female,Outsourced,Expat,IND,1982-07-04,2016-06-19,,,,,Referral
+1264,User - 1264,15195,Retail Operations,Operations Dept 3,Unit 195,Position 65,6,Female,Outsourced,Expat,IND,1962-05-30,2007-02-04,,,,,LinkedIn
+2159,User - 2159,15037,Finance Group,Finance Dept 4,Unit 37,Position 112,7,Female,Outsourced,Expat,IND,1987-07-30,2017-08-06,,,,,LinkedIn
+1093,User - 1093,15218,Technology Group,Technology Software Dept,Unit 218,Position 56,7,Female,Outsourced,Expat,IND,1968-05-31,2000-01-12,,,,,Training Academy
+1527,User - 1527,15192,Retail Operations,Operations Dept 3,Unit 192,Position 147,8,Female,Outsourced,Expat,IND,1983-02-02,2012-05-13,,,,,Direct
+1856,User - 1856,15222,Technology Group,Technology Infrastructure Dept,Unit 222,Position 48,8,Female,Outsourced,Expat,IND,1989-06-05,2015-12-01,,,,,Universities
+1515,User - 1515,15213,Strategy Group,Strategy Dept 1,Unit 213,Position 119,8,Female,Outsourced,Expat,IND,1973-08-11,2011-12-11,,,,,Direct
+1521,User - 1521,15081,Planning Group,Planning Dept 3,Unit 81,Position 23,8,Female,Outsourced,Expat,IND,1979-05-31,2012-03-13,,,,,Training Academy
+1558,User - 1558,15067,Investment Group,Investment Dept 2,Unit 67,Position 75,8,Female,Outsourced,Expat,IND,1967-11-12,2012-10-01,,,,,Agency
+2174,User - 2174,15188,Retail Operations,Operations Dept 2,Unit 188,Position 84,8,Female,Outsourced,Expat,IND,1979-03-15,2017-10-01,,,,,Job Portal
+1023,User - 1023,15018,Finance Group,Finance Dept 4,Unit 18,Position 121,8,Female,Outsourced,Expat,IND,1960-07-22,1991-10-27,,,,,Direct
+1662,User - 1662,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 141,8,Female,Outsourced,Expat,IND,1984-04-06,2014-02-16,,,,,Referral
+1833,User - 1833,15186,Retail Operations,Operations Dept 2,Unit 186,Position 117,8,Female,Outsourced,Expat,IND,1976-06-23,2015-10-18,,,,,Training Academy
+1514,User - 1514,15185,Retail Operations,Operations Dept 2,Unit 185,Position 43,8,Female,Outsourced,Expat,IND,1989-05-04,2011-12-11,,,,,Direct
+1011,User - 1011,15070,Investment Group,Investment Dept 3,Unit 70,Position 8,9,Female,Outsourced,Expat,IND,1960-12-11,1991-03-24,,,,,Agency
+2110,User - 2110,15062,Internal Audit Group,Audit Dept 1,Unit 62,Position 4,9,Female,Outsourced,Expat,IND,1987-12-30,2017-04-18,,,,,Direct
+1291,User - 1291,15076,Planning Group,Planning Dept 1,Unit 76,Position 144,9,Female,Outsourced,Expat,IND,1976-10-19,2007-08-12,,,,,Training Academy
+1942,User - 1942,15008,Finance Group,Finance Dept 1,Unit 8,Position 150,9,Female,Outsourced,Expat,IND,1984-05-14,2016-05-02,,,,,Referral
+1217,User - 1217,15183,Retail Operations,Operations Dept 1,Unit 183,Position 117,9,Female,Outsourced,Expat,IND,1980-12-13,2005-11-08,,,,,Universities
+1970,User - 1970,15220,Technology Group,Technology Software Dept,Unit 220,Position 105,9,Female,Outsourced,Expat,IND,1987-10-01,2016-07-24,,,,,Universities
+1106,User - 1106,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 25,10,Female,Outsourced,Expat,IND,1975-11-22,2000-07-17,,,,,Agency
+1530,User - 1530,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 83,10,Female,Outsourced,Expat,IND,1979-08-23,2012-06-13,,,,,Training Academy
+2135,User - 2135,15197,Retail Operations,Operations Dept 3,Unit 197,Position 17,10,Female,Outsourced,Expat,IND,1973-05-18,2017-06-18,,,,,Referral
+1613,User - 1613,15216,Technology Group,Technology Software Dept,Unit 216,Position 141,12,Female,Outsourced,Expat,IND,1977-08-16,2013-05-01,,,,,Universities
+1207,User - 1207,15011,Finance Group,Finance Dept 4,Unit 11,Position 111,11,Male,Permanent,Expat,POL,1981-07-26,2005-08-01,,,,,Job Portal
+1148,User - 1148,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 38,12,Male,Permanent,Expat,POL,1971-05-24,2002-10-16,,,,,Job Portal
+1145,User - 1145,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 8,8,Female,Permanent,Expat,POL,1970-01-17,2002-08-11,,,,,LinkedIn
+1066,User - 1066,15185,Retail Operations,Operations Dept 2,Unit 185,Position 117,9,Female,Permanent,Expat,POL,1975-07-28,1998-07-01,,,,,Agency
+1201,User - 1201,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 51,10,Female,Permanent,Expat,POL,1979-07-07,2005-06-20,,,,,LinkedIn
+1021,User - 1021,15071,Legal Group,Legal Dept 1,Unit 71,Position 45,11,Female,Outsourced,Expat,POL,1964-12-04,1992-01-06,,,,,Referral
+1498,User - 1498,15186,Retail Operations,Operations Dept 2,Unit 186,Position 55,8,Male,Outsourced,Expat,POL,1989-09-15,2011-11-13,,,,,Job Portal
+1629,User - 1629,15069,Investment Group,Investment Dept 3,Unit 69,Position 88,12,Male,Permanent,Expat,ITA,1953-12-03,2013-09-01,,,,,Agency
+1248,User - 1248,15176,Retail Fashion,Retail Brand 14,Unit 176,Position 30,11,Male,Permanent,Expat,ITA,1960-07-06,2006-10-29,,,,,Job Portal
+1849,User - 1849,15210,Risk Group,Risk Department,Unit 210,Position 81,10,Female,Permanent,Expat,ITA,1982-03-03,2015-11-01,,,,,LinkedIn
+1897,User - 1897,15084,Private Franchisee,Framchisee 3,Unit 84,Position 66,7,Male,Outsourced,Expat,ITA,1980-04-10,2016-03-06,,,,,LinkedIn
+1354,User - 1354,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 10,7,Male,Outsourced,Expat,ITA,1972-10-23,2009-02-01,,,,,Training Academy
+1338,User - 1338,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 98,8,Male,Outsourced,Expat,ITA,1986-11-13,2008-10-05,,,,,Universities
+2104,User - 2104,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 70,8,Male,Outsourced,Expat,ITA,1985-03-16,2017-04-16,,,,,LinkedIn
+2130,User - 2130,15073,Market Research,Marketing Dept,Unit 73,Position 150,9,Male,Outsourced,Expat,ITA,1991-04-25,2017-06-04,,,,,Direct
+1495,User - 1495,15192,Retail Operations,Operations Dept 3,Unit 192,Position 82,9,Male,Outsourced,Expat,ITA,1980-09-14,2011-10-02,,,,,Training Academy
+1263,User - 1263,15190,Retail Operations,Operations Dept 3,Unit 190,Position 126,9,Male,Outsourced,Expat,ITA,1977-07-24,2007-02-04,,,,,Agency
+1340,User - 1340,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 122,9,Male,Outsourced,Expat,ITA,1979-01-20,2008-10-05,,,,,Referral
+1156,User - 1156,15071,Legal Group,Legal Dept 1,Unit 71,Position 111,7,Female,Outsourced,Expat,ITA,1966-12-02,2003-05-07,,,,,Referral
+1518,User - 1518,15185,Retail Operations,Operations Dept 2,Unit 185,Position 135,7,Female,Outsourced,Expat,ITA,1985-06-13,2012-02-21,,,,,Direct
+1499,User - 1499,15196,Retail Operations,Operations Dept 3,Unit 196,Position 23,5,Male,Permanent,US National,USA,1969-01-11,2011-11-13,,,,,Job Portal
+1799,User - 1799,15187,Retail Operations,Operations Dept 2,Unit 187,Position 10,10,Male,Permanent,US National,USA,1955-11-21,2015-05-17,,,,,Agency
+1255,User - 1255,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 77,10,Female,Permanent,US National,USA,1964-11-21,2006-03-19,,,,,Direct
+1043,User - 1043,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 138,11,Female,Permanent,US National,USA,1954-09-20,1994-09-28,,,,,Universities
+1300,User - 1300,15058,HR Group,HR Dept 2,Unit 58,Position 65,6,Male,Permanent,Expat,PHL,1974-02-08,2008-01-02,,,,,Training Academy
+1069,User - 1069,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 115,8,Male,Permanent,Expat,PHL,1975-03-08,1998-07-29,,,,,LinkedIn
+1080,User - 1080,15004,Board & Directors,Board Dept 4,Unit 4,Position 141,9,Male,Permanent,Expat,PHL,1968-08-28,1999-07-20,,,,,Training Academy
+1081,User - 1081,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 77,10,Male,Permanent,Expat,PHL,1977-08-25,1999-07-21,,,,,LinkedIn
+1065,User - 1065,15173,Retail Fashion,Retail Brand 13,Unit 173,Position 63,10,Male,Permanent,Expat,PHL,1978-06-15,1998-06-30,,,,,Job Portal
+1165,User - 1165,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 89,11,Male,Permanent,Expat,PHL,1978-05-13,2004-07-18,,,,,Referral
+1077,User - 1077,15059,HR Group,HR Dept 2,Unit 59,Position 105,11,Male,Permanent,Expat,PHL,1964-02-04,2002-10-24,,,,,Training Academy
+1241,User - 1241,15195,Retail Operations,Operations Dept 3,Unit 195,Position 104,11,Male,Permanent,Expat,PHL,1980-07-01,2006-07-02,,,,,Training Academy
+1031,User - 1031,15190,Retail Operations,Operations Dept 3,Unit 190,Position 91,11,Male,Permanent,Expat,PHL,1962-10-19,1992-12-16,,,,,Referral
+1267,User - 1267,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 100,11,Male,Permanent,Expat,PHL,1978-06-19,2007-04-15,,,,,Referral
+1108,User - 1108,15024,Finance Group,Finance Dept 4,Unit 24,Position 96,11,Male,Permanent,Expat,PHL,1979-06-22,2000-09-21,,,,,Referral
+1035,User - 1035,15046,Finance Group,Finance Dept 7,Unit 46,Position 132,11,Male,Permanent,Expat,PHL,1972-06-11,1999-06-01,,,,,Training Academy
+1283,User - 1283,15034,Finance Group,Finance Dept 4,Unit 34,Position 72,11,Male,Permanent,Expat,PHL,1979-12-23,2007-06-03,,,,,LinkedIn
+1625,User - 1625,15207,Risk Group,Risk Department,Unit 207,Position 52,11,Male,Permanent,Expat,PHL,1972-04-24,2013-08-12,,,,,Agency
+1194,User - 1194,15220,Technology Group,Technology Software Dept,Unit 220,Position 80,8,Female,Permanent,Expat,PHL,1971-09-03,2005-06-01,,,,,Direct
+1543,User - 1543,15057,HR Group,HR Dept 2,Unit 57,Position 21,9,Female,Permanent,Expat,PHL,1983-05-26,2014-07-01,,,,,Agency
+1090,User - 1090,15186,Retail Operations,Operations Dept 2,Unit 186,Position 76,9,Female,Permanent,Expat,PHL,1977-11-28,1999-11-14,,,,,Referral
+1153,User - 1153,15071,Legal Group,Legal Dept 1,Unit 71,Position 7,9,Female,Permanent,Expat,PHL,1978-05-14,2003-01-19,,,,,Job Portal
+1003,User - 1003,15190,Retail Operations,Operations Dept 3,Unit 190,Position 104,9,Female,Permanent,Expat,PHL,1959-10-05,1991-03-25,,,,,LinkedIn
+1189,User - 1189,15084,Private Franchisee,Framchisee 3,Unit 84,Position 103,10,Female,Permanent,Expat,PHL,1983-07-03,2005-05-16,,,,,Job Portal
+1216,User - 1216,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 89,10,Female,Permanent,Expat,PHL,1977-03-30,2005-10-24,,,,,Agency
+1261,User - 1261,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 123,10,Female,Permanent,Expat,PHL,1984-06-26,2007-02-04,,,,,Direct
+1099,User - 1099,15082,Private Franchisee,Framchisee 1,Unit 82,Position 64,10,Female,Permanent,Expat,PHL,1979-10-08,2000-05-15,,,,,LinkedIn
+1462,User - 1462,15212,Social Media Group,Social Media Department,Unit 212,Position 94,10,Female,Permanent,Expat,PHL,1982-02-24,2011-05-15,,,,,Training Academy
+1107,User - 1107,15184,Retail Operations,Operations Dept 1,Unit 184,Position 30,11,Female,Permanent,Expat,PHL,1969-11-21,2000-08-27,,,,,Training Academy
+1170,User - 1170,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 99,11,Female,Permanent,Expat,PHL,1984-05-11,2004-09-29,,,,,Job Portal
+2071,User - 2071,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 86,11,Female,Permanent,Expat,PHL,1975-08-12,2017-02-19,,,,,Training Academy
+1085,User - 1085,15220,Technology Group,Technology Software Dept,Unit 220,Position 44,11,Female,Permanent,Expat,PHL,1974-11-28,1999-10-04,,,,,Referral
+1094,User - 1094,15019,Finance Group,Finance Dept 4,Unit 19,Position 93,11,Female,Permanent,Expat,PHL,1971-02-23,2000-01-12,,,,,Universities
+1176,User - 1176,15182,Retail Operations,Operations Dept 1,Unit 182,Position 35,11,Female,Permanent,Expat,PHL,1970-05-22,2004-12-19,,,,,Job Portal
+1155,User - 1155,15025,Finance Group,Finance Dept 4,Unit 25,Position 59,12,Female,Permanent,Expat,PHL,1959-01-25,2003-02-23,,,,,Job Portal
+1476,User - 1476,15039,Finance Group,Finance Dept 6,Unit 39,Position 86,12,Female,Permanent,Expat,PHL,1970-08-12,2011-07-03,,,,,Agency
+2168,User - 2168,15001,Board & Directors,Board Dept 1,Unit 1,Position 112,6,Male,Outsourced,Expat,PHL,1980-01-08,2017-09-10,,,,,Job Portal
+2114,User - 2114,15185,Retail Operations,Operations Dept 2,Unit 185,Position 142,6,Male,Outsourced,Expat,PHL,1990-04-07,2017-05-08,,,,,LinkedIn
+1693,User - 1693,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 20,7,Male,Outsourced,Expat,PHL,1975-05-04,2014-05-04,,,,,Training Academy
+1794,User - 1794,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 142,7,Male,Outsourced,Expat,PHL,1984-04-20,2015-05-03,,,,,Job Portal
+1048,User - 1048,15195,Retail Operations,Operations Dept 3,Unit 195,Position 102,7,Male,Outsourced,Expat,PHL,1970-04-20,1995-07-25,,,,,Training Academy
+1624,User - 1624,15038,Finance Group,Finance Dept 5,Unit 38,Position 111,7,Male,Outsourced,Expat,PHL,1974-01-20,2013-08-01,,,,,Job Portal
+2081,User - 2081,15016,Finance Group,Finance Dept 4,Unit 16,Position 99,7,Male,Outsourced,Expat,PHL,1994-10-20,2017-03-05,,,,,Direct
+2038,User - 2038,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 95,7,Male,Outsourced,Expat,PHL,1978-12-04,2016-12-04,,,,,Job Portal
+1342,User - 1342,15008,Finance Group,Finance Dept 1,Unit 8,Position 65,8,Male,Outsourced,Expat,PHL,1979-02-14,2008-11-02,,,,,Agency
+1204,User - 1204,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 44,8,Male,Outsourced,Expat,PHL,1968-01-09,2005-06-30,,,,,Job Portal
+1330,User - 1330,15192,Retail Operations,Operations Dept 3,Unit 192,Position 106,8,Male,Outsourced,Expat,PHL,1978-06-23,2008-06-22,,,,,Direct
+1686,User - 1686,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 97,8,Male,Outsourced,Expat,PHL,1984-06-22,2014-04-13,,,,,Direct
+1269,User - 1269,15084,Private Franchisee,Framchisee 3,Unit 84,Position 8,8,Male,Outsourced,Expat,PHL,1979-05-24,2008-01-02,,,,,Agency
+1024,User - 1024,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 4,8,Male,Outsourced,Expat,PHL,1965-11-26,1991-12-28,,,,,Training Academy
+1334,User - 1334,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 73,9,Male,Outsourced,Expat,PHL,1970-11-05,2008-08-24,,,,,Universities
+1305,User - 1305,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 5,9,Male,Outsourced,Expat,PHL,1983-10-13,2008-04-01,,,,,Referral
+1335,User - 1335,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 32,9,Male,Outsourced,Expat,PHL,1980-11-09,2008-09-02,,,,,Job Portal
+1260,User - 1260,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 136,10,Male,Outsourced,Expat,PHL,1981-09-03,2007-01-14,,,,,Job Portal
+1901,User - 1901,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 116,7,Female,Outsourced,Expat,PHL,1984-02-16,2016-04-03,,,,,Agency
+1857,User - 1857,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 63,7,Female,Outsourced,Expat,PHL,1983-12-15,2015-12-01,,,,,Training Academy
+1654,User - 1654,15055,HR Group,HR Dept 2,Unit 55,Position 46,7,Female,Outsourced,Expat,PHL,1985-09-27,2013-12-22,,,,,LinkedIn
+1538,User - 1538,15072,Legal Group,Legal Dept 1,Unit 72,Position 79,7,Female,Outsourced,Expat,PHL,1973-09-04,2012-07-22,,,,,Job Portal
+1339,User - 1339,15192,Retail Operations,Operations Dept 3,Unit 192,Position 36,8,Female,Outsourced,Expat,PHL,1986-04-11,2008-10-05,,,,,Universities
+1089,User - 1089,15015,Finance Group,Finance Dept 4,Unit 15,Position 67,8,Female,Outsourced,Expat,PHL,1966-10-27,1999-11-01,,,,,Universities
+1454,User - 1454,15016,Finance Group,Finance Dept 4,Unit 16,Position 20,8,Female,Outsourced,Expat,PHL,1977-07-25,2011-04-03,,,,,LinkedIn
+1698,User - 1698,15005,CEO,CEO Dept 1,Unit 5,Position 47,8,Female,Outsourced,Expat,PHL,1979-07-01,2014-06-01,,,,,Job Portal
+1353,User - 1353,15107,Retail Fashion,Retail Brand 3,Unit 107,Position 72,9,Female,Permanent,Expat,BRA,1986-11-08,2009-01-11,,,,,Training Academy
+1984,User - 1984,15071,Legal Group,Legal Dept 1,Unit 71,Position 70,7,Male,Outsourced,Expat,BRA,1990-01-12,2016-08-22,,,,,Universities
+1184,User - 1184,15038,Finance Group,Finance Dept 5,Unit 38,Position 23,7,Male,Outsourced,Expat,BRA,1971-01-19,2005-03-01,,,,,LinkedIn
+1459,User - 1459,15158,Retail Fashion,Retail Brand 13,Unit 158,Position 74,8,Female,Outsourced,Expat,BRA,1982-02-19,2011-04-20,,,,,Universities
+1432,User - 1432,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 138,8,Female,Outsourced,Expat,BRA,1983-04-11,2010-12-01,,,,,Direct
+1808,User - 1808,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 71,9,Female,Outsourced,Expat,BRA,1976-07-20,2015-06-28,,,,,Training Academy
+1097,User - 1097,15193,Retail Operations,Operations Dept 3,Unit 193,Position 141,9,Male,Permanent,Expat,RUS,1973-06-20,2000-04-09,,,,,LinkedIn
+1098,User - 1098,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 60,9,Male,Permanent,Expat,RUS,1968-12-16,2000-05-24,,,,,Agency
+1394,User - 1394,15042,Finance Group,Finance Dept 6,Unit 42,Position 99,11,Male,Permanent,Expat,RUS,1979-08-26,2009-09-23,,,,,Agency
+1479,User - 1479,15190,Retail Operations,Operations Dept 3,Unit 190,Position 119,10,Female,Permanent,Expat,RUS,1976-06-08,2011-07-10,,,,,Training Academy
+1445,User - 1445,15022,Finance Group,Finance Dept 4,Unit 22,Position 146,11,Female,Permanent,Expat,RUS,1959-01-01,2011-03-01,,,,,LinkedIn
+1299,User - 1299,15217,Technology Group,Technology Software Dept,Unit 217,Position 38,10,Male,Permanent,Expat,PHL,1969-10-09,2007-12-09,,,,,Universities
+1062,User - 1062,15221,Technology Group,Technology Software Dept,Unit 221,Position 41,12,Female,Permanent,Expat,PHL,1962-01-17,1997-11-10,,,,,Referral
+1404,User - 1404,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 3,7,Male,Outsourced,Expat,PHL,1972-09-27,2010-02-01,,,,,Referral
+2103,User - 2103,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 96,9,Female,Outsourced,Expat,PHL,1980-05-07,2017-04-16,,,,,Direct
+1946,User - 1946,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 109,6,Male,Permanent,Expat,PRC,1992-09-27,2016-05-15,,,,,LinkedIn
+1627,User - 1627,15158,Retail Fashion,Retail Brand 13,Unit 158,Position 102,6,Male,Permanent,Expat,PRC,1984-07-28,2013-09-01,,,,,Direct
+1352,User - 1352,15106,Retail Fashion,Retail Brand 3,Unit 106,Position 19,7,Male,Permanent,Expat,PRC,1975-05-20,2009-01-11,,,,,LinkedIn
+1704,User - 1704,15160,Retail Fashion,Retail Brand 13,Unit 160,Position 111,8,Male,Permanent,Expat,PRC,1979-09-23,2014-06-25,,,,,Referral
+1359,User - 1359,15092,Retail Fashion,Retail Brand 1,Unit 92,Position 77,9,Male,Permanent,US National,PRC,1986-12-04,2009-02-08,,,,,Training Academy
+1123,User - 1123,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 150,10,Male,Permanent,Expat,PRC,1974-04-04,2001-05-13,,,,,Universities
+1109,User - 1109,15160,Retail Fashion,Retail Brand 13,Unit 160,Position 79,11,Male,Permanent,Expat,PRC,1969-08-24,2000-10-16,,,,,Referral
+1898,User - 1898,15158,Retail Fashion,Retail Brand 13,Unit 158,Position 134,7,Female,Permanent,Expat,PRC,1982-12-26,2016-03-06,,,,,Universities
+1200,User - 1200,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 71,9,Female,Permanent,Expat,PRC,1981-11-08,2005-06-20,,,,,Universities
+1049,User - 1049,15156,Retail Fashion,Retail Brand 13,Unit 156,Position 135,10,Female,Permanent,Expat,PRC,1972-07-02,1995-09-10,,,,,Training Academy
+1126,User - 1126,15151,Retail Fashion,Retail Brand 13,Unit 151,Position 104,11,Female,Permanent,Expat,PRC,1971-09-30,2001-08-22,,,,,Referral
+1116,User - 1116,15158,Retail Fashion,Retail Brand 13,Unit 158,Position 106,11,Female,Permanent,Expat,PRC,1981-06-09,2001-03-11,,,,,LinkedIn
+1067,User - 1067,15179,Retail Fashion,Retail Brand 14,Unit 179,Position 85,11,Female,Permanent,Expat,PRC,1975-07-01,1998-08-02,,,,,LinkedIn
+1416,User - 1416,15059,HR Group,HR Dept 2,Unit 59,Position 128,12,Female,Permanent,Expat,PRC,1959-01-22,2010-06-06,,,,,Direct
+1247,User - 1247,15179,Retail Fashion,Retail Brand 14,Unit 179,Position 29,9,Male,Permanent,Expat,PRC,1965-01-01,2006-11-01,,,,,Job Portal
+1356,User - 1356,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 95,8,Female,Outsourced,Expat,PRC,1984-08-07,2009-01-11,,,,,Training Academy
+1223,User - 1223,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 103,8,Male,Permanent,Expat,SIN,1978-02-24,2005-12-18,,,,,LinkedIn
+1084,User - 1084,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 34,10,Male,Permanent,Expat,SIN,1978-02-28,1999-09-12,,,,,Job Portal
+1073,User - 1073,15220,Technology Group,Technology Software Dept,Unit 220,Position 126,10,Male,Permanent,Expat,SIN,1979-07-13,1998-11-17,,,,,Universities
+1150,User - 1150,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 28,11,Male,Permanent,Expat,SIN,1979-01-27,2002-10-27,,,,,Training Academy
+1188,User - 1188,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 42,8,Female,Permanent,Expat,SIN,1979-05-01,2005-05-08,,,,,Training Academy
+1157,User - 1157,15179,Retail Fashion,Retail Brand 14,Unit 179,Position 67,9,Female,Permanent,Expat,SIN,1969-06-21,2003-08-10,,,,,Referral
+1147,User - 1147,15196,Retail Operations,Operations Dept 3,Unit 196,Position 142,10,Female,Permanent,Expat,SIN,1966-10-20,2002-10-09,,,,,Universities
+1026,User - 1026,15038,Finance Group,Finance Dept 5,Unit 38,Position 7,10,Female,Permanent,Expat,SIN,1962-02-13,1992-06-15,,,,,Training Academy
+2090,User - 2090,15071,Legal Group,Legal Dept 1,Unit 71,Position 114,5,Male,Outsourced,Expat,SIN,1991-07-23,2017-04-02,,,,,Referral
+1591,User - 1591,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 82,6,Male,Outsourced,Expat,SIN,1994-01-15,2013-03-03,,,,,LinkedIn
+1304,User - 1304,15185,Retail Operations,Operations Dept 2,Unit 185,Position 131,8,Male,Outsourced,Expat,SIN,1974-11-27,2008-04-01,,,,,Job Portal
+1740,User - 1740,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 29,9,Male,Outsourced,Expat,SIN,1983-01-08,2014-11-09,,,,,Training Academy
+1273,User - 1273,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 64,9,Male,Outsourced,Expat,SIN,1975-11-30,2008-01-02,,,,,Direct
+1333,User - 1333,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 147,7,Female,Outsourced,Expat,SIN,1981-08-15,2008-08-03,,,,,Referral
+1620,User - 1620,15130,Retail Fashion,Retail Brand 7,Unit 130,Position 69,7,Female,Outsourced,Expat,SIN,1971-09-19,2013-07-01,,,,,Training Academy
+1331,User - 1331,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 66,8,Female,Outsourced,Expat,SIN,1975-03-28,2008-07-01,,,,,Direct
+1315,User - 1315,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 33,9,Female,Outsourced,Expat,SIN,1981-12-14,2008-05-18,,,,,Agency
+1812,User - 1812,15214,Strategy Group,Strategy Dept 2,Unit 214,Position 130,11,Female,Permanent,Expat,SRI,1972-07-24,2015-08-02,,,,,Job Portal
+1270,User - 1270,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 40,11,Female,Permanent,Expat,SRI,1970-12-20,2007-04-29,,,,,Training Academy
+2021,User - 2021,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 118,5,Male,Permanent,US National,USA,1994-04-22,2016-10-03,,,,,Referral
+1843,User - 1843,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 28,6,Male,Permanent,US National,USA,1991-08-20,2015-10-18,,,,,Referral
+1821,User - 1821,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 1,6,Male,Permanent,US National,USA,1990-08-27,2015-09-06,,,,,Universities
+2023,User - 2023,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 69,6,Male,Permanent,US National,USA,1993-11-04,2016-10-03,,,,,Job Portal
+2058,User - 2058,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 112,6,Male,Permanent,US National,USA,1989-09-05,2017-01-02,,,,,Training Academy
+2068,User - 2068,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 76,6,Male,Permanent,US National,USA,1994-01-12,2017-02-01,,,,,Universities
+2163,User - 2163,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 136,6,Male,Permanent,US National,USA,1993-03-04,2017-08-20,,,,,Referral
+1672,User - 1672,15140,Retail Fashion,Retail Brand 8,Unit 140,Position 74,6,Male,Permanent,US National,USA,1987-04-28,2014-04-01,,,,,Job Portal
+1682,User - 1682,15168,Retail Fashion,Retail Brand 13,Unit 168,Position 64,6,Male,Permanent,US National,USA,1990-02-27,2014-04-01,,,,,Universities
+1754,User - 1754,15171,Retail Fashion,Retail Brand 13,Unit 171,Position 59,6,Male,Permanent,US National,USA,1988-07-30,2014-12-21,,,,,Referral
+1756,User - 1756,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 52,6,Male,Permanent,US National,USA,1989-07-20,2014-12-21,,,,,Direct
+2124,User - 2124,15151,Retail Fashion,Retail Brand 13,Unit 151,Position 90,6,Male,Permanent,US National,USA,1988-07-17,2017-06-04,,,,,Agency
+1750,User - 1750,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 79,6,Male,Permanent,US National,USA,1989-04-18,2014-12-21,,,,,Direct
+2142,User - 2142,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 62,6,Male,Permanent,US National,USA,1990-05-20,2017-07-10,,,,,LinkedIn
+1784,User - 1784,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 16,6,Male,Permanent,US National,USA,1990-02-06,2015-04-15,,,,,Referral
+1867,User - 1867,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 37,6,Male,Permanent,US National,USA,1993-02-03,2015-12-15,,,,,LinkedIn
+1870,User - 1870,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 89,6,Male,Permanent,US National,USA,1990-09-20,2015-12-15,,,,,LinkedIn
+2010,User - 2010,15092,Retail Fashion,Retail Brand 1,Unit 92,Position 145,6,Male,Permanent,US National,USA,1993-11-14,2016-09-18,,,,,Job Portal
+1280,User - 1280,15195,Retail Operations,Operations Dept 3,Unit 195,Position 44,6,Male,Permanent,US National,USA,1972-07-17,2007-05-13,,,,,Agency
+1949,User - 1949,15193,Retail Operations,Operations Dept 3,Unit 193,Position 130,6,Male,Permanent,US National,USA,1994-11-20,2016-05-23,,,,,Training Academy
+1919,User - 1919,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 94,6,Male,Permanent,US National,USA,1993-04-09,2016-04-03,,,,,LinkedIn
+1941,User - 1941,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 59,6,Male,Permanent,US National,USA,1989-06-26,2016-05-02,,,,,Job Portal
+1981,User - 1981,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 18,6,Male,Permanent,US National,USA,1993-08-17,2016-08-14,,,,,Job Portal
+1986,User - 1986,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 142,6,Male,Permanent,US National,USA,1990-05-17,2016-08-28,,,,,Referral
+1999,User - 1999,15038,Finance Group,Finance Dept 5,Unit 38,Position 21,6,Male,Permanent,US National,USA,1993-11-30,2016-09-18,,,,,Universities
+2004,User - 2004,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 67,6,Male,Permanent,US National,USA,1992-03-31,2016-09-18,,,,,Direct
+2008,User - 2008,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 26,6,Male,Permanent,US National,USA,1989-07-22,2016-09-18,,,,,Direct
+2025,User - 2025,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 79,6,Male,Permanent,US National,USA,1991-12-24,2016-10-05,,,,,Job Portal
+2096,User - 2096,15096,Retail Fashion,Retail Brand 2,Unit 96,Position 124,6,Male,Permanent,US National,USA,1992-10-03,2017-04-09,,,,,LinkedIn
+2105,User - 2105,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 150,6,Male,Permanent,US National,USA,1993-12-30,2017-04-09,,,,,Agency
+2141,User - 2141,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 56,6,Male,Permanent,US National,USA,1993-10-10,2017-07-10,,,,,Training Academy
+2047,User - 2047,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 74,6,Male,Permanent,US National,USA,1992-10-10,2016-12-12,,,,,Training Academy
+2101,User - 2101,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 52,6,Male,Permanent,US National,USA,1993-11-10,2017-04-09,,,,,Agency
+2106,User - 2106,15096,Retail Fashion,Retail Brand 2,Unit 96,Position 16,6,Male,Permanent,US National,USA,1994-08-25,2017-04-09,,,,,Direct
+2150,User - 2150,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 129,6,Male,Permanent,US National,USA,1992-11-17,2017-07-10,,,,,Training Academy
+2152,User - 2152,15108,Retail Fashion,Retail Brand 3,Unit 108,Position 57,6,Male,Permanent,US National,USA,1993-09-20,2017-07-10,,,,,LinkedIn
+1748,User - 1748,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 43,7,Male,Permanent,US National,USA,1990-09-24,2014-12-21,,,,,LinkedIn
+1785,User - 1785,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 10,7,Male,Permanent,US National,USA,1990-08-03,2015-04-15,,,,,Referral
+1995,User - 1995,15185,Retail Operations,Operations Dept 2,Unit 185,Position 79,7,Male,Permanent,US National,USA,1993-03-09,2016-09-18,,,,,Referral
+1665,User - 1665,15190,Retail Operations,Operations Dept 3,Unit 190,Position 3,7,Male,Permanent,US National,USA,1986-03-24,2014-03-16,,,,,Training Academy
+1708,User - 1708,15190,Retail Operations,Operations Dept 3,Unit 190,Position 109,7,Male,Permanent,US National,USA,1976-12-31,2014-07-01,,,,,Job Portal
+1622,User - 1622,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 30,7,Male,Permanent,US National,USA,1993-12-01,2013-07-07,,,,,Training Academy
+1928,User - 1928,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 103,7,Male,Permanent,US National,USA,1990-10-03,2016-04-04,,,,,LinkedIn
+1977,User - 1977,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 129,7,Male,Permanent,US National,USA,1990-12-07,2016-08-07,,,,,Agency
+1869,User - 1869,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 30,7,Male,Permanent,US National,USA,1990-11-24,2015-12-15,,,,,Agency
+1500,User - 1500,15173,Retail Fashion,Retail Brand 13,Unit 173,Position 18,7,Male,Permanent,US National,USA,1984-11-01,2011-11-13,,,,,Training Academy
+1787,User - 1787,15178,Retail Fashion,Retail Brand 14,Unit 178,Position 16,7,Male,Permanent,US National,USA,1991-10-13,2015-04-15,,,,,Job Portal
+1855,User - 1855,15152,Retail Fashion,Retail Brand 13,Unit 152,Position 67,7,Male,Permanent,US National,USA,1989-08-21,2015-12-01,,,,,Direct
+1968,User - 1968,15176,Retail Fashion,Retail Brand 14,Unit 176,Position 124,7,Male,Permanent,US National,USA,1991-12-12,2016-07-10,,,,,Job Portal
+1972,User - 1972,15154,Retail Fashion,Retail Brand 13,Unit 154,Position 103,7,Male,Permanent,US National,USA,1992-06-27,2016-07-24,,,,,Direct
+2064,User - 2064,15162,Retail Fashion,Retail Brand 13,Unit 162,Position 74,7,Male,Permanent,US National,USA,1989-12-13,2017-01-10,,,,,Direct
+2078,User - 2078,15152,Retail Fashion,Retail Brand 13,Unit 152,Position 143,7,Male,Permanent,US National,USA,1987-07-19,2017-03-01,,,,,Agency
+1579,User - 1579,15136,Retail Fashion,Retail Brand 7,Unit 136,Position 125,7,Male,Permanent,US National,USA,1990-12-19,2012-12-18,,,,,Direct
+1769,User - 1769,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 33,7,Male,Permanent,US National,USA,1992-08-05,2015-03-02,,,,,Agency
+1610,User - 1610,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 131,7,Male,Permanent,US National,USA,1989-07-27,2013-05-01,,,,,Universities
+1892,User - 1892,15185,Retail Operations,Operations Dept 2,Unit 185,Position 9,7,Male,Permanent,US National,USA,1986-09-02,2016-03-01,,,,,Universities
+2077,User - 2077,15184,Retail Operations,Operations Dept 1,Unit 184,Position 145,7,Male,Permanent,US National,USA,1984-03-08,2017-03-01,,,,,Referral
+1935,User - 1935,15006,CEO,CEO Dept 2,Unit 6,Position 21,7,Male,Permanent,US National,USA,1982-05-29,2016-04-17,,,,,LinkedIn
+2137,User - 2137,15190,Retail Operations,Operations Dept 3,Unit 190,Position 14,7,Male,Permanent,US National,USA,1990-03-01,2017-07-02,,,,,LinkedIn
+1936,User - 1936,15187,Retail Operations,Operations Dept 2,Unit 187,Position 136,7,Male,Permanent,US National,USA,1990-10-24,2016-04-18,,,,,LinkedIn
+1766,User - 1766,15045,Finance Group,Finance Dept 6,Unit 45,Position 111,7,Male,Permanent,US National,USA,1988-06-14,2015-03-01,,,,,Referral
+1607,User - 1607,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 50,7,Male,Permanent,US National,USA,1989-01-14,2013-04-01,,,,,Direct
+1782,User - 1782,15097,Retail Fashion,Retail Brand 2,Unit 97,Position 114,7,Male,Permanent,US National,USA,1990-04-05,2015-04-15,,,,,Training Academy
+1674,User - 1674,15030,Finance Group,Finance Dept 4,Unit 30,Position 110,7,Male,Permanent,US National,USA,1987-07-14,2014-04-01,,,,,Agency
+1896,User - 1896,15037,Finance Group,Finance Dept 4,Unit 37,Position 123,7,Male,Permanent,US National,USA,1990-09-09,2016-03-06,,,,,Direct
+1345,User - 1345,15041,Finance Group,Finance Dept 6,Unit 41,Position 8,7,Male,Permanent,US National,USA,1985-05-06,2008-12-14,,,,,Agency
+1881,User - 1881,15084,Private Franchisee,Framchisee 3,Unit 84,Position 33,7,Male,Permanent,US National,USA,1987-03-30,2016-02-01,,,,,Training Academy
+1651,User - 1651,15225,Technology Group,Technology Infrastructure Dept,Unit 225,Position 61,8,Male,Permanent,US National,USA,1989-12-03,2013-12-01,,,,,Training Academy
+1272,User - 1272,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 107,8,Male,Permanent,US National,USA,1987-11-21,2007-05-06,,,,,Universities
+1329,User - 1329,15176,Retail Fashion,Retail Brand 14,Unit 176,Position 20,8,Male,Permanent,US National,USA,1985-05-24,2008-06-15,,,,,Universities
+1524,User - 1524,15134,Retail Fashion,Retail Brand 7,Unit 134,Position 131,8,Male,Permanent,US National,USA,1989-07-18,2012-04-01,,,,,Universities
+1636,User - 1636,15178,Retail Fashion,Retail Brand 14,Unit 178,Position 142,8,Male,Permanent,US National,USA,1988-05-12,2013-10-01,,,,,Training Academy
+1696,User - 1696,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 46,8,Male,Permanent,US National,USA,1987-01-26,2014-05-18,,,,,Referral
+1422,User - 1422,15014,Finance Group,Finance Dept 4,Unit 14,Position 19,8,Male,Permanent,US National,USA,1974-01-01,2010-09-01,,,,,Universities
+1486,User - 1486,15014,Finance Group,Finance Dept 4,Unit 14,Position 133,8,Male,Permanent,US National,USA,1988-08-01,2011-09-26,,,,,Universities
+1795,User - 1795,15014,Finance Group,Finance Dept 4,Unit 14,Position 138,8,Male,Permanent,US National,USA,1992-10-16,2015-05-06,,,,,Referral
+1937,User - 1937,15209,Risk Group,Risk Department,Unit 209,Position 90,8,Male,Permanent,US National,USA,1985-03-14,2016-04-20,,,,,Direct
+1801,User - 1801,15064,Investment Group,Investment Dept 1,Unit 64,Position 131,8,Male,Permanent,US National,USA,1989-02-01,2015-06-01,,,,,LinkedIn
+1893,User - 1893,15001,Board & Directors,Board Dept 1,Unit 1,Position 10,8,Male,Permanent,US National,USA,1981-01-10,2016-03-01,,,,,Referral
+1513,User - 1513,15185,Retail Operations,Operations Dept 2,Unit 185,Position 140,8,Male,Permanent,US National,USA,1987-02-08,2011-12-12,,,,,LinkedIn
+1762,User - 1762,15072,Legal Group,Legal Dept 1,Unit 72,Position 99,8,Male,Permanent,US National,USA,1981-03-04,2014-11-23,,,,,Agency
+1721,User - 1721,15076,Planning Group,Planning Dept 1,Unit 76,Position 98,8,Male,Permanent,US National,USA,1985-08-07,2014-09-01,,,,,Referral
+1302,User - 1302,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 63,8,Male,Permanent,US National,USA,1985-01-17,2008-03-23,,,,,Job Portal
+1363,User - 1363,15044,Finance Group,Finance Dept 6,Unit 44,Position 115,8,Male,Permanent,US National,USA,1981-12-29,2009-03-26,,,,,Universities
+1186,User - 1186,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 103,8,Male,Permanent,US National,USA,1984-08-14,2005-04-17,,,,,Direct
+1425,User - 1425,15175,Retail Fashion,Retail Brand 14,Unit 175,Position 92,8,Male,Permanent,US National,USA,1988-02-20,2010-11-01,,,,,Universities
+1667,User - 1667,15033,Finance Group,Finance Dept 4,Unit 33,Position 104,8,Male,Permanent,US National,USA,1991-12-04,2014-03-23,,,,,Direct
+1406,User - 1406,15038,Finance Group,Finance Dept 5,Unit 38,Position 10,8,Male,Permanent,US National,USA,1986-08-01,2010-03-21,,,,,Direct
+1211,User - 1211,15193,Retail Operations,Operations Dept 3,Unit 193,Position 78,8,Male,Permanent,US National,USA,1985-03-19,2008-10-05,,,,,Job Portal
+1593,User - 1593,15184,Retail Operations,Operations Dept 1,Unit 184,Position 44,8,Male,Permanent,US National,USA,1985-05-26,2013-03-18,,,,,Training Academy
+1732,User - 1732,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 85,8,Male,Permanent,US National,USA,1991-07-01,2014-09-16,,,,,Training Academy
+1468,User - 1468,15084,Private Franchisee,Framchisee 3,Unit 84,Position 26,8,Male,Permanent,US National,USA,1984-11-04,2011-06-19,,,,,Referral
+1197,User - 1197,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 100,8,Male,Permanent,US National,USA,1982-12-17,2005-06-19,,,,,Referral
+1198,User - 1198,15180,Retail Fashion,Retail Brand 14,Unit 180,Position 121,8,Male,Permanent,US National,USA,1976-01-24,2005-06-20,,,,,Agency
+1206,User - 1206,15076,Planning Group,Planning Dept 1,Unit 76,Position 128,8,Male,Permanent,US National,USA,1982-01-21,2005-08-01,,,,,Direct
+1324,User - 1324,15078,Planning Group,Planning Dept 2,Unit 78,Position 82,9,Male,Permanent,US National,USA,1986-08-24,2008-06-15,,,,,Direct
+1640,User - 1640,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 150,9,Male,Permanent,US National,USA,1987-11-21,2013-10-20,,,,,Training Academy
+1180,User - 1180,15038,Finance Group,Finance Dept 5,Unit 38,Position 91,9,Male,Permanent,US National,USA,1980-02-06,2005-02-02,,,,,Training Academy
+1410,User - 1410,15041,Finance Group,Finance Dept 6,Unit 41,Position 56,9,Male,Permanent,US National,USA,1984-07-09,2010-05-23,,,,,Training Academy
+1504,User - 1504,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 121,9,Male,Permanent,US National,USA,1989-10-23,2011-11-23,,,,,Direct
+1175,User - 1175,15038,Finance Group,Finance Dept 5,Unit 38,Position 139,9,Male,Permanent,US National,USA,1975-12-25,2004-12-01,,,,,Direct
+1213,User - 1213,15038,Finance Group,Finance Dept 5,Unit 38,Position 106,9,Male,Permanent,US National,USA,1984-05-24,2005-09-25,,,,,Training Academy
+1715,User - 1715,15068,Investment Group,Investment Dept 3,Unit 68,Position 77,9,Male,Permanent,US National,USA,1989-11-03,2014-08-03,,,,,Direct
+1735,User - 1735,15065,Investment Group,Investment Dept 2,Unit 65,Position 48,9,Male,Permanent,US National,USA,1981-10-28,2014-10-12,,,,,Training Academy
+1448,User - 1448,15062,Internal Audit Group,Audit Dept 1,Unit 62,Position 99,9,Male,Permanent,US National,USA,1988-06-21,2011-03-13,,,,,LinkedIn
+1827,User - 1827,15014,Finance Group,Finance Dept 4,Unit 14,Position 10,9,Male,Permanent,US National,USA,1977-01-15,2015-10-04,,,,,Direct
+1361,User - 1361,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 147,9,Male,Permanent,US National,USA,1984-10-06,2009-03-15,,,,,Referral
+1139,User - 1139,15109,Retail Fashion,Retail Brand 3,Unit 109,Position 10,9,Male,Permanent,US National,USA,1979-02-01,2002-04-07,,,,,LinkedIn
+1411,User - 1411,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 15,9,Male,Permanent,US National,USA,1987-05-29,2010-05-23,,,,,LinkedIn
+1424,User - 1424,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 87,9,Male,Permanent,US National,USA,1987-07-28,2010-11-01,,,,,Training Academy
+1430,User - 1430,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 17,9,Male,Permanent,US National,USA,1986-03-27,2010-11-01,,,,,Job Portal
+1658,User - 1658,15102,Retail Fashion,Retail Brand 3,Unit 102,Position 105,9,Male,Permanent,US National,USA,1981-12-10,2014-01-12,,,,,Direct
+1602,User - 1602,15178,Retail Fashion,Retail Brand 14,Unit 178,Position 124,9,Male,Permanent,US National,USA,1990-10-02,2013-04-01,,,,,Agency
+1417,User - 1417,15075,Planning Group,Planning Dept 1,Unit 75,Position 10,9,Male,Permanent,US National,USA,1986-10-11,2010-06-06,,,,,Universities
+1572,User - 1572,15078,Planning Group,Planning Dept 2,Unit 78,Position 78,9,Male,Permanent,US National,USA,1984-10-05,2012-12-03,,,,,Agency
+1790,User - 1790,15084,Private Franchisee,Framchisee 3,Unit 84,Position 57,9,Male,Permanent,US National,USA,1983-12-09,2015-04-20,,,,,Training Academy
+1793,User - 1793,15058,HR Group,HR Dept 2,Unit 58,Position 90,9,Male,Permanent,US National,USA,1988-10-24,2015-05-03,,,,,Direct
+1044,User - 1044,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 147,9,Male,Permanent,US National,USA,1970-03-05,1994-12-04,,,,,Direct
+1798,User - 1798,15073,Market Research,Marketing Dept,Unit 73,Position 51,9,Male,Permanent,US National,USA,1984-08-21,2015-05-17,,,,,Training Academy
+1386,User - 1386,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 63,9,Male,Permanent,US National,USA,1986-05-22,2009-08-16,,,,,Direct
+1409,User - 1409,15165,Retail Fashion,Retail Brand 13,Unit 165,Position 136,9,Male,Permanent,US National,USA,1984-11-01,2010-04-04,,,,,LinkedIn
+1415,User - 1415,15140,Retail Fashion,Retail Brand 8,Unit 140,Position 90,9,Male,Permanent,US National,USA,1986-02-17,2010-06-06,,,,,Referral
+1286,User - 1286,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 67,9,Male,Permanent,US National,USA,1961-03-28,2007-06-12,,,,,Agency
+1656,User - 1656,15217,Technology Group,Technology Software Dept,Unit 217,Position 81,9,Male,Permanent,US National,USA,1983-08-29,2014-01-05,,,,,Referral
+1435,User - 1435,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 87,9,Male,Permanent,US National,USA,1986-05-17,2010-12-15,,,,,LinkedIn
+1388,User - 1388,15181,Retail Operations,Operations Dept 1,Unit 181,Position 3,9,Male,Permanent,US National,USA,1979-01-28,2009-08-16,,,,,Direct
+1413,User - 1413,15188,Retail Operations,Operations Dept 2,Unit 188,Position 39,9,Male,Permanent,US National,USA,1987-08-10,2010-05-23,,,,,Direct
+1347,User - 1347,15189,Retail Operations,Operations Dept 3,Unit 189,Position 37,9,Male,Permanent,US National,USA,1982-12-03,2009-01-04,,,,,Training Academy
+2111,User - 2111,15188,Retail Operations,Operations Dept 2,Unit 188,Position 53,9,Male,Permanent,US National,USA,1978-09-27,2017-05-01,,,,,Training Academy
+1401,User - 1401,15220,Technology Group,Technology Software Dept,Unit 220,Position 73,9,Male,Permanent,US National,USA,1988-02-24,2009-12-06,,,,,Agency
+1205,User - 1205,15071,Legal Group,Legal Dept 1,Unit 71,Position 130,9,Male,Permanent,US National,USA,1974-05-26,2005-07-07,,,,,Job Portal
+2024,User - 2024,15064,Investment Group,Investment Dept 1,Unit 64,Position 133,9,Male,Permanent,US National,USA,1987-10-19,2016-10-09,,,,,Direct
+1860,User - 1860,15190,Retail Operations,Operations Dept 3,Unit 190,Position 41,9,Male,Permanent,US National,USA,1985-05-10,2015-12-13,,,,,Universities
+1251,User - 1251,15071,Legal Group,Legal Dept 1,Unit 71,Position 145,9,Male,Permanent,US National,USA,1981-11-01,2006-12-03,,,,,Direct
+1053,User - 1053,15185,Retail Operations,Operations Dept 2,Unit 185,Position 21,9,Male,Permanent,US National,USA,1976-01-01,1996-11-04,,,,,Job Portal
+1231,User - 1231,15185,Retail Operations,Operations Dept 2,Unit 185,Position 38,9,Male,Permanent,US National,USA,1979-08-23,2006-02-08,,,,,Direct
+1235,User - 1235,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 72,9,Male,Permanent,US National,USA,1975-07-04,2006-04-04,,,,,Training Academy
+1166,User - 1166,15191,Retail Operations,Operations Dept 3,Unit 191,Position 69,9,Male,Permanent,US National,USA,1981-07-08,2004-08-17,,,,,LinkedIn
+1307,User - 1307,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 83,10,Male,Permanent,US National,USA,1979-11-21,2008-04-13,,,,,Direct
+1236,User - 1236,15179,Retail Fashion,Retail Brand 14,Unit 179,Position 45,10,Male,Permanent,US National,USA,1967-12-08,2006-05-07,,,,,Referral
+1824,User - 1824,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 11,10,Male,Permanent,US National,USA,1975-12-20,2015-09-16,,,,,Universities
+1138,User - 1138,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 25,10,Male,Permanent,US National,USA,1981-02-09,2002-04-07,,,,,Direct
+1215,User - 1215,15165,Retail Fashion,Retail Brand 13,Unit 165,Position 77,10,Male,Permanent,US National,USA,1977-09-22,2005-10-11,,,,,Job Portal
+1883,User - 1883,15137,Retail Fashion,Retail Brand 7,Unit 137,Position 47,10,Male,Permanent,US National,USA,1984-07-23,2016-02-01,,,,,LinkedIn
+1366,User - 1366,15032,Finance Group,Finance Dept 4,Unit 32,Position 121,10,Male,Permanent,US National,USA,1986-12-24,2009-03-26,,,,,Direct
+1100,User - 1100,15074,Planning Group,Planning Dept 1,Unit 74,Position 103,10,Male,Permanent,US National,USA,1977-10-04,2000-05-15,,,,,Training Academy
+1853,User - 1853,15058,HR Group,HR Dept 2,Unit 58,Position 33,10,Male,Permanent,US National,USA,1982-07-10,2015-12-01,,,,,Agency
+1111,User - 1111,15108,Retail Fashion,Retail Brand 3,Unit 108,Position 115,10,Male,Permanent,US National,USA,1975-07-03,2000-11-01,,,,,Referral
+1192,User - 1192,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 122,10,Male,Permanent,US National,USA,1983-07-25,2005-05-22,,,,,Direct
+1438,User - 1438,15033,Finance Group,Finance Dept 4,Unit 33,Position 148,10,Male,Permanent,US National,USA,1985-01-31,2011-01-09,,,,,Job Portal
+1168,User - 1168,15154,Retail Fashion,Retail Brand 13,Unit 154,Position 18,11,Male,Permanent,US National,USA,1979-03-24,2004-09-29,,,,,Direct
+1383,User - 1383,15012,Finance Group,Finance Dept 4,Unit 12,Position 147,11,Male,Permanent,US National,USA,1982-12-06,2009-08-10,,,,,Referral
+1149,User - 1149,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 56,11,Male,Permanent,US National,USA,1981-08-17,2002-11-03,,,,,Referral
+1249,User - 1249,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 66,11,Male,Permanent,US National,USA,1983-02-07,2006-03-19,,,,,LinkedIn
+1030,User - 1030,15075,Planning Group,Planning Dept 1,Unit 75,Position 19,11,Male,Permanent,US National,USA,1970-07-11,1992-11-14,,,,,LinkedIn
+1369,User - 1369,15068,Investment Group,Investment Dept 3,Unit 68,Position 105,11,Male,Permanent,US National,USA,1979-03-25,2009-04-01,,,,,LinkedIn
+1112,User - 1112,15071,Legal Group,Legal Dept 1,Unit 71,Position 79,11,Male,Permanent,US National,USA,1966-07-24,2000-11-06,,,,,Agency
+1141,User - 1141,15171,Retail Fashion,Retail Brand 13,Unit 171,Position 14,11,Male,Permanent,US National,USA,1979-08-24,2002-04-14,,,,,Agency
+1233,User - 1233,15138,Retail Fashion,Retail Brand 8,Unit 138,Position 40,11,Male,Permanent,US National,USA,1979-10-26,2006-03-19,,,,,Job Portal
+1122,User - 1122,15185,Retail Operations,Operations Dept 2,Unit 185,Position 148,11,Male,Permanent,US National,USA,1978-12-31,2001-05-06,,,,,Referral
+1295,User - 1295,15125,Retail Fashion,Retail Brand 6,Unit 125,Position 34,11,Male,Permanent,US National,USA,1971-02-11,2007-11-04,,,,,Job Portal
+1143,User - 1143,15216,Technology Group,Technology Software Dept,Unit 216,Position 30,11,Male,Permanent,US National,USA,1976-07-13,2002-07-01,,,,,Job Portal
+1965,User - 1965,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 134,11,Male,Permanent,US National,USA,1984-04-08,2016-07-10,,,,,Universities
+1464,User - 1464,15175,Retail Fashion,Retail Brand 14,Unit 175,Position 88,11,Male,Permanent,US National,USA,1980-02-18,2011-05-23,,,,,Direct
+1144,User - 1144,15084,Private Franchisee,Framchisee 3,Unit 84,Position 118,11,Male,Permanent,US National,USA,1977-09-15,2002-07-29,,,,,Job Portal
+1421,User - 1421,15083,Private Franchisee,Framchisee 2,Unit 83,Position 139,11,Male,Permanent,US National,USA,1988-04-05,2010-08-16,,,,,Direct
+1649,User - 1649,15071,Legal Group,Legal Dept 1,Unit 71,Position 139,11,Male,Permanent,Expat,USA,1982-10-30,2013-11-17,,,,,Direct
+1670,User - 1670,15084,Private Franchisee,Framchisee 3,Unit 84,Position 54,11,Male,Permanent,US National,USA,1984-07-17,2014-04-01,,,,,Training Academy
+1285,User - 1285,15001,Board & Directors,Board Dept 1,Unit 1,Position 79,11,Male,Permanent,US National,USA,1976-02-25,2007-06-10,,,,,Universities
+1423,User - 1423,15212,Social Media Group,Social Media Department,Unit 212,Position 53,11,Male,Permanent,US National,USA,1981-10-20,2010-11-01,,,,,Training Academy
+1944,User - 1944,15067,Investment Group,Investment Dept 2,Unit 67,Position 19,11,Male,Permanent,US National,USA,1984-11-20,2016-05-15,,,,,Referral
+1378,User - 1378,15186,Retail Operations,Operations Dept 2,Unit 186,Position 46,11,Male,Permanent,US National,USA,1976-12-18,2009-06-21,,,,,Training Academy
+1669,User - 1669,15084,Private Franchisee,Framchisee 3,Unit 84,Position 29,11,Male,Permanent,US National,USA,1964-04-06,2014-04-01,,,,,Universities
+1439,User - 1439,15054,HR Group,HR Dept 2,Unit 54,Position 9,11,Male,Permanent,US National,USA,1978-06-27,2011-01-09,,,,,Direct
+1240,User - 1240,15064,Investment Group,Investment Dept 1,Unit 64,Position 41,11,Male,Permanent,US National,USA,1983-09-08,2006-06-25,,,,,Job Portal
+1140,User - 1140,15178,Retail Fashion,Retail Brand 14,Unit 178,Position 29,11,Male,Permanent,US National,USA,1982-03-03,2002-04-07,,,,,Agency
+1146,User - 1146,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 134,11,Male,Permanent,US National,USA,1976-11-13,2002-09-01,,,,,Universities
+1178,User - 1178,15144,Retail Fashion,Retail Brand 11,Unit 144,Position 116,11,Male,Permanent,US National,USA,1979-01-02,2005-01-16,,,,,LinkedIn
+1467,User - 1467,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 95,11,Male,Permanent,US National,USA,1980-10-29,2011-06-13,,,,,Job Portal
+1886,User - 1886,15224,Technology Group,Technology Infrastructure Dept,Unit 224,Position 43,11,Male,Permanent,US National,USA,1966-04-04,2016-02-15,,,,,LinkedIn
+1465,User - 1465,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 39,11,Male,Permanent,US National,USA,1985-05-30,2011-05-22,,,,,Referral
+1209,User - 1209,15027,Finance Group,Finance Dept 4,Unit 27,Position 75,11,Male,Permanent,US National,USA,1979-11-24,2005-09-04,,,,,Training Academy
+1082,User - 1082,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 92,12,Male,Permanent,US National,USA,1974-08-18,1999-07-26,,,,,Training Academy
+1298,User - 1298,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 44,12,Male,Permanent,US National,USA,1976-07-06,2007-12-02,,,,,Universities
+1661,User - 1661,15205,Risk Group,Risk Department,Unit 205,Position 34,12,Male,Permanent,US National,USA,1984-08-01,2014-02-16,,,,,Referral
+1403,User - 1403,15017,Finance Group,Finance Dept 4,Unit 17,Position 18,12,Male,Permanent,US National,USA,1980-11-04,2010-01-17,,,,,LinkedIn
+1161,User - 1161,15031,Finance Group,Finance Dept 4,Unit 31,Position 78,12,Male,Permanent,US National,USA,1962-01-06,2004-06-20,,,,,Agency
+1568,User - 1568,15001,Board & Directors,Board Dept 1,Unit 1,Position 92,13,Male,Permanent,US National,USA,1971-02-11,2012-11-04,,,,,Agency
+1412,User - 1412,15194,Retail Operations,Operations Dept 3,Unit 194,Position 13,13,Male,Permanent,US National,USA,1973-07-14,2010-06-01,,,,,LinkedIn
+1709,User - 1709,15067,Investment Group,Investment Dept 2,Unit 67,Position 54,13,Male,Permanent,US National,USA,1974-10-12,2014-07-06,,,,,Referral
+1070,User - 1070,15018,Finance Group,Finance Dept 4,Unit 18,Position 74,14,Male,Permanent,US National,USA,1965-01-17,1998-09-13,,,,,Direct
+1619,User - 1619,15084,Private Franchisee,Framchisee 3,Unit 84,Position 96,14,Male,Permanent,US National,USA,1968-05-21,2013-07-01,,,,,Universities
+1091,User - 1091,15081,Planning Group,Planning Dept 3,Unit 81,Position 42,14,Male,Permanent,US National,USA,1964-12-25,2000-01-02,,,,,LinkedIn
+1095,User - 1095,15005,CEO,CEO Dept 1,Unit 5,Position 114,15,Male,Permanent,US National,USA,1971-04-22,2000-03-01,,,,,Training Academy
+1239,User - 1239,15196,Retail Operations,Operations Dept 3,Unit 196,Position 133,5,Female,Permanent,US National,USA,1973-12-18,2006-06-08,,,,,Training Academy
+1846,User - 1846,15186,Retail Operations,Operations Dept 2,Unit 186,Position 98,6,Female,Permanent,US National,USA,1993-01-21,2015-10-18,,,,,Referral
+2112,User - 2112,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 99,6,Female,Permanent,US National,USA,1988-03-11,2017-05-01,,,,,LinkedIn
+2173,User - 2173,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 108,6,Female,Permanent,US National,USA,1984-07-01,2017-09-17,,,,,Training Academy
+1675,User - 1675,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 144,6,Female,Permanent,US National,USA,1989-12-14,2014-04-01,,,,,LinkedIn
+1630,User - 1630,15115,Retail Fashion,Retail Brand 5,Unit 115,Position 100,6,Female,Permanent,US National,USA,1989-08-15,2013-09-10,,,,,Job Portal
+1644,User - 1644,15151,Retail Fashion,Retail Brand 13,Unit 151,Position 74,6,Female,Permanent,US National,USA,1988-10-07,2013-11-03,,,,,Agency
+1839,User - 1839,15137,Retail Fashion,Retail Brand 7,Unit 137,Position 136,6,Female,Permanent,US National,USA,1992-01-19,2015-10-18,,,,,LinkedIn
+1842,User - 1842,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 148,6,Female,Permanent,US National,USA,1992-02-27,2015-10-18,,,,,Training Academy
+2095,User - 2095,15175,Retail Fashion,Retail Brand 14,Unit 175,Position 47,6,Female,Permanent,US National,USA,1994-08-03,2017-04-09,,,,,Direct
+2097,User - 2097,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 60,6,Female,Permanent,US National,USA,1992-09-23,2017-04-09,,,,,Job Portal
+2148,User - 2148,15147,Retail Fashion,Retail Brand 12,Unit 147,Position 148,6,Female,Permanent,US National,USA,1993-06-15,2017-07-10,,,,,Training Academy
+2013,User - 2013,15165,Retail Fashion,Retail Brand 13,Unit 165,Position 31,6,Female,Permanent,US National,USA,1992-11-22,2016-09-18,,,,,Direct
+1835,User - 1835,15098,Retail Fashion,Retail Brand 3,Unit 98,Position 68,6,Female,Permanent,US National,USA,1992-04-02,2015-10-18,,,,,Training Academy
+1840,User - 1840,15107,Retail Fashion,Retail Brand 3,Unit 107,Position 69,6,Female,Permanent,US National,USA,1993-10-02,2015-10-18,,,,,LinkedIn
+1865,User - 1865,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 95,6,Female,Permanent,US National,USA,1990-12-04,2015-12-15,,,,,Job Portal
+1908,User - 1908,15109,Retail Fashion,Retail Brand 3,Unit 109,Position 5,6,Female,Permanent,US National,USA,1990-12-02,2016-04-03,,,,,Job Portal
+1917,User - 1917,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 144,6,Female,Permanent,US National,USA,1993-08-01,2016-04-03,,,,,Universities
+1924,User - 1924,15115,Retail Fashion,Retail Brand 5,Unit 115,Position 94,6,Female,Permanent,US National,USA,1987-04-28,2016-04-04,,,,,LinkedIn
+2125,User - 2125,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 127,6,Female,Permanent,US National,USA,1989-01-16,2017-06-04,,,,,Agency
+2140,User - 2140,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 8,6,Female,Permanent,US National,USA,1993-04-01,2017-07-10,,,,,Job Portal
+1902,User - 1902,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 66,6,Female,Permanent,US National,USA,1992-12-04,2016-04-03,,,,,Agency
+2136,User - 2136,15185,Retail Operations,Operations Dept 2,Unit 185,Position 81,6,Female,Permanent,US National,USA,1989-06-11,2017-07-02,,,,,Training Academy
+1450,User - 1450,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 4,6,Female,Permanent,US National,USA,1988-09-30,2011-04-03,,,,,Referral
+1679,User - 1679,15136,Retail Fashion,Retail Brand 7,Unit 136,Position 62,6,Female,Permanent,US National,USA,1991-01-03,2014-04-01,,,,,Universities
+1574,User - 1574,15115,Retail Fashion,Retail Brand 5,Unit 115,Position 136,6,Female,Permanent,US National,USA,1984-04-22,2012-12-18,,,,,Direct
+1680,User - 1680,15109,Retail Fashion,Retail Brand 3,Unit 109,Position 30,6,Female,Permanent,US National,USA,1990-08-16,2014-04-01,,,,,LinkedIn
+1847,User - 1847,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 56,6,Female,Permanent,US National,USA,1990-10-03,2015-10-18,,,,,LinkedIn
+1904,User - 1904,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 123,6,Female,Permanent,US National,USA,1992-07-03,2016-04-03,,,,,Referral
+1907,User - 1907,15146,Retail Fashion,Retail Brand 12,Unit 146,Position 136,6,Female,Permanent,US National,USA,1992-11-14,2016-04-03,,,,,Universities
+1911,User - 1911,15116,Retail Fashion,Retail Brand 5,Unit 116,Position 87,6,Female,Permanent,US National,USA,1991-08-18,2016-04-03,,,,,Agency
+1918,User - 1918,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 47,6,Female,Permanent,US National,USA,1993-04-12,2016-04-03,,,,,Agency
+1927,User - 1927,15136,Retail Fashion,Retail Brand 7,Unit 136,Position 22,6,Female,Permanent,US National,USA,1988-05-24,2016-04-04,,,,,Universities
+2000,User - 2000,15119,Retail Fashion,Retail Brand 5,Unit 119,Position 76,6,Female,Permanent,US National,USA,1996-02-14,2016-09-18,,,,,Direct
+2002,User - 2002,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 144,6,Female,Permanent,US National,USA,1992-02-24,2016-09-18,,,,,Universities
+2006,User - 2006,15103,Retail Fashion,Retail Brand 3,Unit 103,Position 127,6,Female,Permanent,US National,USA,1992-08-24,2016-09-18,,,,,Training Academy
+2009,User - 2009,15132,Retail Fashion,Retail Brand 7,Unit 132,Position 43,6,Female,Permanent,US National,USA,1992-03-18,2016-09-18,,,,,Referral
+2011,User - 2011,15038,Finance Group,Finance Dept 5,Unit 38,Position 124,6,Female,Permanent,US National,USA,1991-03-14,2016-09-18,,,,,Training Academy
+2018,User - 2018,15095,Retail Fashion,Retail Brand 2,Unit 95,Position 33,6,Female,Permanent,US National,USA,1992-03-14,2016-09-25,,,,,LinkedIn
+2153,User - 2153,15100,Retail Fashion,Retail Brand 3,Unit 100,Position 150,6,Female,Permanent,US National,USA,1995-01-10,2017-07-10,,,,,Job Portal
+2001,User - 2001,15092,Retail Fashion,Retail Brand 1,Unit 92,Position 36,6,Female,Permanent,US National,USA,1992-11-07,2016-09-18,,,,,Training Academy
+2042,User - 2042,15094,Retail Fashion,Retail Brand 2,Unit 94,Position 145,6,Female,Permanent,US National,USA,1993-06-15,2016-12-12,,,,,Job Portal
+2044,User - 2044,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 126,6,Female,Permanent,US National,USA,1993-03-16,2016-12-12,,,,,Agency
+2099,User - 2099,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 14,6,Female,Permanent,US National,USA,1991-12-06,2017-04-09,,,,,Job Portal
+2155,User - 2155,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 19,6,Female,Permanent,US National,USA,1992-08-01,2017-07-10,,,,,Direct
+1760,User - 1760,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 115,7,Female,Permanent,US National,USA,1987-05-28,2015-01-11,,,,,Job Portal
+1400,User - 1400,15071,Legal Group,Legal Dept 1,Unit 71,Position 98,7,Female,Permanent,US National,USA,1972-12-24,2009-11-15,,,,,Agency
+1657,User - 1657,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 28,7,Female,Permanent,US National,USA,1989-12-08,2014-01-06,,,,,Referral
+2088,User - 2088,15205,Risk Group,Risk Department,Unit 205,Position 40,7,Female,Permanent,US National,USA,1992-04-16,2017-04-02,,,,,Agency
+2033,User - 2033,15014,Finance Group,Finance Dept 4,Unit 14,Position 28,7,Female,Permanent,US National,USA,1992-03-12,2016-11-15,,,,,Universities
+1444,User - 1444,15195,Retail Operations,Operations Dept 3,Unit 195,Position 137,7,Female,Permanent,US National,USA,1984-06-26,2011-03-01,,,,,Direct
+1477,User - 1477,15152,Retail Fashion,Retail Brand 13,Unit 152,Position 22,7,Female,Permanent,US National,USA,1985-01-05,2011-07-03,,,,,Agency
+1489,User - 1489,15173,Retail Fashion,Retail Brand 13,Unit 173,Position 40,7,Female,Permanent,US National,USA,1988-05-02,2011-09-26,,,,,LinkedIn
+1730,User - 1730,15118,Retail Fashion,Retail Brand 5,Unit 118,Position 145,7,Female,Permanent,US National,USA,1991-08-26,2014-09-16,,,,,Direct
+1749,User - 1749,15165,Retail Fashion,Retail Brand 13,Unit 165,Position 29,7,Female,Permanent,US National,USA,1990-04-22,2014-12-21,,,,,Referral
+1841,User - 1841,15138,Retail Fashion,Retail Brand 8,Unit 138,Position 18,7,Female,Permanent,US National,USA,1991-03-18,2015-10-18,,,,,LinkedIn
+1844,User - 1844,15139,Retail Fashion,Retail Brand 8,Unit 139,Position 47,7,Female,Permanent,US National,USA,1991-09-22,2015-10-18,,,,,Job Portal
+1963,User - 1963,15144,Retail Fashion,Retail Brand 11,Unit 144,Position 120,7,Female,Permanent,US National,USA,1991-10-07,2016-07-10,,,,,Training Academy
+1964,User - 1964,15169,Retail Fashion,Retail Brand 13,Unit 169,Position 57,7,Female,Permanent,US National,USA,1992-06-22,2016-07-10,,,,,Job Portal
+1967,User - 1967,15151,Retail Fashion,Retail Brand 13,Unit 151,Position 26,7,Female,Permanent,US National,USA,1992-11-07,2016-07-10,,,,,Referral
+1987,User - 1987,15139,Retail Fashion,Retail Brand 8,Unit 139,Position 21,7,Female,Permanent,US National,USA,1990-08-10,2016-08-28,,,,,Job Portal
+2037,User - 2037,15140,Retail Fashion,Retail Brand 8,Unit 140,Position 16,7,Female,Permanent,US National,USA,1987-03-23,2016-12-04,,,,,LinkedIn
+2062,User - 2062,15142,Retail Fashion,Retail Brand 9,Unit 142,Position 137,7,Female,Permanent,US National,USA,1987-07-27,2017-01-04,,,,,Referral
+2108,User - 2108,15149,Retail Fashion,Retail Brand 12,Unit 149,Position 5,7,Female,Permanent,US National,USA,1986-04-24,2017-04-09,,,,,Referral
+1830,User - 1830,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 84,7,Female,Permanent,US National,USA,1987-02-15,2015-10-04,,,,,Agency
+1966,User - 1966,15065,Investment Group,Investment Dept 2,Unit 65,Position 134,7,Female,Permanent,US National,USA,1994-04-24,2016-07-10,,,,,Training Academy
+1536,User - 1536,15003,Board & Directors,Board Dept 3,Unit 3,Position 106,7,Female,Permanent,US National,USA,1986-02-06,2012-07-01,,,,,Universities
+1472,User - 1472,15038,Finance Group,Finance Dept 5,Unit 38,Position 123,7,Female,Permanent,US National,USA,1989-12-27,2011-06-26,,,,,LinkedIn
+1673,User - 1673,15038,Finance Group,Finance Dept 5,Unit 38,Position 70,7,Female,Permanent,US National,USA,1990-11-10,2014-04-01,,,,,LinkedIn
+1845,User - 1845,15113,Retail Fashion,Retail Brand 4,Unit 113,Position 127,7,Female,Permanent,US National,USA,1993-01-14,2015-10-18,,,,,Referral
+1581,User - 1581,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 26,7,Female,Permanent,US National,USA,1984-11-19,2013-01-15,,,,,Direct
+1772,User - 1772,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 10,7,Female,Permanent,US National,USA,1989-11-04,2015-03-22,,,,,Universities
+2158,User - 2158,15058,HR Group,HR Dept 2,Unit 58,Position 6,7,Female,Permanent,US National,USA,1992-12-30,2017-08-06,,,,,Job Portal
+1831,User - 1831,15186,Retail Operations,Operations Dept 2,Unit 186,Position 32,7,Female,Permanent,US National,USA,1989-12-14,2015-10-07,,,,,Agency
+1564,User - 1564,15038,Finance Group,Finance Dept 5,Unit 38,Position 51,7,Female,Permanent,US National,USA,1987-10-14,2012-10-14,,,,,LinkedIn
+1511,User - 1511,15197,Retail Operations,Operations Dept 3,Unit 197,Position 89,7,Female,Permanent,US National,USA,1990-11-02,2011-11-23,,,,,Direct
+1989,User - 1989,15188,Retail Operations,Operations Dept 2,Unit 188,Position 30,7,Female,Permanent,US National,USA,1989-11-02,2016-08-28,,,,,Job Portal
+1549,User - 1549,15095,Retail Fashion,Retail Brand 2,Unit 95,Position 150,7,Female,Permanent,US National,USA,1988-06-28,2012-09-19,,,,,Universities
+2029,User - 2029,15226,Technology Group,Technology Infrastructure Dept,Unit 226,Position 87,7,Female,Permanent,US National,USA,1993-07-28,2016-11-01,,,,,Job Portal
+1998,User - 1998,15084,Private Franchisee,Framchisee 3,Unit 84,Position 19,7,Female,Permanent,US National,USA,1993-09-11,2016-09-18,,,,,Agency
+2063,User - 2063,15084,Private Franchisee,Framchisee 3,Unit 84,Position 71,7,Female,Permanent,US National,USA,1991-09-08,2017-01-08,,,,,Agency
+2115,User - 2115,15080,Planning Group,Planning Dept 2,Unit 80,Position 109,7,Female,Permanent,US National,USA,1994-06-16,2017-05-14,,,,,Referral
+1546,User - 1546,15038,Finance Group,Finance Dept 5,Unit 38,Position 82,7,Female,Permanent,US National,USA,1989-10-19,2012-09-19,,,,,Referral
+1871,User - 1871,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 19,7,Female,Permanent,US National,USA,1989-07-11,2015-12-15,,,,,LinkedIn
+1474,User - 1474,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 71,8,Female,Permanent,US National,USA,1989-01-22,2011-06-26,,,,,Referral
+1571,User - 1571,15142,Retail Fashion,Retail Brand 9,Unit 142,Position 133,8,Female,Permanent,US National,USA,1988-03-28,2012-11-18,,,,,Job Portal
+1677,User - 1677,15175,Retail Fashion,Retail Brand 14,Unit 175,Position 142,8,Female,Permanent,US National,USA,1988-05-06,2014-04-01,,,,,LinkedIn
+1475,User - 1475,15014,Finance Group,Finance Dept 4,Unit 14,Position 138,8,Female,Permanent,US National,USA,1984-01-10,2011-06-26,,,,,Universities
+1731,User - 1731,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 32,8,Female,Permanent,US National,USA,1988-03-16,2014-09-16,,,,,Job Portal
+1402,User - 1402,15038,Finance Group,Finance Dept 5,Unit 38,Position 3,8,Female,Permanent,US National,USA,1985-03-01,2010-01-04,,,,,Referral
+1623,User - 1623,15223,Technology Group,Technology Infrastructure Dept,Unit 223,Position 28,8,Female,Permanent,US National,USA,1981-04-13,2013-07-21,,,,,Referral
+1650,User - 1650,15185,Retail Operations,Operations Dept 2,Unit 185,Position 27,8,Female,Permanent,US National,USA,1988-10-26,2013-12-01,,,,,Referral
+1548,User - 1548,15120,Retail Fashion,Retail Brand 5,Unit 120,Position 56,8,Female,Permanent,US National,USA,1991-01-11,2012-09-19,,,,,Job Portal
+1577,User - 1577,15164,Retail Fashion,Retail Brand 13,Unit 164,Position 67,8,Female,Permanent,US National,USA,1988-08-02,2012-12-18,,,,,Job Portal
+1792,User - 1792,15168,Retail Fashion,Retail Brand 13,Unit 168,Position 55,8,Female,Permanent,US National,USA,1991-11-21,2015-05-03,,,,,Universities
+1791,User - 1791,15023,Finance Group,Finance Dept 4,Unit 23,Position 104,8,Female,Permanent,US National,USA,1990-10-23,2015-04-26,,,,,Referral
+1737,User - 1737,15045,Finance Group,Finance Dept 6,Unit 45,Position 60,8,Female,Permanent,US National,USA,1987-08-03,2014-10-12,,,,,LinkedIn
+1930,User - 1930,15128,Retail Fashion,Retail Brand 7,Unit 128,Position 100,8,Female,Permanent,US National,USA,1989-08-08,2016-04-05,,,,,Agency
+2157,User - 2157,15191,Retail Operations,Operations Dept 3,Unit 191,Position 71,8,Female,Permanent,US National,USA,1985-02-24,2017-08-01,,,,,Universities
+1414,User - 1414,15188,Retail Operations,Operations Dept 2,Unit 188,Position 100,8,Female,Permanent,US National,USA,1987-08-10,2010-05-23,,,,,LinkedIn
+1692,User - 1692,15064,Investment Group,Investment Dept 1,Unit 64,Position 100,8,Female,Permanent,US National,USA,1991-07-30,2014-05-01,,,,,Training Academy
+2073,User - 2073,15222,Technology Group,Technology Infrastructure Dept,Unit 222,Position 119,8,Female,Permanent,US National,USA,1991-05-12,2017-02-19,,,,,LinkedIn
+1753,User - 1753,15118,Retail Fashion,Retail Brand 5,Unit 118,Position 145,8,Female,Permanent,US National,USA,1990-05-23,2014-12-21,,,,,Training Academy
+1481,User - 1481,15184,Retail Operations,Operations Dept 1,Unit 184,Position 126,8,Female,Permanent,US National,USA,1984-10-08,2011-08-07,,,,,Training Academy
+1611,User - 1611,15071,Legal Group,Legal Dept 1,Unit 71,Position 123,9,Female,Permanent,US National,USA,1986-05-17,2013-05-01,,,,,Direct
+1487,User - 1487,15121,Retail Fashion,Retail Brand 6,Unit 121,Position 98,9,Female,Permanent,US National,USA,1989-12-24,2011-09-26,,,,,Training Academy
+1278,User - 1278,15038,Finance Group,Finance Dept 5,Unit 38,Position 11,9,Female,Permanent,US National,USA,1985-12-04,2007-05-06,,,,,Training Academy
+1952,User - 1952,15066,Investment Group,Investment Dept 2,Unit 66,Position 79,9,Female,Permanent,US National,USA,1986-12-18,2016-06-01,,,,,LinkedIn
+2030,User - 2030,15066,Investment Group,Investment Dept 2,Unit 66,Position 18,9,Female,Permanent,US National,USA,1987-07-04,2016-11-06,,,,,Training Academy
+1227,User - 1227,15050,Finance Group,Finance Dept 7,Unit 50,Position 13,9,Female,Permanent,US National,USA,1981-10-22,2005-12-25,,,,,Referral
+2027,User - 2027,15071,Legal Group,Legal Dept 1,Unit 71,Position 121,9,Female,Permanent,US National,USA,1986-11-06,2016-10-16,,,,,Universities
+1187,User - 1187,15114,Retail Fashion,Retail Brand 4,Unit 114,Position 36,9,Female,Permanent,US National,USA,1983-11-23,2005-04-17,,,,,Referral
+1349,User - 1349,15106,Retail Fashion,Retail Brand 3,Unit 106,Position 5,9,Female,Permanent,US National,USA,1984-12-16,2009-01-11,,,,,Referral
+1376,User - 1376,15105,Retail Fashion,Retail Brand 3,Unit 105,Position 94,9,Female,Permanent,US National,USA,1985-07-01,2009-06-14,,,,,Training Academy
+1392,User - 1392,15110,Retail Fashion,Retail Brand 3,Unit 110,Position 85,9,Female,Permanent,US National,USA,1983-11-10,2009-09-06,,,,,LinkedIn
+1395,User - 1395,15107,Retail Fashion,Retail Brand 3,Unit 107,Position 81,9,Female,Permanent,US National,USA,1983-09-06,2009-10-04,,,,,Job Portal
+1598,User - 1598,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 100,9,Female,Permanent,US National,USA,1988-06-15,2013-04-01,,,,,Universities
+1600,User - 1600,15088,Retail Fashion,Retail Brand 1,Unit 88,Position 100,9,Female,Permanent,US National,USA,1988-10-05,2013-04-01,,,,,Universities
+1980,User - 1980,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 116,9,Female,Permanent,US National,USA,1982-06-04,2016-08-09,,,,,LinkedIn
+1351,User - 1351,15204,Risk Group,Risk Department,Unit 204,Position 140,9,Female,Permanent,US National,USA,1987-08-15,2009-01-11,,,,,LinkedIn
+1250,User - 1250,15212,Social Media Group,Social Media Department,Unit 212,Position 21,9,Female,Permanent,US National,USA,1983-06-29,2006-03-19,,,,,Universities
+1456,User - 1456,15179,Retail Fashion,Retail Brand 14,Unit 179,Position 71,9,Female,Permanent,US National,USA,1989-12-24,2011-04-10,,,,,Universities
+1408,User - 1408,15176,Retail Fashion,Retail Brand 14,Unit 176,Position 37,9,Female,Permanent,US National,USA,1984-11-10,2010-03-28,,,,,Job Portal
+1663,User - 1663,15135,Retail Fashion,Retail Brand 7,Unit 135,Position 100,9,Female,Permanent,US National,USA,1983-04-23,2014-03-04,,,,,Agency
+2120,User - 2120,15185,Retail Operations,Operations Dept 2,Unit 185,Position 77,9,Female,Permanent,US National,USA,1986-12-31,2017-05-21,,,,,Training Academy
+1068,User - 1068,15186,Retail Operations,Operations Dept 2,Unit 186,Position 34,9,Female,Permanent,US National,USA,1976-06-26,1998-08-16,,,,,LinkedIn
+1303,User - 1303,15184,Retail Operations,Operations Dept 1,Unit 184,Position 48,9,Female,Permanent,US National,USA,1984-11-01,2008-04-01,,,,,Job Portal
+1419,User - 1419,15184,Retail Operations,Operations Dept 1,Unit 184,Position 35,9,Female,Permanent,US National,USA,1984-06-26,2010-08-08,,,,,Job Portal
+1281,User - 1281,15187,Retail Operations,Operations Dept 2,Unit 187,Position 86,9,Female,Permanent,US National,USA,1969-08-27,2007-05-14,,,,,Universities
+1975,User - 1975,15206,Risk Group,Risk Department,Unit 206,Position 150,9,Female,Permanent,US National,USA,1988-03-05,2016-08-01,,,,,Universities
+1557,User - 1557,15217,Technology Group,Technology Software Dept,Unit 217,Position 64,9,Female,Permanent,US National,USA,1977-02-23,2012-10-01,,,,,Universities
+1939,User - 1939,15217,Technology Group,Technology Software Dept,Unit 217,Position 78,9,Female,Permanent,US National,USA,1983-10-23,2016-04-24,,,,,LinkedIn
+1466,User - 1466,15126,Retail Fashion,Retail Brand 6,Unit 126,Position 88,9,Female,Permanent,US National,USA,1983-04-05,2011-06-12,,,,,Universities
+1059,User - 1059,15038,Finance Group,Finance Dept 5,Unit 38,Position 38,10,Female,Permanent,US National,USA,1975-11-10,1997-07-27,,,,,Training Academy
+1121,User - 1121,15001,Board & Directors,Board Dept 1,Unit 1,Position 147,10,Female,Permanent,US National,USA,1972-05-23,2001-05-06,,,,,Referral
+1738,User - 1738,15225,Technology Group,Technology Infrastructure Dept,Unit 225,Position 82,10,Female,Permanent,US National,USA,1986-12-08,2014-11-02,,,,,Universities
+1717,User - 1717,15057,HR Group,HR Dept 2,Unit 57,Position 79,10,Female,Permanent,US National,USA,1982-03-30,2014-08-10,,,,,Job Portal
+1319,User - 1319,15058,HR Group,HR Dept 2,Unit 58,Position 115,10,Female,Permanent,US National,USA,1981-07-15,2008-06-01,,,,,LinkedIn
+1637,User - 1637,15069,Investment Group,Investment Dept 3,Unit 69,Position 78,10,Female,Permanent,US National,USA,1982-09-06,2013-10-01,,,,,Agency
+1293,User - 1293,15061,Internal Audit Group,Audit Dept 1,Unit 61,Position 6,10,Female,Permanent,US National,USA,1971-04-11,2007-09-02,,,,,Direct
+1214,User - 1214,15014,Finance Group,Finance Dept 4,Unit 14,Position 131,10,Female,Permanent,US National,USA,1982-03-17,2005-09-25,,,,,Referral
+1257,User - 1257,15089,Retail Fashion,Retail Brand 1,Unit 89,Position 20,10,Female,Permanent,US National,USA,1983-02-17,2006-12-25,,,,,Referral
+1390,User - 1390,15112,Retail Fashion,Retail Brand 4,Unit 112,Position 30,10,Female,Permanent,US National,USA,1986-05-17,2009-09-06,,,,,Agency
+1391,User - 1391,15087,Retail Fashion,Retail Brand 1,Unit 87,Position 57,10,Female,Permanent,US National,USA,1977-12-04,2009-09-06,,,,,Agency
+1222,User - 1222,15020,Finance Group,Finance Dept 4,Unit 20,Position 25,10,Female,Permanent,US National,USA,1981-07-04,2005-12-04,,,,,Universities
+1314,User - 1314,15021,Finance Group,Finance Dept 4,Unit 21,Position 133,10,Female,Permanent,US National,USA,1982-07-22,2008-05-11,,,,,Direct
+1276,User - 1276,15071,Legal Group,Legal Dept 1,Unit 71,Position 140,10,Female,Permanent,US National,USA,1981-03-01,2007-05-13,,,,,Agency
+1523,User - 1523,15071,Legal Group,Legal Dept 1,Unit 71,Position 15,10,Female,Permanent,US National,USA,1984-09-06,2012-03-18,,,,,Job Portal
+1776,User - 1776,15071,Legal Group,Legal Dept 1,Unit 71,Position 32,11,Female,Permanent,US National,USA,1976-04-21,2015-04-07,,,,,Job Portal
+1256,User - 1256,15173,Retail Fashion,Retail Brand 13,Unit 173,Position 79,11,Female,Permanent,US National,USA,1982-02-08,2006-12-25,,,,,Job Portal
+1585,User - 1585,15168,Retail Fashion,Retail Brand 13,Unit 168,Position 144,11,Female,Permanent,US National,USA,1978-03-27,2013-02-03,,,,,Universities
+1615,User - 1615,15140,Retail Fashion,Retail Brand 8,Unit 140,Position 149,11,Female,Permanent,US National,USA,1985-04-07,2013-05-12,,,,,Job Portal
+1046,User - 1046,15001,Board & Directors,Board Dept 1,Unit 1,Position 26,11,Female,Permanent,US National,USA,1970-08-29,1995-01-09,,,,,Direct
+1309,User - 1309,15212,Social Media Group,Social Media Department,Unit 212,Position 97,11,Female,Permanent,US National,USA,1982-04-13,2008-04-20,,,,,Universities
+2131,User - 2131,15008,Finance Group,Finance Dept 1,Unit 8,Position 63,11,Female,Permanent,US National,USA,1980-05-12,2017-06-11,,,,,Training Academy
+1381,User - 1381,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 131,11,Female,Permanent,US National,USA,1985-04-08,2009-08-02,,,,,Agency
+2170,User - 2170,15216,Technology Group,Technology Software Dept,Unit 216,Position 75,11,Female,Permanent,US National,USA,1988-04-27,2017-09-10,,,,,Universities
+1103,User - 1103,15147,Retail Fashion,Retail Brand 12,Unit 147,Position 11,11,Female,Permanent,US National,USA,1978-11-03,2000-05-23,,,,,Direct
+1154,User - 1154,15161,Retail Fashion,Retail Brand 13,Unit 161,Position 103,11,Female,Permanent,US National,USA,1978-12-13,2003-01-26,,,,,LinkedIn
+1859,User - 1859,15123,Retail Fashion,Retail Brand 6,Unit 123,Position 127,11,Female,Permanent,US National,USA,1980-03-22,2015-12-13,,,,,Agency
+1265,User - 1265,15216,Technology Group,Technology Software Dept,Unit 216,Position 69,11,Female,Permanent,Expat,USA,1964-08-03,2007-02-18,,,,,LinkedIn
+1348,User - 1348,15043,Finance Group,Finance Dept 6,Unit 43,Position 109,11,Female,Permanent,US National,USA,1984-07-28,2009-01-04,,,,,Training Academy
+1393,User - 1393,15029,Finance Group,Finance Dept 4,Unit 29,Position 123,11,Female,Permanent,US National,USA,1985-02-17,2009-09-13,,,,,Direct
+1690,User - 1690,15006,CEO,CEO Dept 2,Unit 6,Position 17,11,Female,Permanent,US National,USA,1970-11-14,2014-05-01,,,,,Training Academy
+1071,User - 1071,15192,Retail Operations,Operations Dept 3,Unit 192,Position 42,11,Female,Permanent,US National,USA,1976-09-16,1998-10-04,,,,,Universities
+1101,User - 1101,15189,Retail Operations,Operations Dept 3,Unit 189,Position 38,11,Female,Permanent,US National,USA,1977-03-18,2000-05-15,,,,,Direct
+1292,User - 1292,15221,Technology Group,Technology Software Dept,Unit 221,Position 52,11,Female,Permanent,US National,USA,1976-10-20,2007-08-19,,,,,Training Academy
+1118,User - 1118,15162,Retail Fashion,Retail Brand 13,Unit 162,Position 148,11,Female,Permanent,US National,USA,1980-03-25,2001-04-03,,,,,Agency
+1172,User - 1172,15136,Retail Fashion,Retail Brand 7,Unit 136,Position 45,11,Female,Permanent,US National,USA,1974-02-03,2004-10-31,,,,,LinkedIn
+1190,User - 1190,15156,Retail Fashion,Retail Brand 13,Unit 156,Position 71,11,Female,Permanent,US National,USA,1978-08-02,2005-05-22,,,,,Referral
+1034,User - 1034,15065,Investment Group,Investment Dept 2,Unit 65,Position 115,11,Female,Permanent,US National,USA,1966-08-09,1993-08-01,,,,,Job Portal
+1210,User - 1210,15065,Investment Group,Investment Dept 2,Unit 65,Position 11,11,Female,Permanent,US National,USA,1962-12-06,2005-09-04,,,,,Referral
+1346,User - 1346,15129,Retail Fashion,Retail Brand 7,Unit 129,Position 12,11,Female,Permanent,US National,USA,1977-02-19,2008-12-22,,,,,Direct
+1226,User - 1226,15058,HR Group,HR Dept 2,Unit 58,Position 56,12,Female,Permanent,US National,USA,1977-10-09,2005-12-25,,,,,Training Academy
+1441,User - 1441,15217,Technology Group,Technology Software Dept,Unit 217,Position 141,12,Female,Permanent,US National,USA,1967-09-22,2011-02-07,,,,,Job Portal
+1497,User - 1497,15220,Technology Group,Technology Software Dept,Unit 220,Position 67,12,Female,Permanent,US National,USA,1964-04-13,2011-11-13,,,,,Universities
+1336,User - 1336,15044,Finance Group,Finance Dept 6,Unit 44,Position 38,12,Female,Permanent,US National,USA,1974-01-31,2008-09-14,,,,,Training Academy
+1142,User - 1142,15016,Finance Group,Finance Dept 4,Unit 16,Position 124,13,Female,Permanent,US National,USA,1973-12-13,2002-06-09,,,,,Job Portal
+1447,User - 1447,15064,Investment Group,Investment Dept 1,Unit 64,Position 139,13,Female,Permanent,US National,USA,1979-04-09,2011-03-06,,,,,Agency
+1019,User - 1019,15071,Legal Group,Legal Dept 1,Unit 71,Position 53,13,Female,Permanent,US National,USA,1963-08-09,1988-12-18,,,,,Agency
+1158,User - 1158,15007,CEO,CEO Dept 3,Unit 7,Position 139,13,Female,Permanent,US National,USA,1969-10-08,2003-08-07,,,,,Training Academy
+1365,User - 1365,15133,Retail Fashion,Retail Brand 7,Unit 133,Position 118,14,Female,Permanent,US National,USA,1969-01-01,2009-04-01,,,,,Universities
+1503,User - 1503,15055,HR Group,HR Dept 2,Unit 55,Position 143,15,Female,Permanent,US National,USA,1974-06-10,2011-11-20,,,,,Training Academy
+1234,User - 1234,15108,Retail Fashion,Retail Brand 3,Unit 108,Position 24,8,Male,Permanent,Expat,IRE,1958-12-13,2006-04-02,,,,,Agency
+1284,User - 1284,15101,Retail Fashion,Retail Brand 3,Unit 101,Position 57,9,Female,Permanent,Expat,IRE,1973-01-01,2007-06-03,,,,,Agency
+1537,User - 1537,15071,Legal Group,Legal Dept 1,Unit 71,Position 66,7,Male,Outsourced,Expat,IRE,1985-11-30,2012-07-04,,,,,Training Academy
