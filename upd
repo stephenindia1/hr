@@ -1,0 +1,384 @@
+--update
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>GHRD Reporting</title>
+
+         <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="bootstrap337/css/bootstrap.min.css">
+        <!-- Our Custom CSS -->
+        <link rel="stylesheet" href="style.css">
+        <script src="../../js/jquery.min.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+
+        <!-- Special version of Bootstrap that only affects content wrapped in .bootstrap-iso -->
+        <link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" /> 
+
+        <!--Font Awesome (added because you use icons in your prepend/append)-->
+        <link rel="stylesheet" href="https://formden.com/static/cdn/font-awesome/4.4.0/css/font-awesome.min.css" />
+
+        <!-- Inline CSS based on choices in "Settings" tab -->
+        <style>.bootstrap-iso .formden_header h2, .bootstrap-iso .formden_header p, .bootstrap-iso form{font-family: Arial, Helvetica, sans-serif; color: black}.bootstrap-iso form button, .bootstrap-iso form button:hover{color: white !important;} .asteriskField{color: red;}</style>
+
+
+        <script language="JavaScript">
+        <!--
+
+        function enable_text(status)
+        {
+          
+        status=!status; 
+          document.f1.to_gdu.disabled = status;   
+          document.f1.to_pos.disabled = status;         
+          document.f1.to_gdu.value = ""; 
+          if(status == false){
+          document.f1.lwd.disabled = true;
+          document.f1.lsd.disabled = true;
+          document.f1.req_dt.disabled = true;
+          document.f1.rel_dt.disabled = true;
+          document.f1.t_dt.disabled = true;
+          document.f1.lwdnp.disabled = true;
+          document.f1.vol_invol.disabled = true;
+          document.f1.exit_type.disabled = true;
+          document.f1.reg_notreg.disabled = true;
+          document.f1.reason.disabled = true;
+          document.f1.resig_id.disabled = true;
+          document.f1.lwd.value = "";
+          document.f1.lsd.value = "";
+          document.f1.req_dt.value = "";
+          document.f1.rel_dt.value = "";
+          document.f1.lwdnp.value = "";
+          document.f1.vol_invol.value = "";
+          document.f1.exit_type.value = "";
+          document.f1.reg_notreg.value = "";
+          document.f1.reason.value = "";
+          document.f1.t_dt.value = "";
+          document.f1.resig_id.value = "";
+          }
+          else
+          {
+            document.f1.lwd.disabled = false;
+            document.f1.req_dt.disabled = false;
+            document.f1.lsd.disabled = false;
+            document.f1.rel_dt.disabled = false;
+            document.f1.lwdnp.disabled = false;
+            document.f1.vol_invol.disabled = false;
+            document.f1.exit_type.disabled = false;
+            document.f1.reg_notreg.disabled = false;
+            document.f1.reason.disabled = false;
+            document.f1.t_dt.disabled = false;
+            document.f1.resig_id.disabled = false;
+          }
+        }
+        //-->
+        </script>
+
+    </head>
+    <body  onload=enable_text(false);>
+
+                <?php
+                $message = ""; // initial message 
+
+                // Includs database connection
+                  
+                        class DBphp extends SQLite3
+                            {
+                                function __construct()
+                                {
+                                    $this->open('employee.db');
+                                }
+                            }
+
+                         $db = new DBphp();
+
+                // Updating the table row with submited data according to rowid once form is submited 
+                if( isset($_POST['submit_data']) ){
+
+                  // Gets the data from post
+              //    $id = $_POST['id'];
+                  if($_POST['check']=='checked') {
+                                $to_gdu = $_POST['to_gdu'];
+                                $id = $_POST['emp_id'];
+
+                                $query_update = sqlite_exec($this,"update emp set
+                                          emp_gdu = $to_gdu,
+                                          emp_group = (select emp_group from branch_gdu where emp_gdu = $to_gdu),
+                                          emp_dept = (select emp_dept from branch_gdu where emp_gdu = $to_gdu),
+                                          emp_unit = (select emp_unit from branch_gdu where emp_gdu = $to_gdu)
+                                          where emp_id = $eid");
+                                        if (!$query_update) {
+                                        exit("Error in query: '$error'");
+                                    } else {
+                                        echo 'Number of rows modified: ', sqlite_changes($this);
+                                        
+                                         
+                                    }
+
+                              }
+                }
+              //    $email = $_POST['email'];
+
+                  // Makes query with post data
+                //  $query = "UPDATE students set name='$name', email='$email' WHERE rowid=$id";
+                  
+                  // Executes the query
+                  // If data inserted then set success message otherwise set error message
+                  /*Here $db comes from "db_connection.php"
+                  if( $db->exec($query) ){
+                    $message = "Data is updated successfully.";
+                  }else{
+                    $message = "Sorry, Data is not updated.";
+                  }
+                }
+                */
+
+                $id = $_GET['id']; // rowid from url
+               
+                // Prepar the query to get the row data with rowid
+                $query = "SELECT *, round((julianday() - julianday(emp_dob))/365.2422 , 1) as age, round((julianday() - julianday(emp_doe))/365.2422 , 1) as expr FROM emp WHERE emp_id=$id";
+                $result = $db->query($query);
+                $data = $result->fetchArray(); // set the row in $data
+                ?>
+
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+            
+            <?php  include 'navedit.html';  ?>
+
+              <div class="row">
+                    <div class="col-sm-12">
+                        <h4>Employee Record Update</h4> 
+                    <!-- Table for Data  -->
+                        <div><?php echo $message;?></div>
+
+                          <table class="table table-sm">
+                            <form action="update1.php" method="post" name="f1" class="form-control">
+                            <input type="hidden" name="id" value="<?php echo $emp_id;?>">
+                            <tr>
+                              <td class="text-primary"><b>Staff ID</b></td>
+                              <td class="text-info">
+                                        <input name="emp_id" value="<?php echo $data['emp_id']; ?>" type="hidden" class="form-control">
+                                        <?php echo $data['emp_id'];?></td>
+                              <td class="text-primary"><b>Name</b></td>
+                              <td class="text-info"><?php echo $data['emp_name'];?></td>
+                            </tr>
+                            <tr>
+                              <td class="text-primary"><b>Group</b></td>
+                              <td class="text-info"><?php echo $data['emp_group'];?></td>
+                              <td class="text-primary"><b>Date of Employment</b></td>
+                              <?php 
+                                $d = date("d M Y", strtotime($data['emp_doe']));
+                              ?>
+                              <td class="text-info"><?php echo $d;?></td>
+                            </tr>   
+                            <tr>
+                              <td class="text-primary"><b>Department</b></td>
+                              <td class="text-info"><?php echo $data['emp_dept'];?></td>
+                              <td class="text-primary"><b>Age</b></td>
+                              <td class="text-info"><?php 
+
+                                if ($data['emp_gender'] == "Female") 
+                                                    { echo ' Yrs - ';?>
+                                                     <img src="images/female.png" width="20">
+                                                      <?php } 
+                                                        else
+                                                     { echo $data['age'].' Yrs - '; ?>
+                                                      <img src="images/male.png" width="20">
+                                                     <?php } 
+
+                              ?></td>
+                            </tr>   
+                            <tr>
+                              <td class="text-primary"><b>Unit</b></td>
+                              <td class="text-info">
+                                <?php echo $data['emp_unit'];?>                                  
+                                </td>
+                              <td class="text-primary"><b>Experience</b></td>
+                              <td class="text-info"><?php echo $data['expr'].' Yrs';?></td>
+                            </tr>   
+                            <tr>
+                              <td class="text-primary"><b>Employment</b></td>
+                              <td class="text-info"><?php echo $data['emp_bbos'];?></td>
+                              <td class="text-primary"><b>Nationality</b></td>
+                              <td class="text-info"><?php echo $data['emp_nationality'].' - '.$data['emp_nationalitygrouping'];?></td>
+                            </tr>   
+
+                            <tr style="background: #FFDF95">
+                              <td scope=col colspan = 4 class="text-danger"><label class="form-check-label" for="ck1">&nbsp;&nbsp;&nbsp;>>&nbsp;&nbsp;&nbsp; Permanent Transfer / Actingship   &nbsp;&nbsp;&nbsp; or &nbsp;&nbsp;&nbsp;     Resignation / Termination</label>   &nbsp;&nbsp;&nbsp;  
+                                <input class="form-check-input" type="checkbox" name="userchk" check="checked" onclick="enable_text(this.checked)" ></sup>
+                              </td>
+                            </tr>
+                            <tr style="background: #eef9fb">
+                              <td class="text-primary"><b>From GDU:</b></td>
+                              <td class="text-info"><?php echo $data['emp_gdu'];?></td>
+                              <td class="text-primary"><b>To GDU:</b></td>
+                              <td class="text-danger">
+                                  <!--<input name="to_gdu" type="text" class="form-control"> -->
+
+                                  <select class="form-control" name="to_gdu">
+                                    <?php
+                                            $query_gdu = "SELECT * FROM branch_gdu";
+
+                                            $resultgdu = $db->query($query_gdu);
+
+                                            while ($rowgdu = $resultgdu->fetchArray()) {
+                                              echo '<option value="'.$rowgdu['emp_gdu'].'">'.$rowgdu['emp_gdu'].'    -    '.$rowgdu['emp_dept'].'    -    '.$rowgdu['emp_unit'].'</option>';
+                                            }
+
+                                          ?>
+                                  </select>
+                              </td>
+                            </tr>
+                            <tr style="background: #eef9fb">
+                              <td class="text-primary"><b>To Position:</b></td>
+                              <td class="text-info"><input name="to_pos" value="<?php echo $data['emp_position'];?>" type="text" class="form-control">                                
+                              </td>
+                              <td class="text-primary"><b></b></td>
+                              <td class="text-danger"></td>
+                            </tr>
+                            <tr style="background: #FEE8D2">
+                              <td class="text-primary"><b>Exit ID:</b></td>
+                              <td class="text-info"><input name="resig_id" type="text" class="form-control">                                
+                              </td>
+                              <td class="text-primary"><b></b></td>
+                              <td class="text-danger"></td>
+                            </tr>
+                            <tr style="background: #FEE8D2">
+                              <td class="text-primary"><b>Last Working Date (LWD)</b></td>
+                              <td class="text-info">
+                                  <input class="form-control" name="lwd" placeholder="YYYY-MM-DD" type="text"/></td>
+                              <td class="text-primary"><b>Resignation Request Date</b></td>
+                              <td class="text-info">
+                                <input class="form-control" name="req_dt" placeholder="YYYY-MM-DD" type="text"/>
+                            </tr>
+                            <tr style="background: #FEE8D2">
+                              <td class="text-primary"><b>Last Service Date W/Notice</b></td>
+                              <td class="text-info">
+                                  <input class="form-control" name="lsd" placeholder="YYYY-MM-DD" type="text"/></td>
+                              <td class="text-primary"><b>Planned Relieval Date</b></td>
+                              <td class="text-info">
+                                <input class="form-control" name="rel_dt" placeholder="YYYY-MM-DD" type="text"/>
+                            </tr>
+                            <tr style="background: #FEE8D2">
+                              <td class="text-primary"><b>LWD Notice Period</b></td>
+                              <td class="text-info">
+                                  <input class="form-control" name="lwdnp" placeholder="YYYY-MM-DD" type="text"/></td>
+                              <td class="text-primary"><b>Voluntary / In Voluntary</b></td>
+                              <td class="text-info">
+                                <select class="form-control" name="vol_invol">
+                                  <option value="Voluntary">Voluntary</option>
+                                  <option value="In Voluntary">In Voluntary</option>
+                                </select>
+                              </td>
+                            </tr>
+                            <tr style="background: #FEE8D2">
+                              <td class="text-primary"><b>Reg / Not Reg</b></td>
+                              <td class="text-info">                                  
+                                <select class="form-control" name="reg_notreg">
+                                  <option value="Regretted">Regretted</option>
+                                  <option value="Not regretted">Not Regretted</option>
+                                </select>
+                              </td>
+                              <td class="text-primary"><b>Exit Type</b></td>
+                              <td class="text-info">
+                                <select class="form-control" name="exit_type">
+                                  <option value="resigned">Resigned</option>
+                                  <option value="termination">Terminated</option>
+                                </select>
+                              </td>
+                            </tr>
+                            <tr style="background: #FEE8D2">
+                              <td class="text-primary"><b>Exit Reason:</b></td>
+                              <td class="text-info"><input name="reason" type="text" class="form-control">                                
+                              </td>
+                              <td class="text-primary"><b>Termination Date</b></td>
+                              <td class="text-danger">
+                                <input class="form-control" name="t_dt" placeholder="YYYY-MM-DD - Only @ Termination" type="text"/>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td><a class="btn btn-info btn-sm" href="indexedit.php" role="button">Cancel</a></td>
+                              <td></td>
+                              <td></td>
+                              <td><input name="submit_data" type="submit" class="btn btn-success btn-sm" value="Update Employee Record"></td>
+                            </tr>
+                            </form>
+                          </table>
+
+                    </div>
+
+
+        <!-- jQuery CDN -->
+         <script src="hjs/jquery-1.12.0.min.js"></script>
+         <!-- Bootstrap Js CDN -->
+         <script src="../js/bootstrap.min.js"></script>
+
+         <script type="text/javascript">
+             $(document).ready(function () {
+                 $('#sidebarCollapse').on('click', function () {
+                     $('#sidebar').toggleClass('active');
+                 });
+             });
+         </script>
+
+        <!-- Extra JavaScript/CSS added manually in "Settings" tab -->
+        <!-- Include jQuery -->
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+        <!-- Include Date Range Picker -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
+
+        <script>
+          $(document).ready(function(){
+            var date_input=$('input[name="lwd"]'); //our date input has the name "lwd"
+             var date_input1=$('input[name="req_dt"]'); //our date input has the name "lwd"
+             var date_input2=$('input[name="lwdnp"]'); //our date input has the name "lwd"
+             var date_input3=$('input[name="rel_dt"]'); //our date input has the name "lwd"
+             var date_input4=$('input[name="lsd"]'); //our date input has the name "last service date w/Notice"
+             var date_input5=$('input[name="t_dt"]'); //our date input has the name "termin_date"
+            var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
+            date_input.datepicker({
+              format: 'yyyy-mm-dd',
+              container: container,
+              todayHighlight: true,
+              autoclose: true,
+            })
+            date_input1.datepicker({
+              format: 'yyyy-mm-dd',
+              container: container,
+              todayHighlight: true,
+              autoclose: true,
+            })
+            date_input2.datepicker({
+              format: 'yyyy-mm-dd',
+              container: container,
+              todayHighlight: true,
+              autoclose: true,
+            })
+            date_input3.datepicker({
+              format: 'yyyy-mm-dd',
+              container: container,
+              todayHighlight: true,
+              autoclose: true,
+            })
+            date_input4.datepicker({
+              format: 'yyyy-mm-dd',
+              container: container,
+              todayHighlight: true,
+              autoclose: true,
+            })
+            date_input5.datepicker({
+              format: 'yyyy-mm-dd',
+              container: container,
+              todayHighlight: true,
+              autoclose: true,
+            })
+          })
+        </script>
+    </body>
+</html> 
