@@ -1,0 +1,26 @@
+---v_emp_data
+SELECT    
+    emp_id,
+    emp_name,
+    emp_gdu,
+    emp_group,
+    emp_dept,
+    emp_unit,
+    emp_position,
+    emp_bbos,
+    emp_kwtnk,
+    emp_gender,
+    emp_nationalitygrouping,
+    emp_dob,
+    emp_doe,
+    emp_lwd,
+    emp_leaver,
+    emp_grade,
+    emp_resigtermin_requestid,
+    Age,
+    emp_ref_note,
+    data_record,     
+    CASE CAST(STRFTIME('%m', data_record) as int) WHEN 1 THEN 'Jan' WHEN 2 THEN 'Feb' WHEN 3 THEN 'Mar' WHEN 4 THEN 'Apr' WHEN 5 THEN 'May' WHEN 6 THEN 'Jun' WHEN 7 THEN 'Jul' WHEN 8 THEN 'Aug' WHEN 9 THEN 'Sep' WHEN 10 THEN 'Oct' WHEN 11 THEN 'Nov' WHEN 12 THEN 'Dec' else '' end as Mth,
+    CAST(STRFTIME('%Y', data_record) as int) as Yr
+FROM
+emp_data
