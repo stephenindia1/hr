@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <title>GHRD Reporting</title>
+
+         <!-- Bootstrap CSS CDN -->
+        <link rel="stylesheet" href="bootstrap337/css/bootstrap.min.css">
+        <!-- Our Custom CSS -->
+        <link rel="stylesheet" href="style.css">
+  <script src="js/bootstrap337/js/collapse.js"></script><!-- jquery 3.3.1 min.js -->
+  <script src="../js/bootstrap.min.js"></script>
+    </head>
+    <body>
+
+        <!-- COnnect to SQLite DB     -->
+    <?php
+            $rec1 = $_GET['val'];
+      class DBphp extends SQLite3
+            {
+                function __construct()
+                {
+                    $this->open('employee.db');
+                }
+            }
+         $db = new DBphp();
+
+        $result1 = $db->query("SELECT Mth||'-'||Yr as mon, SUM(CASE WHEN emp_bbos = 'BB' THEN 1 Else 0 END) as BB, SUM(CASE WHEN emp_bbos = 'OS' THEN 1 Else 0 END) as OS, 
+            SUM(CASE WHEN emp_kwtnk = 'KWT' THEN 1 Else 0 END) as KWT, SUM(CASE WHEN emp_kwtnk = 'NK' THEN 1 Else 0 END) as NK, 
+            SUM(CASE WHEN emp_kwtnk = 'NK' AND emp_bbos = 'BB' THEN 1 Else 0 END) as BB_NK, count(emp_bbos) as cnt , data_record
+            FROM v_emp_data where data_record = $rec1 group by Mth, Yr");
+    ?>
+
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+          <?php  include 'nav.html';  ?>            
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h4>Headcount</h4> 
+                        <a href="index.php"> <span class="label label-info"><< Back << </span></a>
+                        <?php 
+                        $mot = substr($rec1, 6, 2);
+                        $yer = substr($rec1, 1, 4);  ?>
+                        <span class="label label-warning"><?php echo $mot .'-'.$yer; ?></span>
+                    <!-- Table for Data  -->
+                        <table class="table table-condensed" style="border-collapse:collapse;">
+                          <thead>
+                            <tr style="background: #EBF5FB; color: #154360;">
+                              <th class="col-sm-1">S No</th>
+                              <th class="col-sm-2">Month-Yr</th>
+                              <th class="col-sm-1">BB</th>
+                              <th class="col-sm-1">OS</th>
+                              <th class="col-sm-1">KWT</th>
+                              <th class="col-sm-1">BB-NK</th>
+                              <th class="col-sm-1">NK</th>
+                              <th class="col-sm-1">K%</th>
+                              <th class="col-sm-1">BB K%</th>
+                              <th class="col-sm-2">TOTAL</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <?php                                
+
+                           $x = 1;                           
+                            while ($row1 = $result1->fetchArray()) {
+                              $datarec = $row1['data_record'];
+                                                                
+                            ?>
+                            <tr data-toggle="collapse" data-target="#demo<?php echo $x; ?>" class="accordion-toggle">
+                              <td><font size="1"><?php echo $x; ?></font></td>
+                              <td><font size="2"><?php echo $row1['mon']; ?></font></td>
+                              <td><font size="2"><?php echo $row1['BB']; ?></font></td>
+                              <td><font size="2"><?php echo $row1['OS']; ?></font></td>
+                              <td><font size="2"><?php echo $row1['KWT']; ?></font></td>
+                              <td><font size="2"><?php echo $row1['BB_NK']; ?></font></td>
+                              <td><font size="2"><?php echo $row1['NK']; ?></font></td>
+                              <td><font size="2"><?php echo number_format((($row1['KWT']/$row1['cnt'])*100),2).'%' ; ?></font></td>
+                              <td><font size="2"><?php echo number_format((($row1['KWT']/$row1['BB'])*100),2).'%' ; ?></font></td>
+                              <td><font size="2"><?php echo $row1['cnt']; ?></font></td>
+                            </tr>
+                            <?php
+                                         $query2 = $db->prepare("SELECT 
+                                                                  emp_group,
+                                                                  emp_dept,
+                                                                  SUM(CASE WHEN emp_bbos = 'BB' AND emp_kwtnk = 'KWT' THEN 1 Else 0 END) as BB_KWT,
+                                                                  SUM(CASE WHEN emp_bbos = 'BB' THEN 1 Else 0 END) as BB_TOTAL,
+                                                                  SUM(CASE WHEN emp_bbos = 'BB' AND emp_kwtnk = 'NK' THEN 1 Else 0 END) as BB_NK,
+                                                                  SUM(CASE WHEN emp_bbos = 'OS' AND emp_kwtnk = 'NK' THEN 1 Else 0 END) as OS_NK,
+                                                                  COUNT(emp_id) as Bank_Wide,
+                                                                  ROUND(((SUM(CASE WHEN emp_kwtnk = 'KWT' THEN 1 Else 0 END)/SUM(cast((CASE WHEN emp_bbos = 'BB' THEN 1 Else 0 END) as float)))*100),2)||'%' as BB_K_PERC,
+                                                                  ROUND(((SUM(CASE WHEN emp_kwtnk = 'KWT' THEN 1 Else 0 END)/(CAST(COUNT(emp_bbos) as float)))*100),2)||'%' as BANKWIDE_K_PERC
+                                                                   from
+                                                              emp_data
+                                                                  WHERE
+                                                                      data_record = ?
+                                                                  GROUP BY
+                                                                      emp_group, emp_dept");
+                                         $query2->bindParam(1, $datarec, SQLITE3_TEXT);
+                                         $result2 = $query2->execute();
+                            ?>
+                            <tr class="hiddenRow">
+                                <td colspan="12" class="hiddenRow">
+                                    <div class="accordian-body collapse" id="demo<?php echo $x; ?>"> 
+                                          
+                                             <div class="container-fluid">
+                                                <table class="table table-hover">
+                                                    <tr style="background: #ffe6cc; color: #002080;">
+                                                        <th class="col-sm-4"><font size="2">Emp Group</font></th>
+                                                        <th class="col-sm-2"><font size="2">Emp Dept</font></th>
+                                                        <th class="col-sm-1"><font size="2">BB KWT</font></th>
+                                                        <th class="col-sm-1"><font size="2">BB TOTAL</font></th>
+                                                        <th class="col-sm-1"><font size="2">BB KWT%</font></th>
+                                                        <th class="col-sm-1"><font size="2">OS TOTAL</font></th>
+                                                        <th class="col-sm-1"><font size="2">BANK TOTAL</font></th>
+                                                        <th class="col-sm-1"><font size="2">BANK KWT%</font></th>
+                                                    </tr>
+
+                                      <?php 
+                                          while ($row2 = $result2->fetchArray()) {
+                                            ?>
+                                                <tr style="color: #002080;">
+                                                  <td class="col-sm-4"><font size="2"><?php echo $row2['emp_group']; ?></font></td>
+                                                  <td class="col-sm-2"><font size="2"><?php echo $row2['emp_dept']; ?></font></td>
+                                                  <td class="col-sm-1"><font size="2"><?php echo $row2['BB_KWT']; ?></font></td>   
+                                                  <td class="col-sm-1"><font size="2"><?php echo $row2['BB_TOTAL']; ?></font></td> 
+                                                  <td class="col-sm-1"><font size="2"><?php echo $row2['BB_K_PERC']; ?></font></td>     
+                                                  <td class="col-sm-1"><font size="2"><?php echo $row2['OS_NK']; ?></font></td>  
+                                                  <td class="col-sm-1"><font size="2"><?php echo $row2['Bank_Wide']; ?></font></td>
+                                                  <td class="col-sm-1"><font size="2"><?php echo $row2['BANKWIDE_K_PERC']; ?></font></td> 
+                                                </tr>
+                                             <?php 
+                                          }
+                                       ?>    
+                                           </table>
+                                    </div> 
+                                </td>
+                            </tr>
+                                <?php
+                                $x = $x +1;
+                                    }
+                                    $db->close();
+                                ?>
+                          </tbody>
+                      </table>
+                    </div>
+                </div>
+
+                <div class="line"></div>
+
+
+                
+                <p>..........................................................................................................................................................................
+                ...........................................................................................................................................................................
+            ...........................................................................................................................................................................</p>
+            </div>
+        </div>
+
+
+
+
+
+        <!-- jQuery CDN -->
+         <script src="js/jquery-1.12.0.min.js"></script>
+         <!-- Bootstrap Js CDN -->
+         <script src="../../js/bootstrap.min.js"></script>
+
+         <script type="text/javascript">
+             $(document).ready(function () {
+                 $('#sidebarCollapse').on('click', function () {
+                     $('#sidebar').toggleClass('active');
+                 });
+             });
+         </script>
+    </body>
+</html>
